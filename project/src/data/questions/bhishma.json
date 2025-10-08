@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Bhishma’s father?",
+    "options": ["Shantanu", "Pandu", "Krishna", "Vichitravirya"],
+    "correctAnswer": 0,
+    "explanation": "Bhishma was the son of King Shantanu of Hastinapura."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "Who was Bhishma’s mother?",
+    "options": ["Satyavati", "Ganga", "Ambika", "Amba"],
+    "correctAnswer": 1,
+    "explanation": "The river goddess Ganga was Bhishma’s mother."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "What was Bhishma’s original name?",
+    "options": ["Devavrata", "Gangadatta", "Parashurama", "Vasushena"],
+    "correctAnswer": 0,
+    "explanation": "Bhishma was originally named Devavrata before taking his vow."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "Why was Devavrata called Bhishma?",
+    "options": ["For his battle skills", "For his terrible vow", "For his wisdom", "For his mercy"],
+    "correctAnswer": 1,
+    "explanation": "He took a terrible vow of lifelong celibacy, earning the name Bhishma."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "What vow made Bhishma famous?",
+    "options": ["Vow of silence", "Vow of celibacy", "Vow of fasting", "Vow of exile"],
+    "correctAnswer": 1,
+    "explanation": "Bhishma vowed lifelong celibacy to ensure Satyavati’s children inherited the throne."
+  },
+  {
+    "id": 6,
+    "level": 2,
+    "question": "Who gave Bhishma the boon of choosing his time of death?",
+    "options": ["Krishna", "Shiva", "His father Shantanu", "Vishnu"],
+    "correctAnswer": 2,
+    "explanation": "Shantanu blessed Bhishma with the boon of ‘iccha mrityu’—choosing the time of his death."
+  },
+  {
+    "id": 7,
+    "level": 2,
+    "question": "Who was Shantanu’s second wife, for whom Bhishma took his vow?",
+    "options": ["Ambika", "Ambalika", "Satyavati", "Matsyagandha"],
+    "correctAnswer": 2,
+    "explanation": "Bhishma took his vow so that Shantanu could marry Satyavati."
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "question": "Which sage taught Bhishma the use of divine weapons?",
+    "options": ["Vashistha", "Parashurama", "Drona", "Vyasa"],
+    "correctAnswer": 1,
+    "explanation": "Bhishma learned celestial weapons from Parashurama."
+  },
+  {
+    "id": 9,
+    "level": 2,
+    "question": "Who challenged Bhishma to a duel on behalf of Amba?",
+    "options": ["Krishna", "Parashurama", "Karna", "Drona"],
+    "correctAnswer": 1,
+    "explanation": "Amba sought Parashurama’s help, and he fought Bhishma in a long battle."
+  },
+  {
+    "id": 10,
+    "level": 2,
+    "question": "Why did Amba hate Bhishma?",
+    "options": ["He insulted her", "He kidnapped her but refused to marry her", "He killed her father", "He sided with Kauravas"],
+    "correctAnswer": 1,
+    "explanation": "Bhishma abducted Amba but refused to marry her due to his vow."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "Who was Bhishma’s half-brother from Satyavati?",
+    "options": ["Vyasa", "Vichitravirya", "Chitrangada", "Both"],
+    "correctAnswer": 3,
+    "explanation": "Satyavati’s sons Chitrangada and Vichitravirya were Bhishma’s half-brothers."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "What role did Bhishma play in Hastinapura?",
+    "options": ["King", "Commander", "Grand Regent and protector", "Priest"],
+    "correctAnswer": 2,
+    "explanation": "He served as the regent and protector of Hastinapura for generations."
+  },
+  {
+    "id": 13,
+    "level": 3,
+    "question": "Whom did Bhishma abduct for Vichitravirya’s marriage?",
+    "options": ["Amba, Ambika, Ambalika", "Kunti", "Draupadi", "Gandhari"],
+    "correctAnswer": 0,
+    "explanation": "Bhishma abducted the three princesses of Kashi for Vichitravirya."
+  },
+  {
+    "id": 14,
+    "level": 3,
+    "question": "What was Bhishma’s position in the Kurukshetra war?",
+    "options": ["Neutral observer", "Commander of Kaurava army", "Commander of Pandava army", "Advisor only"],
+    "correctAnswer": 1,
+    "explanation": "Bhishma was the commander-in-chief of the Kaurava army in the beginning."
+  },
+  {
+    "id": 15,
+    "level": 3,
+    "question": "How many days did Bhishma lead the Kaurava army?",
+    "options": ["5", "10", "15", "20"],
+    "correctAnswer": 1,
+    "explanation": "He commanded the Kaurava army for the first 10 days of the war."
+  },
+  {
+    "id": 16,
+    "level": 3,
+    "question": "Why did Bhishma refuse to kill the Pandavas?",
+    "options": ["Because of Krishna", "Because of his love for them", "Because of his vow to protect Hastinapura", "All of these"],
+    "correctAnswer": 3,
+    "explanation": "Bhishma loved the Pandavas and also upheld his vow to protect Hastinapura."
+  },
+  {
+    "id": 17,
+    "level": 3,
+    "question": "Who revealed the secret of defeating Bhishma?",
+    "options": ["Krishna", "Vidura", "Bhishma himself", "Drona"],
+    "correctAnswer": 2,
+    "explanation": "Bhishma himself revealed that he would not fight against a woman or Shikhandi."
+  },
+  {
+    "id": 18,
+    "level": 3,
+    "question": "Who helped Arjuna defeat Bhishma?",
+    "options": ["Krishna", "Bhima", "Shikhandi", "Yudhishthira"],
+    "correctAnswer": 2,
+    "explanation": "Arjuna used Shikhandi as a shield, as Bhishma refused to fight Shikhandi."
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "question": "On which day of the Kurukshetra war did Bhishma fall?",
+    "options": ["5th day", "10th day", "15th day", "18th day"],
+    "correctAnswer": 1,
+    "explanation": "Bhishma was felled on the 10th day of the war."
+  },
+  {
+    "id": 20,
+    "level": 3,
+    "question": "What was Bhishma’s state after falling in battle?",
+    "options": ["He died immediately", "He lay on a bed of arrows", "He was captured", "He escaped"],
+    "correctAnswer": 1,
+    "explanation": "Bhishma fell on a bed of arrows shot by Arjuna."
+  },
+  {
+    "id": 21,
+    "level": 4,
+    "question": "Who stood by Bhishma during his bed of arrows?",
+    "options": ["Krishna", "Yudhishthira", "Pandavas and Kauravas", "All of these"],
+    "correctAnswer": 3,
+    "explanation": "All warriors, including Krishna and the Pandavas, gathered to honor Bhishma."
+  },
+  {
+    "id": 22,
+    "level": 4,
+    "question": "What boon allowed Bhishma to remain alive on the bed of arrows?",
+    "options": ["Shiva’s boon", "Boon of iccha mrityu", "Vishnu’s blessing", "Divine armor"],
+    "correctAnswer": 1,
+    "explanation": "His boon of iccha mrityu (death at will) kept him alive until he chose to die."
+  },
+  {
+    "id": 23,
+    "level": 4,
+    "question": "What season did Bhishma wait for to die?",
+    "options": ["Summer", "Autumn", "Winter", "Uttarayana (sun’s northward movement)"],
+    "correctAnswer": 3,
+    "explanation": "Bhishma chose to die during Uttarayana, considered auspicious."
+  },
+  {
+    "id": 24,
+    "level": 4,
+    "question": "What text did Bhishma narrate to Yudhishthira?",
+    "options": ["Bhagavad Gita", "Shanti Parva and Anushasana Parva", "Vishnu Sahasranama", "Both 2 and 3"],
+    "correctAnswer": 3,
+    "explanation": "Bhishma narrated Shanti Parva, Anushasana Parva, and Vishnu Sahasranama to Yudhishthira."
+  },
+  {
+    "id": 25,
+    "level": 4,
+    "question": "What was Bhishma’s advice to Yudhishthira?",
+    "options": ["Rule with dharma", "Forgive enemies", "Care for subjects", "All of these"],
+    "correctAnswer": 3,
+    "explanation": "Bhishma gave Yudhishthira detailed guidance on dharma and kingship."
+  },
+  {
+    "id": 26,
+    "level": 5,
+    "question": "Which avatar of Vishnu cursed Bhishma in a past life?",
+    "options": ["Rama", "Parashurama", "Matsya", "Narasimha"],
+    "correctAnswer": 1,
+    "explanation": "As one of the eight Vasus, Bhishma was cursed by Parashurama to be born as a human."
+  },
+  {
+    "id": 27,
+    "level": 5,
+    "question": "What was Bhishma’s role in Hastinapura succession?",
+    "options": ["Ensured Pandu’s rule", "Protected Dhritarashtra’s throne", "Guided Yudhishthira", "All of these"],
+    "correctAnswer": 3,
+    "explanation": "Bhishma maintained the throne’s continuity, protecting all successors."
+  },
+  {
+    "id": 28,
+    "level": 5,
+    "question": "What did Bhishma give to Karna before the war?",
+    "options": ["Brahmastra", "Blessings and knowledge", "Divine armor", "Nothing"],
+    "correctAnswer": 1,
+    "explanation": "Despite opposing him, Bhishma blessed Karna before the war began."
+  },
+  {
+    "id": 29,
+    "level": 5,
+    "question": "What was Bhishma’s relationship with Krishna?",
+    "options": ["Hostile", "Devotional", "Neutral", "Rival"],
+    "correctAnswer": 1,
+    "explanation": "Bhishma was a great devotee of Krishna despite fighting on Kauravas’ side."
+  },
+  {
+    "id": 30,
+    "level": 5,
+    "question": "Why did Krishna break his vow during Bhishma’s battle?",
+    "options": ["To protect Arjuna", "To honor Bhishma", "To end the war quickly", "To punish Duryodhana"],
+    "correctAnswer": 0,
+    "explanation": "Krishna lifted a wheel as a weapon to protect Arjuna from Bhishma’s attack."
+  },
+  {
+    "id": 31,
+    "level": 6,
+    "question": "Which scripture praises Bhishma’s devotion?",
+    "options": ["Bhagavata Purana", "Mahabharata", "Vishnu Sahasranama", "All of these"],
+    "correctAnswer": 3,
+    "explanation": "Bhishma’s devotion is praised across scriptures."
+  },
+  {
+    "id": 32,
+    "level": 6,
+    "question": "What curse did Amba take against Bhishma?",
+    "options": ["To be reborn as Shikhandi and kill him", "To destroy Hastinapura", "To defeat the Kauravas", "To end Krishna’s clan"],
+    "correctAnswer": 0,
+    "explanation": "Amba was reborn as Shikhandi to cause Bhishma’s fall."
+  },
+  {
+    "id": 33,
+    "level": 6,
+    "question": "What was Bhishma’s role in Draupadi’s insult?",
+    "options": ["He stopped it", "He was silent", "He encouraged it", "He left"],
+    "correctAnswer": 1,
+    "explanation": "Bhishma remained silent, bound by his duty to the throne."
+  },
+  {
+    "id": 34,
+    "level": 6,
+    "question": "Who pierced Bhishma with arrows during his fall?",
+    "options": ["Bhima", "Karna", "Arjuna", "Shikhandi"],
+    "correctAnswer": 2,
+    "explanation": "Arjuna’s arrows brought Bhishma down with Shikhandi’s help."
+  },
+  {
+    "id": 35,
+    "level": 6,
+    "question": "What did Bhishma do when thirsty on the arrow bed?",
+    "options": ["Cursed Arjuna", "Asked for water", "Arjuna shot arrows to bring water", "Krishna gave nectar"],
+    "correctAnswer": 2,
+    "explanation": "Arjuna shot arrows into the ground, releasing Ganga’s water to quench Bhishma’s thirst."
+  },
+  {
+    "id": 36,
+    "level": 7,
+    "question": "What lesson does Bhishma’s life symbolize?",
+    "options": ["Devotion and sacrifice", "Failure of silence", "Duty above self", "All of these"],
+    "correctAnswer": 3,
+    "explanation": "Bhishma’s life is a symbol of sacrifice, devotion, and complex dharma."
+  },
+  {
+    "id": 37,
+    "level": 7,
+    "question": "Which part of Mahabharata contains Bhishma’s teachings?",
+    "options": ["Adi Parva", "Shanti Parva", "Virata Parva", "Vana Parva"],
+    "correctAnswer": 1,
+    "explanation": "Shanti Parva includes Bhishma’s teachings to Yudhishthira."
+  },
+  {
+    "id": 38,
+    "level": 7,
+    "question": "Which stotra did Bhishma compose?",
+    "options": ["Bhagavad Gita", "Vishnu Sahasranama", "Shiva Tandava", "Gita Govinda"],
+    "correctAnswer": 1,
+    "explanation": "Bhishma composed and narrated the Vishnu Sahasranama."
+  },
+  {
+    "id": 39,
+    "level": 8,
+    "question": "How is Bhishma remembered in the Mahabharata?",
+    "options": ["As the grandsire of Kuru dynasty", "As the great warrior", "As a wise teacher", "All of these"],
+    "correctAnswer": 3,
+    "explanation": "He is remembered as the grandsire, warrior, and teacher of dharma."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "What was Bhishma’s final act before death?",
+    "options": ["Blessed Yudhishthira", "Gave wisdom", "Chanted Vishnu Sahasranama", "All of these"],
+    "correctAnswer": 3,
+    "explanation": "Before dying, Bhishma blessed Yudhishthira, imparted wisdom, and recited Vishnu Sahasranama."
+  }
+]

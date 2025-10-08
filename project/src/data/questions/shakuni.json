@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Shakuni's father?",
+    "options": ["Subala", "Shantanu", "Somadatta", "Dhritarashtra"],
+    "correctAnswer": 0,
+    "explanation": "Shakuni was the son of King Subala of Gandhara."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "Which kingdom did Shakuni belong to?",
+    "options": ["Magadha", "Gandhara", "Panchala", "Matsya"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni was the prince of Gandhara, hence often called 'Gandhara Naresh'."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "Who was Shakuni’s sister?",
+    "options": ["Kunti", "Gandhari", "Madri", "Draupadi"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni’s sister was Gandhari, who married Dhritarashtra of Hastinapura."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "What was Shakuni famous for?",
+    "options": ["Strength", "Wisdom", "Deceit and cunning", "Archery"],
+    "correctAnswer": 2,
+    "explanation": "Shakuni was infamous for his deceit, cunning, and manipulative skills."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "What special dice did Shakuni use?",
+    "options": ["Ivory dice", "Magical dice made from his father's bones", "Crystal dice", "Golden dice"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni’s dice were believed to be made from his father’s bones, which always obeyed his will."
+  },
+  {
+    "id": 6,
+    "level": 2,
+    "question": "Who was Shakuni’s main rival among the Pandavas?",
+    "options": ["Arjuna", "Yudhishthira", "Bhima", "Nakula"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni targeted Yudhishthira with his gambling skills to destroy the Pandavas."
+  },
+  {
+    "id": 7,
+    "level": 2,
+    "question": "Why did Shakuni hate the Kuru dynasty?",
+    "options": ["His father’s imprisonment", "His sister’s blindfold", "His exile", "Personal insult"],
+    "correctAnswer": 0,
+    "explanation": "Shakuni’s family was imprisoned and starved by Bhishma, which filled him with hatred."
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "question": "Who did Shakuni mainly manipulate to cause conflict?",
+    "options": ["Bhishma", "Karna", "Duryodhana", "Kripa"],
+    "correctAnswer": 2,
+    "explanation": "Shakuni manipulated Duryodhana into opposing the Pandavas and escalating conflict."
+  },
+  {
+    "id": 9,
+    "level": 2,
+    "question": "What role did Shakuni play in Draupadi’s humiliation?",
+    "options": ["Advisor", "Dice player", "Silent spectator", "None"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni rolled the dice that led to Draupadi being dragged into the court."
+  },
+  {
+    "id": 10,
+    "level": 2,
+    "question": "What title is Shakuni often given in the Mahabharata?",
+    "options": ["Master of Dice", "Prince of Darkness", "Lord of Trickery", "Deceiver of Dharma"],
+    "correctAnswer": 0,
+    "explanation": "Shakuni is often remembered as the master of dice due to his manipulation in gambling."
+  },
+  {
+    "id": 11,
+    "level": 3,
+    "question": "What was Shakuni’s primary weapon in the war?",
+    "options": ["Sword", "Mace", "Dice and cunning strategies", "Bow and arrow"],
+    "correctAnswer": 2,
+    "explanation": "Shakuni relied on strategy and deceit more than physical combat."
+  },
+  {
+    "id": 12,
+    "level": 3,
+    "question": "Which Pandava killed Shakuni?",
+    "options": ["Arjuna", "Bhima", "Sahadeva", "Nakula"],
+    "correctAnswer": 2,
+    "explanation": "Sahadeva killed Shakuni in the Kurukshetra war as vowed earlier."
+  },
+  {
+    "id": 13,
+    "level": 3,
+    "question": "What was Shakuni’s relationship with the Kauravas?",
+    "options": ["Uncle", "Cousin", "Advisor only", "Enemy"],
+    "correctAnswer": 0,
+    "explanation": "Shakuni was the maternal uncle of the Kauravas, being Gandhari’s brother."
+  },
+  {
+    "id": 14,
+    "level": 3,
+    "question": "What was Shakuni’s strategy in the game of dice?",
+    "options": ["Play honestly", "Cheat using magical dice", "Distract opponents", "Switch dice"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni cheated using magical dice that would roll in his favor."
+  },
+  {
+    "id": 15,
+    "level": 3,
+    "question": "Which Pandava did Shakuni fear most?",
+    "options": ["Arjuna", "Bhima", "Yudhishthira", "Nakula"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni feared Bhima, who had sworn to kill him for Draupadi’s humiliation."
+  },
+  {
+    "id": 16,
+    "level": 4,
+    "question": "How did Shakuni convince Dhritarashtra to allow the dice game?",
+    "options": ["Flattered him", "Promised no conflict", "Manipulated his blindness and love for Duryodhana", "Threatened him"],
+    "correctAnswer": 2,
+    "explanation": "Shakuni exploited Dhritarashtra’s blind love for Duryodhana to allow the gambling game."
+  },
+  {
+    "id": 17,
+    "level": 4,
+    "question": "Which vow did Sahadeva make regarding Shakuni?",
+    "options": ["To defeat him in dice", "To kill him in war", "To exile him", "To capture him"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva vowed that he would kill Shakuni for his deceit."
+  },
+  {
+    "id": 18,
+    "level": 4,
+    "question": "How was Shakuni described in terms of appearance?",
+    "options": ["Tall and strong", "Elderly with cunning eyes", "Handsome warrior", "Armored general"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni is often described as older, with a cunning look that reflected his deceitful mind."
+  },
+  {
+    "id": 19,
+    "level": 4,
+    "question": "What did Shakuni symbolize in the epic?",
+    "options": ["Justice", "Fate", "Deceit and destruction", "Wisdom"],
+    "correctAnswer": 2,
+    "explanation": "Shakuni symbolized deceit, manipulation, and the destructive power of cunning."
+  },
+  {
+    "id": 20,
+    "level": 4,
+    "question": "What was Shakuni’s final fate?",
+    "options": ["Escaped war", "Killed by Sahadeva", "Killed by Bhima", "Imprisoned"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni was finally slain by Sahadeva in the Kurukshetra war."
+  },
+  {
+    "id": 21,
+    "level": 5,
+    "question": "Why did Shakuni vow revenge against the Kurus?",
+    "options": ["For Gandhari’s suffering", "For Draupadi’s insult", "For his family’s imprisonment and starvation", "For being denied kingship"],
+    "correctAnswer": 2,
+    "explanation": "Shakuni’s family was starved in captivity by the Kurus, fueling his lifelong revenge."
+  },
+  {
+    "id": 22,
+    "level": 5,
+    "question": "What was Shakuni’s relationship with Karna?",
+    "options": ["Friend", "Rival", "Manipulator", "Mentor"],
+    "correctAnswer": 2,
+    "explanation": "Shakuni often manipulated Karna to keep him aligned with Duryodhana’s cause."
+  },
+  {
+    "id": 23,
+    "level": 5,
+    "question": "How did Shakuni influence the Kauravas’ decisions?",
+    "options": ["With logic", "With bribery", "Through manipulation and flattery", "Through threats"],
+    "correctAnswer": 2,
+    "explanation": "Shakuni used manipulation and flattery to push the Kauravas into destructive decisions."
+  },
+  {
+    "id": 24,
+    "level": 5,
+    "question": "Which major war strategy was Shakuni involved in?",
+    "options": ["Chakravyuha", "Padmavyuha", "Deceitful dice war", "Manipulating alliances"],
+    "correctAnswer": 3,
+    "explanation": "Shakuni was more involved in political manipulation and breaking alliances rather than direct war formations."
+  },
+  {
+    "id": 25,
+    "level": 5,
+    "question": "Who prophesied Shakuni’s role in the downfall of the Kauravas?",
+    "options": ["Vyasa", "Bhishma", "Krishna", "Vidura"],
+    "correctAnswer": 0,
+    "explanation": "Sage Vyasa predicted Shakuni would cause the destruction of the Kauravas."
+  },
+  {
+    "id": 26,
+    "level": 6,
+    "question": "How is Shakuni portrayed in folklore outside Mahabharata?",
+    "options": ["As a hero", "As a villain", "As a victim", "As a king"],
+    "correctAnswer": 1,
+    "explanation": "Folklore and cultural traditions often depict Shakuni as a villainous figure."
+  },
+  {
+    "id": 27,
+    "level": 6,
+    "question": "Which quality of Shakuni made him dangerous?",
+    "options": ["Physical strength", "Political cunning", "Bravery", "Wisdom"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni’s political cunning and deceit made him far more dangerous than physical warriors."
+  },
+  {
+    "id": 28,
+    "level": 6,
+    "question": "What was Shakuni’s role in Duryodhana’s rise?",
+    "options": ["Encouraged and guided him", "Challenged him", "Opposed him", "Ignored him"],
+    "correctAnswer": 0,
+    "explanation": "Shakuni encouraged and guided Duryodhana, fueling his hatred of the Pandavas."
+  },
+  {
+    "id": 29,
+    "level": 6,
+    "question": "How did Shakuni’s dice obey him?",
+    "options": ["Magic", "Divine blessing", "Made from his father’s bones", "Special spells"],
+    "correctAnswer": 2,
+    "explanation": "The dice, made from his father’s bones, were enchanted to always obey Shakuni’s will."
+  },
+  {
+    "id": 30,
+    "level": 6,
+    "question": "What was Shakuni’s main contribution to the war?",
+    "options": ["Military strategies", "Political manipulation", "Archery skills", "Heroic duels"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni’s main role was political manipulation, dividing allies and encouraging hostility."
+  },
+  {
+    "id": 31,
+    "level": 7,
+    "question": "What does Shakuni represent in the epic?",
+    "options": ["Truth", "Dharma", "Adharma and cunning", "Neutrality"],
+    "correctAnswer": 2,
+    "explanation": "Shakuni represents adharma (unrighteousness) and cunning deceit in the Mahabharata."
+  },
+  {
+    "id": 32,
+    "level": 7,
+    "question": "What was the ultimate result of Shakuni’s manipulations?",
+    "options": ["Kauravas’ victory", "Pandavas’ exile only", "Total destruction of the Kauravas", "Peaceful compromise"],
+    "correctAnswer": 2,
+    "explanation": "Shakuni’s plots led to the Kurukshetra war and the destruction of the Kauravas."
+  },
+  {
+    "id": 33,
+    "level": 7,
+    "question": "Which Pandava understood Shakuni’s cunning most?",
+    "options": ["Arjuna", "Bhima", "Sahadeva", "Yudhishthira"],
+    "correctAnswer": 3,
+    "explanation": "Yudhishthira, being wise, understood Shakuni’s cunning but was bound by dharma to play dice."
+  },
+  {
+    "id": 34,
+    "level": 7,
+    "question": "What emotion primarily drove Shakuni?",
+    "options": ["Love", "Greed", "Revenge", "Compassion"],
+    "correctAnswer": 2,
+    "explanation": "Shakuni was primarily driven by revenge against the Kurus for his family’s suffering."
+  },
+  {
+    "id": 35,
+    "level": 7,
+    "question": "What was Shakuni’s legacy?",
+    "options": ["A hero of Gandhara", "A manipulative villain", "A wise king", "A forgotten prince"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni’s legacy is that of a manipulative villain whose deceit caused destruction."
+  },
+  {
+    "id": 36,
+    "level": 8,
+    "question": "What philosophical lesson does Shakuni’s story give?",
+    "options": ["Evil can be useful", "Deceit leads to destruction", "Revenge is sweet", "Cunning is superior to strength"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni’s story teaches that deceit and revenge ultimately lead to destruction."
+  },
+  {
+    "id": 37,
+    "level": 8,
+    "question": "Who warned the Kauravas against trusting Shakuni?",
+    "options": ["Bhishma", "Vidura", "Krishna", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Many wise figures, including Bhishma, Vidura, and Krishna, warned against trusting Shakuni."
+  },
+  {
+    "id": 38,
+    "level": 8,
+    "question": "How is Shakuni remembered in Indian tradition?",
+    "options": ["As a great king", "As a strategist", "As a symbol of deceit", "As a martyr"],
+    "correctAnswer": 2,
+    "explanation": "In Indian tradition, Shakuni is remembered as a symbol of deceit and manipulation."
+  },
+  {
+    "id": 39,
+    "level": 8,
+    "question": "What role did fate play in Shakuni’s life?",
+    "options": ["Made him righteous", "Turned him to revenge", "Made him strong", "Protected him"],
+    "correctAnswer": 1,
+    "explanation": "Fate turned Shakuni towards revenge due to the suffering of his family."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "What was Shakuni’s biggest mistake?",
+    "options": ["Underestimating Sahadeva", "Over-trusting dice", "Over-manipulating events", "Not killing Pandavas himself"],
+    "correctAnswer": 0,
+    "explanation": "His biggest mistake was underestimating Sahadeva, who ultimately killed him."
+  },
+  {
+    "id": 41,
+    "level": 8,
+    "question": "What does Shakuni’s end symbolize?",
+    "options": ["Victory of deceit", "End of revenge", "Triumph of dharma over adharma", "Loss of Gandhara"],
+    "correctAnswer": 2,
+    "explanation": "His death symbolizes the triumph of dharma over adharma and deceit."
+  },
+  {
+    "id": 42,
+    "level": 8,
+    "question": "What is Shakuni’s lasting impression in Mahabharata?",
+    "options": ["Great warrior", "Evil genius", "Peacekeeper", "Sacrificial hero"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni is remembered as an evil genius whose manipulations shaped the war."
+  }
+]

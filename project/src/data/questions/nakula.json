@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Nakula's divine father?",
+    "options": ["Indra", "Ashwini Kumaras", "Vayu", "Surya"],
+    "correctAnswer": 1,
+    "explanation": "Nakula and Sahadeva were twins, born to Madri through the blessings of the Ashwini Kumaras, the twin gods of medicine."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "Who was Nakula's mother?",
+    "options": ["Kunti", "Madri", "Gandhari", "Draupadi"],
+    "correctAnswer": 1,
+    "explanation": "Nakula was the son of Madri, Pandu’s second wife, who invoked the Ashwini Kumaras to beget him."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "Who was Nakula's twin brother?",
+    "options": ["Bhima", "Arjuna", "Sahadeva", "Yudhishthira"],
+    "correctAnswer": 2,
+    "explanation": "Nakula's twin brother was Sahadeva, also born from the Ashwini Kumaras."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "What was Nakula famous for?",
+    "options": ["Strength", "Wisdom", "Horsemanship and beauty", "Archery"],
+    "correctAnswer": 2,
+    "explanation": "Nakula was celebrated for his skill in horse-keeping, swordsmanship, and his exceptional beauty."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "Who was Nakula's wife?",
+    "options": ["Draupadi", "Karenumati", "Subhadra", "Devika"],
+    "correctAnswer": 1,
+    "explanation": "Besides Draupadi, Nakula married Karenumati, princess of Chedi."
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "question": "Who was Nakula's son from Draupadi?",
+    "options": ["Prativindhya", "Sutasoma", "Shrutakarma", "Satanika"],
+    "correctAnswer": 3,
+    "explanation": "Nakula’s son with Draupadi was Satanika."
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "question": "Who was Nakula's son from Karenumati?",
+    "options": ["Niramitra", "Sutasoma", "Meghavarna", "Shrutasena"],
+    "correctAnswer": 0,
+    "explanation": "Nakula and Karenumati’s son was Niramitra."
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "question": "Which weapon was Nakula especially skilled in?",
+    "options": ["Mace", "Sword", "Bow and arrow", "Spear"],
+    "correctAnswer": 1,
+    "explanation": "Nakula excelled in swordsmanship, though he was also adept in horse-keeping and Ayurveda."
+  },
+  {
+    "id": 9,
+    "level": 2,
+    "question": "What disguise did Nakula take during the incognito year?",
+    "options": ["Cook", "Cowherd", "Horse-keeper", "Astrologer"],
+    "correctAnswer": 2,
+    "explanation": "Nakula disguised himself as a horse-keeper in King Virata’s court during the Pandavas' incognito year."
+  },
+  {
+    "id": 10,
+    "level": 2,
+    "question": "Which kingdom did Nakula help conquer during the Rajasuya sacrifice?",
+    "options": ["Sindhu", "Saurashtra", "Western kingdoms", "Kalinga"],
+    "correctAnswer": 2,
+    "explanation": "Nakula conquered the western kingdoms as part of the Rajasuya sacrifice campaigns."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "What quality was Nakula most admired for?",
+    "options": ["Anger", "Justice", "Beauty", "Gambling"],
+    "correctAnswer": 2,
+    "explanation": "Nakula was considered the most handsome among the Pandavas, often admired for his divine beauty."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "Who guided Nakula and Sahadeva after Madri's death?",
+    "options": ["Kunti", "Gandhari", "Bhishma", "Vyasa"],
+    "correctAnswer": 0,
+    "explanation": "After Madri’s death, Kunti raised Nakula and Sahadeva with her own sons."
+  },
+  {
+    "id": 13,
+    "level": 3,
+    "question": "What skill did Nakula inherit from the Ashwini Kumaras?",
+    "options": ["Astrology", "Medicine and horse-keeping", "Archery", "Mace fighting"],
+    "correctAnswer": 1,
+    "explanation": "Being sons of the Ashwini Kumaras, Nakula and Sahadeva inherited knowledge of Ayurveda and horse mastery."
+  },
+  {
+    "id": 14,
+    "level": 3,
+    "question": "Which cousin was envious of Nakula's beauty?",
+    "options": ["Karna", "Duryodhana", "Dushasana", "Shakuni"],
+    "correctAnswer": 1,
+    "explanation": "Duryodhana and others envied Nakula for his charm and looks."
+  },
+  {
+    "id": 15,
+    "level": 3,
+    "question": "Who did Nakula fight against in the Kurukshetra war?",
+    "options": ["Karna", "Shakuni", "Shalya", "Duryodhana’s sons"],
+    "correctAnswer": 2,
+    "explanation": "Nakula fought valiantly against King Shalya and other warriors in the war."
+  },
+  {
+    "id": 16,
+    "level": 3,
+    "question": "What banner symbol was on Nakula’s chariot?",
+    "options": ["Deer", "Lion", "Red bull", "Silver swan"],
+    "correctAnswer": 0,
+    "explanation": "Nakula’s chariot bore the symbol of a golden deer."
+  },
+  {
+    "id": 17,
+    "level": 3,
+    "question": "What was Nakula’s role in Yudhishthira’s Rajasuya sacrifice?",
+    "options": ["Collected tribute from west", "Guarded the sacrificial horse", "Fought Shishupala", "Performed rituals"],
+    "correctAnswer": 0,
+    "explanation": "Nakula collected tribute from the western kingdoms to support Yudhishthira’s Rajasuya sacrifice."
+  },
+  {
+    "id": 18,
+    "level": 3,
+    "question": "Which Kaurava did Nakula kill in the Kurukshetra war?",
+    "options": ["Durmukha", "Dushasana’s son", "Chitrasena", "Vrishasena"],
+    "correctAnswer": 0,
+    "explanation": "Nakula slew Durmukha and other warriors in the Kurukshetra war."
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "question": "Who did Nakula support during Draupadi’s humiliation?",
+    "options": ["Remained silent", "Protested but restrained", "Fought in the court", "Left the hall"],
+    "correctAnswer": 1,
+    "explanation": "Like his brothers, Nakula opposed Draupadi’s humiliation but was helpless due to Dhritarashtra’s authority."
+  },
+  {
+    "id": 20,
+    "level": 4,
+    "question": "During exile, what responsibility did Nakula take?",
+    "options": ["Guarding the family", "Cooking", "Managing horses and weapons", "Hunting food"],
+    "correctAnswer": 2,
+    "explanation": "Nakula took care of the horses and weapons during the Pandavas’ exile in the forest."
+  },
+  {
+    "id": 21,
+    "level": 4,
+    "question": "What curse did Nakula share with his brothers?",
+    "options": ["To face exile", "To fight each other", "To lose their children", "To witness destruction of Kuru dynasty"],
+    "correctAnswer": 3,
+    "explanation": "The Pandavas shared the tragic destiny of witnessing the destruction of their kin in the war."
+  },
+  {
+    "id": 22,
+    "level": 4,
+    "question": "What lesson did Nakula embody through his character?",
+    "options": ["Strength in battle", "Value of beauty and humility", "Wisdom in politics", "Power of anger"],
+    "correctAnswer": 1,
+    "explanation": "Nakula’s beauty was matched with humility, showing that outer charm should be paired with inner grace."
+  },
+  {
+    "id": 23,
+    "level": 4,
+    "question": "How was Nakula involved in the Ashwamedha sacrifice?",
+    "options": ["Guarded the horse", "Conquered eastern kingdoms", "Conquered western kingdoms again", "Performed rituals"],
+    "correctAnswer": 2,
+    "explanation": "Nakula reconquered the western kingdoms during Yudhishthira’s Ashwamedha sacrifice."
+  },
+  {
+    "id": 24,
+    "level": 4,
+    "question": "Which art was Nakula especially known for?",
+    "options": ["Astrology", "Swordsmanship", "Music", "Dance"],
+    "correctAnswer": 1,
+    "explanation": "Nakula was a master swordsman and horse-trainer."
+  },
+  {
+    "id": 25,
+    "level": 4,
+    "question": "Whose army did Nakula defeat in the Kurukshetra war?",
+    "options": ["Kalinga army", "Sindhu army", "Western tribes", "Madra army"],
+    "correctAnswer": 0,
+    "explanation": "Nakula played a key role in defeating the Kalinga forces in the Kurukshetra war."
+  },
+  {
+    "id": 26,
+    "level": 5,
+    "question": "Which virtue did Nakula uphold strongly?",
+    "options": ["Truthfulness", "Forgiveness", "Loyalty", "Detachment"],
+    "correctAnswer": 2,
+    "explanation": "Nakula’s loyalty towards his brothers and Draupadi was unwavering throughout his life."
+  },
+  {
+    "id": 27,
+    "level": 5,
+    "question": "What role did Nakula play in protecting Yudhishthira during the war?",
+    "options": ["Shielded him from arrows", "Drove his chariot", "Killed attacking warriors", "Stood by his side"],
+    "correctAnswer": 2,
+    "explanation": "Nakula actively defended Yudhishthira by killing several warriors who attacked him."
+  },
+  {
+    "id": 28,
+    "level": 5,
+    "question": "How did Nakula die on the final journey?",
+    "options": ["Fell first due to pride in his beauty", "Collapsed from exhaustion", "Refused to continue", "Killed by wild beasts"],
+    "correctAnswer": 0,
+    "explanation": "Nakula was the third to fall during the final journey, as he was proud of his beauty."
+  },
+  {
+    "id": 29,
+    "level": 5,
+    "question": "What lesson does Nakula’s fall symbolize?",
+    "options": ["Power fades", "Pride leads to downfall", "Beauty is temporary", "War causes ruin"],
+    "correctAnswer": 1,
+    "explanation": "Nakula’s fall reminds us that pride, even in virtues like beauty, can lead to downfall."
+  },
+  {
+    "id": 30,
+    "level": 5,
+    "question": "What was Nakula’s legacy in Hastinapura?",
+    "options": ["Swordsmanship and horse mastery", "Political wisdom", "Religious knowledge", "Wealth"],
+    "correctAnswer": 0,
+    "explanation": "Nakula left behind the legacy of being the most skilled horseman and swordsman of the Pandavas."
+  },
+  {
+    "id": 31,
+    "level": 6,
+    "question": "Which brother was Nakula most devoted to?",
+    "options": ["Bhima", "Arjuna", "Sahadeva", "Yudhishthira"],
+    "correctAnswer": 2,
+    "explanation": "Nakula and Sahadeva shared a twin bond and were extremely devoted to each other."
+  },
+  {
+    "id": 32,
+    "level": 6,
+    "question": "What philosophical value does Nakula’s life represent?",
+    "options": ["Strength over wisdom", "Humility despite gifts", "Revenge as dharma", "Detachment from family"],
+    "correctAnswer": 1,
+    "explanation": "Nakula showed that one should remain humble despite great gifts like beauty and skill."
+  },
+  {
+    "id": 33,
+    "level": 6,
+    "question": "What test of loyalty did Nakula face during the Yaksha Prashna?",
+    "options": ["Choosing which brother to revive", "Saving Draupadi first", "Leaving Sahadeva", "Choosing between Kunti’s and Madri’s sons"],
+    "correctAnswer": 0,
+    "explanation": "Yudhishthira chose Nakula to revive Sahadeva first, balancing fairness between Kunti’s and Madri’s sons."
+  },
+  {
+    "id": 34,
+    "level": 6,
+    "question": "Which Kuru elder praised Nakula’s beauty?",
+    "options": ["Bhishma", "Drona", "Kripa", "Vidura"],
+    "correctAnswer": 0,
+    "explanation": "Bhishma often admired Nakula’s handsomeness and grace, seeing him as blessed by the Ashwins."
+  },
+  {
+    "id": 35,
+    "level": 6,
+    "question": "What skill made Nakula indispensable in exile?",
+    "options": ["Cooking", "Healing and horse-keeping", "Astrology", "Hunting"],
+    "correctAnswer": 1,
+    "explanation": "Nakula’s skills in Ayurveda and horse-keeping proved invaluable during exile."
+  },
+  {
+    "id": 36,
+    "level": 7,
+    "question": "What was Nakula’s biggest internal flaw?",
+    "options": ["Anger", "Pride in his looks", "Greed", "Indecision"],
+    "correctAnswer": 1,
+    "explanation": "Though humble most of his life, Nakula’s pride in his beauty caused his downfall on the final journey."
+  },
+  {
+    "id": 37,
+    "level": 7,
+    "question": "How did Nakula contribute to dharmic governance?",
+    "options": ["As Yudhishthira’s advisor", "By conquering kingdoms", "By teaching swordsmanship", "By maintaining fairness"],
+    "correctAnswer": 0,
+    "explanation": "Nakula supported Yudhishthira as an advisor and warrior, helping establish dharmic rule."
+  },
+  {
+    "id": 38,
+    "level": 7,
+    "question": "What relationship lesson does Nakula’s life show?",
+    "options": ["Twins share unbreakable bonds", "Siblings compete", "Brothers fight often", "Marriage is priority"],
+    "correctAnswer": 0,
+    "explanation": "Nakula’s devotion to Sahadeva illustrates the deep and loyal bond between twins."
+  },
+  {
+    "id": 39,
+    "level": 7,
+    "question": "What ultimate truth does Nakula’s fall remind us of?",
+    "options": ["Beauty fades", "Strength wins wars", "Wisdom saves lives", "Wealth matters most"],
+    "correctAnswer": 0,
+    "explanation": "Nakula’s fall teaches that beauty is temporary, and pride in it brings downfall."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "What does Nakula represent in Hindu philosophy?",
+    "options": ["The power of anger", "The struggle with pride", "The triumph of wisdom", "The futility of war"],
+    "correctAnswer": 1,
+    "explanation": "Nakula represents the struggle with pride, showing that even noble souls face inner weaknesses."
+  }
+]

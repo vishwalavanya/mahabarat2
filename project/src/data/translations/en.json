@@ -1,0 +1,39 @@
+{
+  "ui": {
+    "enterWorld": "Enter into World",
+    "skip": "Skip",
+    "next": "Next",
+    "playAgain": "Play Again",
+    "selectCharacter": "Select Your Character",
+    "playAs": "Play as",
+    "learnMore": "Learn More",
+    "back": "Back",
+    "level": "Level",
+    "completed": "Completed",
+    "biography": "Biography",
+    "skills": "Skills",
+    "traits": "Traits"
+  },
+  "characters": {
+    "yudhishthira": "Yudhishthira",
+    "bhima": "Bhima",
+    "arjuna": "Arjuna",
+    "nakula": "Nakula",
+    "sahadeva": "Sahadeva",
+    "krishna": "Krishna",
+    "karna": "Karna",
+    "duryodhana": "Duryodhana",
+    "bhishma": "Bhishma",
+    "drona": "Drona",
+    "ashwatthama": "Ashwatthama",
+    "ghatotkacha": "Ghatotkacha",
+    "abhimanyu": "Abhimanyu",
+    "draupadi": "Draupadi",
+    "kunti": "Kunti",
+    "gandhari": "Gandhari",
+    "shakuni": "Shakuni",
+    "jarasandha": "Jarasandha",
+    "ekalavya": "Ekalavya",
+    "barbarika": "Barbarika"
+  }
+}

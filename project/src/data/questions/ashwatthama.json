@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Ashwatthama's father?",
+    "options": ["Drona", "Kripa", "Bhishma", "Parashurama"],
+    "correctAnswer": 0,
+    "explanation": "Ashwatthama was the son of Dronacharya and his wife Kripi."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "What was Ashwatthama's divine mother?",
+    "options": ["Kripi", "Radha", "Subhadra", "Devaki"],
+    "correctAnswer": 0,
+    "explanation": "Kripi, sister of Kripa, was Ashwatthama's mortal mother."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "Which epic war did Ashwatthama fight in?",
+    "options": ["Ramayana war", "Kurukshetra war", "Devasura war", "Churning of ocean"],
+    "correctAnswer": 1,
+    "explanation": "Ashwatthama fought on the Kaurava side in the Kurukshetra war."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "What special weapon did Ashwatthama wield?",
+    "options": ["Brahmastra", "Narayanastra", "Agneyastra", "Vasavi Shakti"],
+    "correctAnswer": 0,
+    "explanation": "Ashwatthama used the Brahmastra granted by his father Drona."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "Who was Ashwatthama's teacher?",
+    "options": ["Kripa", "Drona", "Bhishma", "Parashurama"],
+    "correctAnswer": 1,
+    "explanation": "He was trained in warfare and celestial weapons by his father Drona."
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "question": "Who was Ashwatthama's principal rival?",
+    "options": ["Arjuna", "Bhima", "Yudhishthira", "Nakula"],
+    "correctAnswer": 0,
+    "explanation": "Ashwatthama often clashed with Arjuna on the battlefield."
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "question": "What was Ashwatthama's birth boon?",
+    "options": ["Immortality", "Strength of 10 elephants", "Celestial vision", "Divine armor"],
+    "correctAnswer": 0,
+    "explanation": "He was granted a form of immortality and perpetual youth by Shiva."
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "question": "What relation was Kripa to Ashwatthama?",
+    "options": ["Brother", "Uncle", "Cousin", "Friend"],
+    "correctAnswer": 1,
+    "explanation": "Kripa was his maternal uncle and fellow warrior."
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "question": "What role did Ashwatthama play after Drona's fall?",
+    "options": ["Commander", "Spy", "Diplomat", "None"],
+    "correctAnswer": 0,
+    "explanation": "He succeeded Drona briefly as commander of the Kaurava army."
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "question": "Who cursed Ashwatthama after the night raid?",
+    "options": ["Krishna", "Vyasa", "Bhima", "Arjuna"],
+    "correctAnswer": 1,
+    "explanation": "Vyasa cursed him to wander eternally for his heinous act."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "Whom did Ashwatthama kill in the night raid?",
+    "options": ["All Pandava warriors", "Only children", "All Pandava sons", "Krishna's kin"],
+    "correctAnswer": 2,
+    "explanation": "He slaughtered the sleeping sons of the Pandavas at night."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "What was the result of Ashwatthama's use of Brahmastra on the unborn?",
+    "options": ["Destroyed embryo", "No effect", "Blessed child", "Fatal storm"],
+    "correctAnswer": 1,
+    "explanation": "The weapon failed against the unborn Parikshit due to divine protection."
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "question": "Which god did Ashwatthama pray to for immortality?",
+    "options": ["Shiva", "Vishnu", "Brahma", "Indra"],
+    "correctAnswer": 0,
+    "explanation": "He performed severe penance to please Shiva and gain a boon."
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "question": "What ethical breach defined Ashwatthama’s night attack?",
+    "options": ["Fighting unarmed", "Killing children", "Breaking truce", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His act violated all warrior codes: stealth, noncombatants, and truce."
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "question": "What mark of disgrace did Krishna place on Ashwatthama?",
+    "options": ["Hot iron on forehead", "Removed his armor", "Bound his hands", "Cut his tongue"],
+    "correctAnswer": 0,
+    "explanation": "Krishna branded his forehead with a protective mark and curse."
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "question": "Who protected Parikshit from Ashwatthama's missile?",
+    "options": ["Krishna", "Sage Vyasa", "Goddess Ganga", "Arjuna"],
+    "correctAnswer": 2,
+    "explanation": "Goddess Ganga shielded the unborn child from the missile."
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "question": "Where did Ashwatthama seek refuge after the war?",
+    "options": ["Vyasa's hermitage", "Dwaraka", "Mathura", "Indraprastha"],
+    "correctAnswer": 0,
+    "explanation": "He went to Vyasa’s forest retreat, begging mercy."
+  },
+  {
+    "id": 18,
+    "level": 2,
+    "question": "Which weapon did Arjuna use to counter Ashwatthama's Brahmastra?",
+    "options": ["Vajra", "Pasupata", "Indraastra", "None"],
+    "correctAnswer": 3,
+    "explanation": "Arjuna refrained, fearing mutual destruction of celestial weapons."
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "question": "What propelled Ashwatthama's fury after Drona's death?",
+    "options": ["Grief", "Desire for revenge", "Pride", "Anger at Pandavas"],
+    "correctAnswer": 1,
+    "explanation": "His unbridled revenge for his father's fall drove him to atrocity."
+  },
+  {
+    "id": 20,
+    "level": 3,
+    "question": "Who commanded Ashwatthama to retrieve Drona's head?",
+    "options": ["Duryodhana", "Krishna", "Dhritarashtra", "Shakuni"],
+    "correctAnswer": 0,
+    "explanation": "Duryodhana urged him to bring back Drona’s severed head as trophy."
+  },
+  {
+    "id": 21,
+    "level": 3,
+    "question": "Which cosmic cycle did Ashwatthama violate with his weapon?",
+    "options": ["Manvantara", "Yuga", "Pralaya", "Kalpa"],
+    "correctAnswer": 1,
+    "explanation": "He attempted to end the Kali Yuga by using divine astra imprudently."
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "question": "How did Arjuna identify Ashwatthama after the night raid?",
+    "options": ["Divine hint", "Weapon signature", "Forehead mark", "Vyasa's revelation"],
+    "correctAnswer": 2,
+    "explanation": "The curse mark on his forehead revealed him to Arjuna."
+  },
+  {
+    "id": 23,
+    "level": 3,
+    "question": "What did Ashwatthama take from Draupadi's chamber?",
+    "options": ["Sutra", "Blood relics", "Jewels", "Nothing"],
+    "correctAnswer": 1,
+    "explanation": "He took the blood-soaked garments and relics in revenge."
+  },
+  {
+    "id": 24,
+    "level": 3,
+    "question": "Which relative did Ashwatthama spare in the night raid?",
+    "options": ["Yudhishthira", "Nakula", "Yuyutsu", "Bhima"],
+    "correctAnswer": 2,
+    "explanation": "He spared Yuyutsu, the only Kaurava who fought for the Pandavas."
+  },
+  {
+    "id": 25,
+    "level": 4,
+    "question": "What moral dilemma surrounds Ashwatthama's immortality?",
+    "options": ["Eternal suffering", "Redemption unreachable", "Isolation", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His cursed immortality brought endless pain, guilt, and solitude."
+  },
+  {
+    "id": 26,
+    "level": 4,
+    "question": "How does Ashwatthama's act challenge the concept of dharma?",
+    "options": ["Heroic revenge", "Breaking sacred codes", "Divine justice", "Unquestioned loyalty"],
+    "correctAnswer": 1,
+    "explanation": "His massacre of noncombatants shattered every code of righteousness."
+  },
+  {
+    "id": 27,
+    "level": 4,
+    "question": "What philosophical question does Ashwatthama’s curse raise?",
+    "options": ["Is mercy absolute?", "Can sin be expiated?", "Is punishment eternal?", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His story prompts deep questions on justice, redemption, and mercy."
+  },
+  {
+    "id": 28,
+    "level": 4,
+    "question": "How did Ashwatthama justify his night attack?",
+    "options": ["Father's honor", "Divine sanction", "War necessity", "Duryodhana's order"],
+    "correctAnswer": 3,
+    "explanation": "He claimed obedience to Duryodhana’s command for vengeance."
+  },
+  {
+    "id": 29,
+    "level": 4,
+    "question": "Which quality made Ashwatthama feared among warriors?",
+    "options": ["Skill", "Ruthlessness", "Boons", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His unmatched skill, ruthless tactics, and divine boons inspired fear."
+  },
+  {
+    "id": 30,
+    "level": 5,
+    "question": "What tragic flaw defines Ashwatthama’s downfall?",
+    "options": ["Uncontrolled rage", "Arrogance", "Blind loyalty", "Impulsiveness"],
+    "correctAnswer": 0,
+    "explanation": "His uncontrollable rage after Drona’s death led to irreversible atrocity."
+  },
+  {
+    "id": 31,
+    "level": 5,
+    "question": "How does Ashwatthama’s immortality reflect a curse rather than a boon?",
+    "options": ["Eternal guilt", "Unending conflict", "Social exile", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "What he sought as strength became perpetual torment across ages."
+  },
+  {
+    "id": 32,
+    "level": 5,
+    "question": "What role does Ashwatthama play in later Puranic lore?",
+    "options": ["Chronicler", "Guardian"],  
+    "correctAnswer": 1,
+    "explanation": "He is said to guard treasures and wait for cosmic restoration."
+  },
+  {
+    "id": 33,
+    "level": 6,
+    "question": "What does Ashwatthama symbolize in the Mahabharata?",
+    "options": ["Eternal vengeance", "Human fallibility", "Divine wrath", "All of the above"],
+    "correctAnswer": 1,
+    "explanation": "He embodies the tragic consequences of unchecked anger and moral failure."
+  },
+  {
+    "id": 34,
+    "level": 6,
+    "question": "How does his story contrast with Arjuna’s?",
+    "options": ["Impulsive vs. disciplined", "Vengeful vs. merciful", "Immortal vs. mortal", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Their trajectories highlight choices: rage versus restraint, immortality versus duty."
+  },
+  {
+    "id": 35,
+    "level": 6,
+    "question": "What lesson does Ashwatthama’s fate teach about power?",
+    "options": ["Power corrupts", "Justice prevails", "Mercy matters", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His arc warns that raw power without ethics leads to ruin."
+  },
+  {
+    "id": 36,
+    "level": 7,
+    "question": "Which philosophical debate does Ashwatthama’s narrative provoke?",
+    "options": ["Free will vs. fate", "Justice vs. revenge", "Mercy vs. punishment", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His actions and curse ignite discussions on destiny, morality, and justice."
+  },
+  {
+    "id": 37,
+    "level": 7,
+    "question": "How is Ashwatthama portrayed in regional folk traditions?",
+    "options": ["Villain", "Tragic hero", "Anti-hero", "Divine sage"],
+    "correctAnswer": 2,
+    "explanation": "Many traditions depict him as a complex anti-hero beyond pure villainy."
+  },
+  {
+    "id": 38,
+    "level": 7,
+    "question": "What deeper conflict underlies Ashwatthama’s loyalty to Duryodhana?",
+    "options": ["Blood duty vs. moral law", "Friendship vs. justice", "War oath vs. ethics", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His unwavering loyalty clashed tragically with universal moral codes."
+  },
+  {
+    "id": 39,
+    "level": 8,
+    "question": "How does Ashwatthama’s eternal wandering reflect Buddhist parallels?",
+    "options": ["Karmic suffering", "Endless rebirth", "Monastic penance", "None"],
+    "correctAnswer": 0,
+    "explanation": "His perpetual torment mirrors Buddhist notions of karmic retribution."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "What is the ultimate philosophical takeaway from Ashwatthama’s life?",
+    "options": ["Vengeance destroys self", "Immortality can be curse", "Ethics govern power", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His saga encapsulates warnings about vengeance, cursed longevity, and moral conduct."
+  }
+]

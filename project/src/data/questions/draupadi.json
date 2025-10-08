@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Draupadi’s father?",
+    "options": ["Drupada", "Drona", "Pandu", "Bhishma"],
+    "correctAnswer": 0,
+    "explanation": "Draupadi was the daughter of King Drupada of Panchala."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "Who was Draupadi’s brother?",
+    "options": ["Dhrishtadyumna", "Ashwatthama", "Karna", "Abhimanyu"],
+    "correctAnswer": 0,
+    "explanation": "Dhrishtadyumna was Draupadi’s brother, born from the same yajna fire."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "How was Draupadi born?",
+    "options": ["Natural birth", "From fire of yajna", "Adopted by Drupada", "Blessed by Shiva"],
+    "correctAnswer": 1,
+    "explanation": "Draupadi emerged from the fire of a yajna performed by Drupada."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "What other name is Draupadi known by?",
+    "options": ["Panchali", "Subhadra", "Satyabhama", "Radha"],
+    "correctAnswer": 0,
+    "explanation": "She was called Panchali, the princess of Panchala."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "Who won Draupadi’s hand in her swayamvara?",
+    "options": ["Karna", "Arjuna", "Bhima", "Duryodhana"],
+    "correctAnswer": 1,
+    "explanation": "Arjuna won Draupadi’s hand by hitting the target at her swayamvara."
+  },
+  {
+    "id": 6,
+    "level": 2,
+    "question": "Why did Draupadi become the wife of all five Pandavas?",
+    "options": ["Her own wish", "Kunti’s words", "Arjuna’s command", "A divine prophecy"],
+    "correctAnswer": 1,
+    "explanation": "Kunti unknowingly asked the brothers to share what they brought, leading to Draupadi marrying all five."
+  },
+  {
+    "id": 7,
+    "level": 2,
+    "question": "What was Draupadi’s role during the dice game?",
+    "options": ["She supported Yudhishthira", "She was humiliated and disrobed", "She left Hastinapura", "She cursed Shakuni"],
+    "correctAnswer": 1,
+    "explanation": "She was humiliated in the Kaurava court after Yudhishthira lost her in dice."
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "question": "Who tried to save Draupadi during the dice hall insult?",
+    "options": ["Bhishma", "Krishna", "Vidura", "Karna"],
+    "correctAnswer": 1,
+    "explanation": "Lord Krishna protected Draupadi when Dushasana tried to disrobe her."
+  },
+  {
+    "id": 9,
+    "level": 2,
+    "question": "What vow did Draupadi take after the insult?",
+    "options": ["Not to eat until Duryodhana’s death", "To wash her hair with Dushasana’s blood", "To kill Karna", "To leave Hastinapura forever"],
+    "correctAnswer": 1,
+    "explanation": "She vowed to only tie her hair after washing it with Dushasana’s blood."
+  },
+  {
+    "id": 10,
+    "level": 2,
+    "question": "How long did Draupadi live in exile?",
+    "options": ["7 years", "12 years plus 1 year incognito", "5 years", "14 years"],
+    "correctAnswer": 1,
+    "explanation": "She lived with the Pandavas in exile for 12 years and 1 year incognito."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "Where did Draupadi and the Pandavas live during the final year of exile?",
+    "options": ["Virata’s kingdom", "Dwaraka", "Indraprastha", "Khandavaprastha"],
+    "correctAnswer": 0,
+    "explanation": "They lived incognito in King Virata’s kingdom."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "What role did Draupadi take in Virata’s palace?",
+    "options": ["Cook", "Flower-gatherer", "Sairandhri (maid)", "Priestess"],
+    "correctAnswer": 2,
+    "explanation": "She disguised herself as Sairandhri, a maid for Queen Sudeshna."
+  },
+  {
+    "id": 13,
+    "level": 3,
+    "question": "Who attempted to molest Draupadi in Virata’s court?",
+    "options": ["Kichaka", "Duryodhana", "Dushasana", "Ashwatthama"],
+    "correctAnswer": 0,
+    "explanation": "Kichaka tried to harass Draupadi, but Bhima killed him."
+  },
+  {
+    "id": 14,
+    "level": 3,
+    "question": "What was Draupadi’s role in motivating the Pandavas for war?",
+    "options": ["She forgave the Kauravas", "She reminded them of their insult", "She urged peace", "She left to meditate"],
+    "correctAnswer": 1,
+    "explanation": "She constantly reminded them of the humiliation to ensure justice."
+  },
+  {
+    "id": 15,
+    "level": 3,
+    "question": "Which Kaurava insulted Draupadi by asking her to sit on his thigh?",
+    "options": ["Duryodhana", "Karna", "Dushasana", "Shakuni"],
+    "correctAnswer": 0,
+    "explanation": "Duryodhana insulted her with this gesture in the dice hall."
+  },
+  {
+    "id": 16,
+    "level": 3,
+    "question": "Who fulfilled Draupadi’s vow of washing her hair with Dushasana’s blood?",
+    "options": ["Bhima", "Arjuna", "Nakula", "Sahadeva"],
+    "correctAnswer": 0,
+    "explanation": "Bhima killed Dushasana and used his blood to fulfill Draupadi’s vow."
+  },
+  {
+    "id": 17,
+    "level": 3,
+    "question": "What was Draupadi’s relationship with Krishna?",
+    "options": ["Friendship", "Cousin", "Devotee", "All of these"],
+    "correctAnswer": 3,
+    "explanation": "Krishna and Draupadi shared a deep bond of friendship, devotion, and kinship."
+  },
+  {
+    "id": 18,
+    "level": 3,
+    "question": "What boon did Draupadi ask from Shiva before her birth?",
+    "options": ["A powerful husband", "A kingdom", "Five qualities in her husband", "Beauty"],
+    "correctAnswer": 2,
+    "explanation": "She prayed for a husband with five qualities, which resulted in her marrying five men."
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "question": "What kingdom did Draupadi rule as queen?",
+    "options": ["Indraprastha", "Hastinapura", "Panchala", "Dwaraka"],
+    "correctAnswer": 0,
+    "explanation": "As the wife of Yudhishthira, she became queen of Indraprastha."
+  },
+  {
+    "id": 20,
+    "level": 3,
+    "question": "Which of her sons was killed by Ashwatthama?",
+    "options": ["Prativindhya", "Sutasoma", "Shrutakarma", "All of them"],
+    "correctAnswer": 3,
+    "explanation": "All five of Draupadi’s sons (Upapandavas) were killed by Ashwatthama in the night massacre."
+  },
+  {
+    "id": 21,
+    "level": 4,
+    "question": "What was Draupadi’s reaction to the death of her sons?",
+    "options": ["She forgave Ashwatthama", "She demanded his punishment", "She cursed Arjuna", "She left Indraprastha"],
+    "correctAnswer": 1,
+    "explanation": "She was heartbroken and demanded justice for their deaths."
+  },
+  {
+    "id": 22,
+    "level": 4,
+    "question": "Which form of Krishna protected Draupadi in the dice hall?",
+    "options": ["Vishwarupa", "Krishna as infinite cloth", "Sudharshana form", "Parthasarathi form"],
+    "correctAnswer": 1,
+    "explanation": "Krishna provided an endless stream of cloth to save her from humiliation."
+  },
+  {
+    "id": 23,
+    "level": 4,
+    "question": "Which queen insulted Draupadi after her marriage?",
+    "options": ["Kunti", "Gandhari", "Subhadra", "Satya"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari initially insulted Draupadi, though later relations improved."
+  },
+  {
+    "id": 24,
+    "level": 4,
+    "question": "What was Draupadi’s complexion described as?",
+    "options": ["Golden", "Dark", "Fair", "Red"],
+    "correctAnswer": 1,
+    "explanation": "She was often described as Krishnaa, meaning dark-complexioned."
+  },
+  {
+    "id": 25,
+    "level": 4,
+    "question": "What is Draupadi’s symbolic role in Mahabharata?",
+    "options": ["Symbol of wealth", "Symbol of vengeance", "Symbol of honor and dignity", "Symbol of forgiveness"],
+    "correctAnswer": 2,
+    "explanation": "She is seen as the embodiment of a woman’s honor and dignity."
+  },
+  {
+    "id": 26,
+    "level": 5,
+    "question": "Who consoled Draupadi the most during exile?",
+    "options": ["Bhima", "Arjuna", "Krishna", "Yudhishthira"],
+    "correctAnswer": 0,
+    "explanation": "Bhima often comforted her and promised vengeance for her humiliation."
+  },
+  {
+    "id": 27,
+    "level": 5,
+    "question": "What festival in Tamil Nadu is dedicated to Draupadi?",
+    "options": ["Draupadi Amman festival", "Pongal", "Navaratri", "Deepavali"],
+    "correctAnswer": 0,
+    "explanation": "In Tamil Nadu, the Draupadi Amman festival honors her as a goddess."
+  },
+  {
+    "id": 28,
+    "level": 5,
+    "question": "What was Draupadi’s relation with Subhadra?",
+    "options": ["Jealous", "Respectful and affectionate", "Enemies", "Indifferent"],
+    "correctAnswer": 1,
+    "explanation": "Draupadi and Subhadra shared mutual respect and affection."
+  },
+  {
+    "id": 29,
+    "level": 5,
+    "question": "What curse did Draupadi escape due to her devotion to Krishna?",
+    "options": ["Widowhood", "Loss of kingdom", "Suffering in hell", "Loneliness"],
+    "correctAnswer": 0,
+    "explanation": "Her devotion to Krishna saved her from the curse of widowhood."
+  },
+  {
+    "id": 30,
+    "level": 5,
+    "question": "Who gave Draupadi the boon of never lacking food?",
+    "options": ["Surya", "Shiva", "Krishna", "Kunti"],
+    "correctAnswer": 0,
+    "explanation": "Surya blessed Draupadi with the Akshaya Patra, an inexhaustible vessel of food."
+  },
+  {
+    "id": 31,
+    "level": 6,
+    "question": "How many children did Draupadi have?",
+    "options": ["2", "5", "10", "7"],
+    "correctAnswer": 1,
+    "explanation": "She had five sons, one with each Pandava, called the Upapandavas."
+  },
+  {
+    "id": 32,
+    "level": 6,
+    "question": "Which Pandava’s son with Draupadi was named Shrutakarma?",
+    "options": ["Yudhishthira", "Arjuna", "Bhima", "Sahadeva"],
+    "correctAnswer": 1,
+    "explanation": "Arjuna’s son with Draupadi was Shrutakarma."
+  },
+  {
+    "id": 33,
+    "level": 6,
+    "question": "What was Draupadi’s role after the war?",
+    "options": ["She became queen mother", "She renounced life", "She went into exile again", "She became a sage"],
+    "correctAnswer": 0,
+    "explanation": "She became queen mother as Yudhishthira ruled Hastinapura."
+  },
+  {
+    "id": 34,
+    "level": 6,
+    "question": "What does the name ‘Krishnaa’ signify for Draupadi?",
+    "options": ["Her dark beauty", "Her devotion to Krishna", "Her anger", "Her patience"],
+    "correctAnswer": 0,
+    "explanation": "Krishnaa signifies Draupadi’s dark complexion and beauty."
+  },
+  {
+    "id": 35,
+    "level": 6,
+    "question": "What did Draupadi do during Ashwatthama’s punishment?",
+    "options": ["Demanded his death", "Stopped Arjuna from killing him", "Cursed him", "Left the palace"],
+    "correctAnswer": 1,
+    "explanation": "She stopped Arjuna from killing Ashwatthama, despite her grief."
+  },
+  {
+    "id": 36,
+    "level": 7,
+    "question": "How did Draupadi die?",
+    "options": ["In war", "In exile in the Himalayas", "In palace fire", "Poisoned"],
+    "correctAnswer": 1,
+    "explanation": "She died during the Pandavas’ final journey to the Himalayas."
+  },
+  {
+    "id": 37,
+    "level": 7,
+    "question": "What weakness of Draupadi was cited for her fall during the final journey?",
+    "options": ["Pride in her beauty", "Jealousy of Subhadra", "Anger at Kauravas", "Attachment to wealth"],
+    "correctAnswer": 0,
+    "explanation": "Yudhishthira said Draupadi fell first due to pride in her beauty."
+  },
+  {
+    "id": 38,
+    "level": 7,
+    "question": "Which scripture glorifies Draupadi as a goddess in South India?",
+    "options": ["Bhagavata Purana", "Mahabharata", "Draupadi Amman cult texts", "Upanishads"],
+    "correctAnswer": 2,
+    "explanation": "The Draupadi Amman cult in South India worships her as a goddess."
+  },
+  {
+    "id": 39,
+    "level": 8,
+    "question": "What value does Draupadi symbolize in the epic?",
+    "options": ["Forgiveness", "Dharma and honor", "Victory", "Compassion"],
+    "correctAnswer": 1,
+    "explanation": "She symbolizes dharma, womanly honor, and dignity."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "In Mahabharata symbolism, Draupadi represents?",
+    "options": ["The cause of war", "Feminine strength and honor", "Illusion", "Revenge"],
+    "correctAnswer": 1,
+    "explanation": "She represents feminine strength and honor, central to the epic’s message."
+  }
+]
