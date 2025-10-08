@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Abhimanyu’s father?",
+    "options": ["Arjuna", "Bhima", "Yudhishthira", "Nakula"],
+    "correctAnswer": 0,
+    "explanation": "Abhimanyu was the son of Arjuna and Subhadra."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "Who was Abhimanyu’s mother?",
+    "options": ["Draupadi", "Subhadra", "Uttara", "Chitrangada"],
+    "correctAnswer": 1,
+    "explanation": "Subhadra, sister of Krishna, was Abhimanyu’s mother."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "Which weapon was Abhimanyu most skilled with?",
+    "options": ["Mace", "Bow and arrow", "Spear", "Sword"],
+    "correctAnswer": 1,
+    "explanation": "Abhimanyu was an accomplished archer trained by his father Arjuna."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "Who taught Abhimanyu warfare in the womb?",
+    "options": ["Arjuna", "Krishna", "Bhima", "Kunti"],
+    "correctAnswer": 0,
+    "explanation": "Abhimanyu learned the art of entering the Chakravyuha from Arjuna while in Subhadra’s womb."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "Which military formation did Abhimanyu famously breach?",
+    "options": ["Padmavyuha", "Chakravyuha", "Vajra vyuha", "Garuda vyuha"],
+    "correctAnswer": 1,
+    "explanation": "Abhimanyu knew how to enter the Chakravyuha formation."
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "question": "Who was Abhimanyu’s primary opponent in the Chakravyuha?",
+    "options": ["Jayadratha", "Drona", "Karna", "Drishtadyumna"],
+    "correctAnswer": 0,
+    "explanation": "Jayadratha blocked the exit, preventing Abhimanyu from escaping."
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "question": "How did Abhimanyu die?",
+    "options": ["In single combat", "In the Chakravyuha trap", "In exile", "Of old age"],
+    "correctAnswer": 1,
+    "explanation": "He was trapped inside the Chakravyuha and killed by multiple Kaurava warriors."
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "question": "Which brother of Abhimanyu died trying to save him?",
+    "options": ["Ghatotkacha", "Babruvahana", "Prativindhya", "None"],
+    "correctAnswer": 3,
+    "explanation": "No brother reached him in time to save him from the Chakravyuha."
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "question": "Who avenged Abhimanyu’s death?",
+    "options": ["Arjuna", "Bhima", "Krishna", "Yudhishthira"],
+    "correctAnswer": 0,
+    "explanation": "Arjuna vowed to kill Jayadratha the next day to avenge him."
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "question": "What relation was Abhimanyu to Krishna?",
+    "options": ["Nephew", "Cousin", "Brother", "Son"],
+    "correctAnswer": 0,
+    "explanation": "Abhimanyu was Krishna’s nephew, being Subhadra’s son."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "Who taught Abhimanyu the art of flying a chariot?",
+    "options": ["Krishna", "Arjuna", "Bhishma", "Drona"],
+    "correctAnswer": 1,
+    "explanation": "Arjuna trained Abhimanyu in chariot warfare."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "During exile, where was Abhimanyu left behind?",
+    "options": ["Hastinapura", "Indraprastha", "Dwaraka", "Mathura"],
+    "correctAnswer": 2,
+    "explanation": "He stayed in Dwaraka under Krishna’s protection during the Pandavas’ exile."
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "question": "Who prevented Arjuna from following Abhimanyu into Chakravyuha?",
+    "options": ["Bhima", "Subhadra", "Yudhishthira", "Krishna"],
+    "correctAnswer": 3,
+    "explanation": "Krishna held back Arjuna from breaking the rules of engagement."
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "question": "Which Kaurava warrior first wounded Abhimanyu?",
+    "options": ["Drona", "Duryodhana", "Karna", "Ashwatthama"],
+    "correctAnswer": 2,
+    "explanation": "Karna struck him as he fought bravely inside the formation."
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "question": "What vow did Arjuna take after Abhimanyu’s death?",
+    "options": ["To kill Karna", "To kill Jayadratha", "To kill Duryodhana", "To kill Drona"],
+    "correctAnswer": 1,
+    "explanation": "He vowed to kill Jayadratha before sunset the next day."
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "question": "Who coached the child Abhimanyu in martial arts?",
+    "options": ["Drona", "Kripa", "Bhima", "Krishna"],
+    "correctAnswer": 0,
+    "explanation": "Dronacharya taught him various weapons and tactics."
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "question": "Which formation did Abhimanyu fail to learn fully?",
+    "options": ["Padmavyuha", "Chakravyuha", "Garuda vyuha", "Makara vyuha"],
+    "correctAnswer": 1,
+    "explanation": "He did not learn the exit strategy for the Chakravyuha."
+  },
+  {
+    "id": 18,
+    "level": 2,
+    "question": "Who led the eastern campaign after his death?",
+    "options": ["Bhima", "Nakula", "Yudhishthira", "Sahadeva"],
+    "correctAnswer": 0,
+    "explanation": "Bhima took over that role in the absence of Abhimanyu."
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "question": "What did Abhimanyu learn in his mother’s womb by eavesdropping?",
+    "options": ["Chakravyuha entry", "Chakravyuha exit", "Archery", "Chariot riding"],
+    "correctAnswer": 0,
+    "explanation": "He overheard the strategy to enter but not exit the Chakravyuha."
+  },
+  {
+    "id": 20,
+    "level": 3,
+    "question": "Which divine bow did Abhimanyu receive as a gift?",
+    "options": ["Gandiva", "Sharanga", "Vijaya", "Pinaka"],
+    "correctAnswer": 2,
+    "explanation": "He was gifted the Vijaya bow by Krishna."
+  },
+  {
+    "id": 21,
+    "level": 3,
+    "question": "Who broke Shri Krishna’s rules to aid Arjuna’s vow?",
+    "options": ["Bhima", "Yudhishthira", "Nakula", "None"],
+    "correctAnswer": 3,
+    "explanation": "Krishna did not break rules but used strategy to ensure Jayadratha’s death."
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "question": "Which weapon did Abhimanyu use to kill Kritavarma?",
+    "options": ["Arrow", "Spear", "Mace", "Club"],
+    "correctAnswer": 0,
+    "explanation": "He shot Kritavarma with arrows during the Chakravyuha fight."
+  },
+  {
+    "id": 23,
+    "level": 3,
+    "question": "Which warrior honored Abhimanyu’s bravery after his death?",
+    "options": ["Duryodhana", "Bhima", "Krishna", "Yudhishthira"],
+    "correctAnswer": 0,
+    "explanation": "Even Duryodhana admired his courage in combat."
+  },
+  {
+    "id": 24,
+    "level": 3,
+    "question": "How did Subhadra react to his death news?",
+    "options": ["Fainted", "Cursed Kauravas", "Wept silently", "Left kingdom"],
+    "correctAnswer": 1,
+    "explanation": "She cursed the Kauravas for their treachery."
+  },
+  {
+    "id": 25,
+    "level": 4,
+    "question": "What moral issue surrounds Abhimanyu’s death?",
+    "options": ["Fighting unfairly", "Killing unarmed", "Breaking war rules", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His death violated many codes of righteous warfare."
+  },
+  {
+    "id": 26,
+    "level": 4,
+    "question": "Which philosopher’s theme is echoed in his sacrifice?",
+    "options": ["Duty over life", "Might makes right", "Fate vs. free will", "Knowledge alone frees"],
+    "correctAnswer": 0,
+    "explanation": "He embodied sacrificing life for duty (dharma)."
+  },
+  {
+    "id": 27,
+    "level": 4,
+    "question": "What tactical error led to his demise?",
+    "options": ["Ignoring warnings", "Overconfidence", "Weak flank", "Delayed backup"],
+    "correctAnswer": 1,
+    "explanation": "His bravery turned to overconfidence without exit plan."
+  },
+  {
+    "id": 28,
+    "level": 4,
+    "question": "What emotional response did Arjuna show upon returning?",
+    "options": ["Rage", "Despair", "Silence", "Joy"],
+    "correctAnswer": 1,
+    "explanation": "Arjuna was overcome with despair on finding his son dead."
+  },
+  {
+    "id": 29,
+    "level": 4,
+    "question": "Who disguised themselves to kill Jayadratha?",
+    "options": ["Arjuna", "Krishna", "Bhima", "Nakula"],
+    "correctAnswer": 1,
+    "explanation": "Krishna created an illusion of sunset to trick Jayadratha."
+  },
+  {
+    "id": 30,
+    "level": 5,
+    "question": "How does Abhimanyu’s story reflect youthful valor?",
+    "options": ["Reckless courage", "Selfless duty", "Blind loyalty", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "He displayed all these traits in battle."
+  },
+  {
+    "id": 31,
+    "level": 5,
+    "question": "What tragic flaw did Abhimanyu exhibit?",
+    "options": ["Ignorance of exit", "Impatience", "Arrogance", "Fearlessness"],
+    "correctAnswer": 0,
+    "explanation": "He did not know how to exit the formation."
+  },
+  {
+    "id": 32,
+    "level": 5,
+    "question": "What does his death symbolize in epic literature?",
+    "options": ["Martial sacrifice", "Youth’s vulnerability", "Betrayal’s cost", "Divine plan"],
+    "correctAnswer": 2,
+    "explanation": "It underscores the cost of treachery in war."
+  },
+  {
+    "id": 33,
+    "level": 6,
+    "question": "Which philosophical principle does his fate illustrate?",
+    "options": ["Karma", "Dharma", "Maya", "Yoga"],
+    "correctAnswer": 1,
+    "explanation": "His sacrifice upholds the principle of dharma above life."
+  },
+  {
+    "id": 34,
+    "level": 6,
+    "question": "How does Abhimanyu’s arc compare to his father’s?",
+    "options": ["Brief vs. extensive", "Youthful vs. seasoned", "Sacrifice vs. duty", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Their journeys contrast by age, experience, and roles."
+  },
+  {
+    "id": 35,
+    "level": 6,
+    "question": "What lesson does Abhimanyu’s bravery teach?",
+    "options": ["Valor with wisdom", "Strength over caution", "Duty over fear", "All of the above"],
+    "correctAnswer": 2,
+    "explanation": "His story emphasizes duty even in face of mortal peril."
+  },
+  {
+    "id": 37,
+    "level": 7,
+    "question": "What moral debate does his entrapment raise?",
+    "options": ["Right to fight alone", "Fairness in war", "Role of youth", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His death sparks debate on fairness and codes of war."
+  },
+  {
+    "id": 38,
+    "level": 7,
+    "question": "How is Abhimanyu remembered in folk traditions?",
+    "options": ["Martyr hero", "Tragic youth", "Divine child", "All of the above"],
+    "correctAnswer": 0,
+    "explanation": "He is chiefly remembered as a heroic martyr."
+  },
+  {
+    "id": 39,
+    "level": 8,
+    "question": "What ultimate question does his death pose?",
+    "options": ["Is valor enough?", "Does youth require guidance?", "Can duty justify sacrifice?", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His end poses questions on duty, guidance, and valor."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "What enduring legacy does Abhimanyu leave?",
+    "options": ["Eternal valor", "Martial doctrine", "Youthful sacrifice", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "He symbolizes valor, sacrifice, and the tragedy of youth in war."
+  }
+]

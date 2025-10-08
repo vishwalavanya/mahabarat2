@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Duryodhana's father?",
+    "options": ["Pandu", "Dhritarashtra", "Vidura", "Bhishma"],
+    "correctAnswer": 1,
+    "explanation": "Duryodhana was the eldest son of the blind king Dhritarashtra."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "Who was Duryodhana's mother?",
+    "options": ["Kunti", "Gandhari", "Madri", "Satyavati"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari, princess of Gandhara, was Duryodhana's mother."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "How many brothers did Duryodhana have?",
+    "options": ["50", "99", "100", "101"],
+    "correctAnswer": 1,
+    "explanation": "Duryodhana had 99 brothers, making a total of 100 Kaurava brothers."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "Who was Duryodhana's closest brother?",
+    "options": ["Dushasana", "Vikarna", "Chitrasena", "Vivinsati"],
+    "correctAnswer": 0,
+    "explanation": "Dushasana was Duryodhana's second-in-command and closest ally among his brothers."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "Which weapon was Duryodhana most skilled with?",
+    "options": ["Bow and arrow", "Sword", "Mace", "Spear"],
+    "correctAnswer": 2,
+    "explanation": "Duryodhana was an expert mace fighter, trained by Balarama himself."
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "question": "Who was Duryodhana's best friend?",
+    "options": ["Ashwatthama", "Karna", "Shakuni", "Kripa"],
+    "correctAnswer": 1,
+    "explanation": "Karna was Duryodhana's dearest friend and most loyal supporter."
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "question": "Who killed Duryodhana?",
+    "options": ["Arjuna", "Bhima", "Krishna", "Yudhishthira"],
+    "correctAnswer": 1,
+    "explanation": "Bhima killed Duryodhana by breaking his thigh with a mace blow."
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "question": "What was Duryodhana's wife's name?",
+    "options": ["Bhanumati", "Subhadra", "Chitrangada", "Devika"],
+    "correctAnswer": 0,
+    "explanation": "Duryodhana married Princess Bhanumati of Kalinga."
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "question": "Who was Duryodhana's son?",
+    "options": ["Lakshman", "Abhimanyu", "Prativindhya", "Vrishaketu"],
+    "correctAnswer": 0,
+    "explanation": "Lakshman (also called Lakshmana Kumar) was Duryodhana's son with Bhanumati."
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "question": "Which kingdom did Duryodhana rule?",
+    "options": ["Indraprastha", "Hastinapura", "Kurujangala", "Panchal"],
+    "correctAnswer": 1,
+    "explanation": "Duryodhana was the crown prince and later king of Hastinapura."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "Who was Duryodhana's maternal uncle and advisor?",
+    "options": ["Vidura", "Shakuni", "Kripa", "Somadatta"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni, Gandhari's brother, was Duryodhana's cunning uncle and chief advisor."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "Which guru trained Duryodhana in mace fighting?",
+    "options": ["Drona", "Balarama", "Kripa", "Parashurama"],
+    "correctAnswer": 1,
+    "explanation": "Balarama, Krishna's brother, trained Duryodhana in mace warfare."
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "question": "What was the name of the gambling game that led to the Pandavas' exile?",
+    "options": ["Chaupar", "Pachisi", "Dyuta", "Shatranj"],
+    "correctAnswer": 2,
+    "explanation": "The dice game called 'Dyuta' resulted in the Pandavas losing their kingdom."
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "question": "Who actually played the dice game on behalf of Duryodhana?",
+    "options": ["Duryodhana himself", "Shakuni", "Karna", "Dushasana"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni played the dice game using his magical dice while Duryodhana watched."
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "question": "What did Duryodhana give Karna to gain his loyalty?",
+    "options": ["Gold", "Kingdom of Anga", "A palace", "Divine weapons"],
+    "correctAnswer": 1,
+    "explanation": "Duryodhana made Karna the king of Anga to enable his participation in competitions."
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "question": "During the Kurukshetra war, who was Duryodhana's first commander?",
+    "options": ["Bhishma", "Drona", "Karna", "Ashwatthama"],
+    "correctAnswer": 0,
+    "explanation": "Bhishma was the first supreme commander of the Kaurava army."
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "question": "Which Pandava did Duryodhana hate the most?",
+    "options": ["Yudhishthira", "Bhima", "Arjuna", "Nakula"],
+    "correctAnswer": 1,
+    "explanation": "Duryodhana harbored the deepest hatred for Bhima due to childhood humiliations."
+  },
+  {
+    "id": 18,
+    "level": 2,
+    "question": "What insult did Duryodhana face at Maya Sabha?",
+    "options": ["Fell in water", "Walked into glass wall", "Both of the above", "Was mocked by servants"],
+    "correctAnswer": 2,
+    "explanation": "At the Maya Sabha, Duryodhana fell into water and walked into transparent walls."
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "question": "What ominous signs occurred at Duryodhana's birth?",
+    "options": ["Solar eclipse", "Jackals howled", "Blood rain", "Thunder without clouds"],
+    "correctAnswer": 1,
+    "explanation": "When Duryodhana was born, jackals howled inauspiciously, prompting Gandhari to want to abandon him."
+  },
+  {
+    "id": 20,
+    "level": 3,
+    "question": "Who advised abandoning baby Duryodhana due to bad omens?",
+    "options": ["Bhishma", "Vidura", "Vyasa", "Kripa"],
+    "correctAnswer": 1,
+    "explanation": "Vidura advised that the child be abandoned due to the terrible omens at his birth."
+  },
+  {
+    "id": 21,
+    "level": 3,
+    "question": "Which part of Duryodhana's body was vulnerable due to his mother's incomplete blessing?",
+    "options": ["His head", "His thighs", "His chest", "His arms"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari's blessing made his body diamond-hard except his thighs, which she couldn't see due to his modesty."
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "question": "Who gave Duryodhana the idea to use Shakuni's dice?",
+    "options": ["Karna", "Shakuni himself", "Dushasana", "Ashwatthama"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni proposed the dice game plan to Duryodhana as revenge against the Kuru dynasty."
+  },
+  {
+    "id": 23,
+    "level": 3,
+    "question": "What was Duryodhana's reaction to Krishna's Vishwarupa?",
+    "options": ["He was frightened", "He was unimpressed", "He closed his eyes", "He laughed"],
+    "correctAnswer": 1,
+    "explanation": "Unlike others, Duryodhana remained unimpressed by Krishna's cosmic form, showing his pride."
+  },
+  {
+    "id": 24,
+    "level": 3,
+    "question": "Who was Duryodhana's charioteer during the final battle?",
+    "options": ["Shalya", "Karna", "His own driver", "Kritavarma"],
+    "correctAnswer": 2,
+    "explanation": "Duryodhana had his personal charioteer during the war, unlike some other warriors."
+  },
+  {
+    "id": 25,
+    "level": 4,
+    "question": "What psychological trait dominated Duryodhana's character?",
+    "options": ["Jealousy and envy", "Anger", "Greed", "Pride"],
+    "correctAnswer": 0,
+    "explanation": "Duryodhana's jealousy of the Pandavas' success and popularity drove most of his actions."
+  },
+  {
+    "id": 26,
+    "level": 4,
+    "question": "Which incident first sparked Duryodhana's hatred for Bhima?",
+    "options": ["Bhima's strength in training", "Bhima pushing him in water", "Bhima eating his food", "Bhima defeating him in wrestling"],
+    "correctAnswer": 1,
+    "explanation": "Bhima's childhood prank of pushing Duryodhana into water planted the seeds of lifelong hatred."
+  },
+  {
+    "id": 27,
+    "level": 4,
+    "question": "What was Duryodhana's justification for the dice game?",
+    "options": ["It was tradition", "Yudhishthira couldn't refuse", "It was his right as heir", "The gods ordained it"],
+    "correctAnswer": 1,
+    "explanation": "Duryodhana used the dharmic principle that a Kshatriya cannot refuse a gaming challenge."
+  },
+  {
+    "id": 28,
+    "level": 4,
+    "question": "How did Duryodhana attempt to kill Bhima with poison?",
+    "options": ["Poisoned food", "Poisoned water", "Threw him in river after poisoning", "Poisoned weapons"],
+    "correctAnswer": 2,
+    "explanation": "Duryodhana poisoned Bhima and threw him into the Ganga, but Bhima was saved by the Nagas."
+  },
+  {
+    "id": 29,
+    "level": 4,
+    "question": "What was Duryodhana's response to all peace negotiations?",
+    "options": ["He considered them", "He rejected them outright", "He set impossible conditions", "He agreed but broke promises"],
+    "correctAnswer": 1,
+    "explanation": "Duryodhana flatly refused all peace overtures, famously saying he wouldn't give even needle-point of land."
+  },
+  {
+    "id": 30,
+    "level": 5,
+    "question": "What deeper motivation drove Duryodhana beyond mere jealousy?",
+    "options": ["Desire for absolute power", "Fear of being overshadowed", "Belief in his own righteousness", "Hatred of dharma itself"],
+    "correctAnswer": 2,
+    "explanation": "Duryodhana genuinely believed he was the rightful heir and that the Pandavas were usurpers."
+  },
+  {
+    "id": 31,
+    "level": 5,
+    "question": "How did Duryodhana's pride manifest in his leadership style?",
+    "options": ["Refusing good counsel", "Believing in his invincibility", "Underestimating enemies", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His pride made him dismissive of advice, overconfident in battle, and contemptuous of opponents."
+  },
+  {
+    "id": 32,
+    "level": 5,
+    "question": "What was Duryodhana's greatest strategic error?",
+    "options": ["Starting the war", "Trusting Shakuni", "Rejecting Krishna's alliance", "Underestimating Arjuna"],
+    "correctAnswer": 2,
+    "explanation": "Refusing Krishna's offer and letting him go to the Pandavas was his most fatal mistake."
+  },
+  {
+    "id": 33,
+    "level": 5,
+    "question": "How did Duryodhana's relationship with his father affect his decisions?",
+    "options": ["Dhritarashtra always supported him", "He sought constant approval", "He rebelled against weakness", "He felt neglected"],
+    "correctAnswer": 1,
+    "explanation": "Duryodhana's actions were often driven by his need for his father's validation and support."
+  },
+  {
+    "id": 34,
+    "level": 6,
+    "question": "What complex moral position did Duryodhana represent?",
+    "options": ["Pure evil", "Misguided righteousness", "Victim of circumstances", "Anti-dharmic force"],
+    "correctAnswer": 1,
+    "explanation": "Duryodhana believed his cause was just, representing how righteousness can be perverted by ego."
+  },
+  {
+    "id": 35,
+    "level": 6,
+    "question": "How did Duryodhana's loyalty to friends contrast with his hatred of enemies?",
+    "options": ["He was equally passionate in both", "His loyalty was conditional", "His hatred was stronger", "His loyalty was his only virtue"],
+    "correctAnswer": 0,
+    "explanation": "Duryodhana's intense loyalty to Karna matched his intense hatred of the Pandavas."
+  },
+  {
+    "id": 36,
+    "level": 6,
+    "question": "What does Duryodhana's refusal to share the kingdom reveal about his character?",
+    "options": ["Pure greed", "Fear of losing identity", "Belief in absolute authority", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His refusal stemmed from greed, fear of diminished status, and belief in his absolute right to rule."
+  },
+  {
+    "id": 37,
+    "level": 7,
+    "question": "How does Duryodhana embody the concept of 'tragic hero' in Indian literature?",
+    "options": ["His noble birth and fatal flaw", "His courage despite wrong cause", "His loyalty and ultimate downfall", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "He possesses heroic qualities (courage, loyalty) but is destroyed by his character flaws (pride, envy)."
+  },
+  {
+    "id": 38,
+    "level": 7,
+    "question": "What philosophical question does Duryodhana's characterization raise about dharma?",
+    "options": ["Is dharma always clear?", "Can wrong means serve right ends?", "Is righteous intent enough?", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His sincere belief in his righteousness challenges simple notions of dharma and adharma."
+  },
+  {
+    "id": 39,
+    "level": 8,
+    "question": "How does Duryodhana's death scene reflect the complexity of his character?",
+    "options": ["He dies unrepentant", "He shows courage till the end", "He maintains dignity in defeat", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Even in death, he displays the contradictory qualities that defined him - pride, courage, and uncompromising nature."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "What ultimate lesson does Duryodhana's life teach about power and righteousness?",
+    "options": ["Power corrupts absolutely", "Self-righteousness can justify evil", "Ego destroys even noble qualities", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His story demonstrates how ego and self-righteousness can corrupt noble qualities and lead to destruction."
+  }
+]

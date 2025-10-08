@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Ghatotkacha’s father?",
+    "options": ["Arjuna", "Bhima", "Nakula", "Sahadeva"],
+    "correctAnswer": 1,
+    "explanation": "Ghatotkacha was the son of Bhima and the rakshasi Hidimbi."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "Who was Ghatotkacha’s mother?",
+    "options": ["Draupadi", "Subhadra", "Hidimbi", "Rukmini"],
+    "correctAnswer": 2,
+    "explanation": "Hidimbi, a rakshasi princess, was the mother of Ghatotkacha."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "What was unique about Ghatotkacha’s appearance?",
+    "options": ["Golden skin", "Hairy head shaped like a pot", "Four arms", "Glowing eyes"],
+    "correctAnswer": 1,
+    "explanation": "His name means 'pot-headed' due to his bald, pot-like shaped head."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "Which side did Ghatotkacha fight on in the Kurukshetra war?",
+    "options": ["Kauravas", "Pandavas", "Neither", "Switched sides"],
+    "correctAnswer": 1,
+    "explanation": "Ghatotkacha fought for the Pandavas, supporting his father Bhima."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "What supernatural power did Ghatotkacha inherit from his mother?",
+    "options": ["Immortality", "Illusions and flight", "Shape-shifting", "Invulnerability"],
+    "correctAnswer": 1,
+    "explanation": "He had rakshasa powers like creating illusions, flying, and immense strength."
+  },
+  {
+    "id": 6,
+    "level": 2,
+    "question": "Who was Ghatotkacha’s son?",
+    "options": ["Anjanaparva", "Vajra", "Abhimanyu", "Barbarika"],
+    "correctAnswer": 0,
+    "explanation": "Anjanaparva was Ghatotkacha’s son."
+  },
+  {
+    "id": 7,
+    "level": 2,
+    "question": "Which Kaurava warrior was terrified of Ghatotkacha?",
+    "options": ["Bhishma", "Karna", "Duryodhana", "Dronacharya"],
+    "correctAnswer": 2,
+    "explanation": "Duryodhana and many Kauravas feared him because of his night battle prowess."
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "question": "When was Ghatotkacha most powerful in battle?",
+    "options": ["During the day", "At night", "Only in forests", "Only on mountains"],
+    "correctAnswer": 1,
+    "explanation": "Rakshasas were more powerful at night, and Ghatotkacha dominated night battles."
+  },
+  {
+    "id": 9,
+    "level": 2,
+    "question": "Which weapon did Karna use to kill Ghatotkacha?",
+    "options": ["Brahmastra", "Indrastra", "Vajrayudha", "Nagastram"],
+    "correctAnswer": 1,
+    "explanation": "Karna was forced to use the Indra’s Shakti weapon to kill Ghatotkacha."
+  },
+  {
+    "id": 10,
+    "level": 2,
+    "question": "Why was Ghatotkacha’s death considered beneficial for the Pandavas?",
+    "options": ["He chose to die himself", "He forced Karna to waste his divine weapon", "He killed Duryodhana before dying", "He protected Arjuna with his body"],
+    "correctAnswer": 1,
+    "explanation": "By making Karna use the Indra’s Shakti on him, Arjuna’s life was saved later."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "Who rejoiced secretly at Ghatotkacha’s death?",
+    "options": ["Krishna", "Bhima", "Duryodhana", "Arjuna"],
+    "correctAnswer": 0,
+    "explanation": "Krishna knew that Ghatotkacha’s sacrifice saved Arjuna, so he rejoiced."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "What did Ghatotkacha do when struck by Karna’s weapon?",
+    "options": ["Died instantly", "Expanded his body and crushed Kauravas", "Flew away", "Turned invisible"],
+    "correctAnswer": 1,
+    "explanation": "Before dying, he expanded his body and crushed a huge number of Kaurava soldiers."
+  },
+  {
+    "id": 13,
+    "level": 3,
+    "question": "Who predicted that Ghatotkacha would be crucial in the war?",
+    "options": ["Krishna", "Vyasa", "Bhishma", "Drona"],
+    "correctAnswer": 0,
+    "explanation": "Krishna foresaw that Ghatotkacha would play a decisive role in forcing Karna to waste his divine weapon."
+  },
+  {
+    "id": 14,
+    "level": 3,
+    "question": "What did Bhima feel after Ghatotkacha’s death?",
+    "options": ["Joy", "Indifference", "Sorrow mixed with pride", "Anger at Krishna"],
+    "correctAnswer": 2,
+    "explanation": "Bhima was heartbroken but proud that his son died heroically."
+  },
+  {
+    "id": 15,
+    "level": 3,
+    "question": "Who was stronger: Ghatotkacha or Abhimanyu?",
+    "options": ["Abhimanyu", "Ghatotkacha", "Both equal", "Neither"],
+    "correctAnswer": 1,
+    "explanation": "While Abhimanyu was skilled, Ghatotkacha’s rakshasa powers made him far stronger, especially at night."
+  },
+  {
+    "id": 16,
+    "level": 3,
+    "question": "What was Ghatotkacha’s role during Abhimanyu’s death?",
+    "options": ["He fought beside him", "He was away in another battle", "He was injured", "He refused to fight"],
+    "correctAnswer": 1,
+    "explanation": "Ghatotkacha was engaged elsewhere and could not save Abhimanyu."
+  },
+  {
+    "id": 17,
+    "level": 3,
+    "question": "Which demon was Ghatotkacha’s maternal uncle?",
+    "options": ["Bakasura", "Hidimba", "Alambusha", "Kirmira"],
+    "correctAnswer": 1,
+    "explanation": "Hidimba, who was slain by Bhima, was Ghatotkacha’s maternal uncle."
+  },
+  {
+    "id": 18,
+    "level": 3,
+    "question": "What was Ghatotkacha’s favorite weapon?",
+    "options": ["Mace", "Sword", "Illusions and magical powers", "Bow and arrows"],
+    "correctAnswer": 2,
+    "explanation": "He relied heavily on illusions, sorcery, and brute strength."
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "question": "What happened to Ghatotkacha’s son after the war?",
+    "options": ["He died in battle", "He ruled his mother’s land", "He became a sage", "He was cursed"],
+    "correctAnswer": 1,
+    "explanation": "Anjanaparva, Ghatotkacha’s son, ruled the land of his rakshasa mother."
+  },
+  {
+    "id": 20,
+    "level": 4,
+    "question": "Which Pandava was closest to Ghatotkacha?",
+    "options": ["Yudhishthira", "Bhima", "Arjuna", "Nakula"],
+    "correctAnswer": 1,
+    "explanation": "Bhima, his father, had a strong bond with Ghatotkacha."
+  },
+  {
+    "id": 21,
+    "level": 4,
+    "question": "Which rakshasa fought against Ghatotkacha in Kurukshetra?",
+    "options": ["Kirmira", "Alambusha", "Bakasura", "Jatasura"],
+    "correctAnswer": 1,
+    "explanation": "Alambusha, a rakshasa on the Kaurava side, battled Ghatotkacha."
+  },
+  {
+    "id": 22,
+    "level": 4,
+    "question": "What boon did Indra give Karna that later killed Ghatotkacha?",
+    "options": ["Brahmastra", "Vajra", "Shakti weapon", "Agneyastra"],
+    "correctAnswer": 2,
+    "explanation": "Indra gave Karna the divine Shakti weapon, which he used on Ghatotkacha."
+  },
+  {
+    "id": 23,
+    "level": 4,
+    "question": "Who was relieved after Ghatotkacha’s death?",
+    "options": ["Duryodhana", "Arjuna", "Krishna", "Bhima"],
+    "correctAnswer": 0,
+    "explanation": "Duryodhana was relieved as Ghatotkacha was wreaking havoc on his army."
+  },
+  {
+    "id": 24,
+    "level": 4,
+    "question": "What title is often given to Ghatotkacha?",
+    "options": ["Rakshasa king", "Night warrior", "Pot-headed giant", "Protector of Pandavas"],
+    "correctAnswer": 1,
+    "explanation": "He was known as the undefeatable night warrior of Kurukshetra."
+  },
+  {
+    "id": 25,
+    "level": 5,
+    "question": "Who praised Ghatotkacha’s sacrifice the most?",
+    "options": ["Draupadi", "Krishna", "Karna", "Vyasa"],
+    "correctAnswer": 1,
+    "explanation": "Krishna considered his sacrifice crucial for saving Arjuna and Pandavas."
+  },
+  {
+    "id": 26,
+    "level": 5,
+    "question": "How did Ghatotkacha help Bhima in his early years?",
+    "options": ["Fought demons", "Provided food and shelter", "Protected him in forests", "None"],
+    "correctAnswer": 2,
+    "explanation": "Ghatotkacha helped protect Bhima and Pandavas in forests with his powers."
+  },
+  {
+    "id": 27,
+    "level": 5,
+    "question": "Who described Ghatotkacha as equal to a thousand elephants in strength?",
+    "options": ["Drona", "Bhishma", "Krishna", "Sanjaya"],
+    "correctAnswer": 3,
+    "explanation": "Sanjaya described his immense strength while narrating to Dhritarashtra."
+  },
+  {
+    "id": 28,
+    "level": 5,
+    "question": "What curse did Ghatotkacha unknowingly fulfill?",
+    "options": ["Arjuna’s death curse", "Karna’s Shakti must be wasted", "Bhima’s doom", "Yudhishthira’s exile"],
+    "correctAnswer": 1,
+    "explanation": "His death ensured Karna wasted his Shakti weapon, fulfilling Krishna’s plan."
+  },
+  {
+    "id": 29,
+    "level": 6,
+    "question": "Which goddess blessed Ghatotkacha with invincibility at night?",
+    "options": ["Durga", "Kali", "Parvati", "No goddess"],
+    "correctAnswer": 1,
+    "explanation": "It is said Goddess Kali blessed him with night invincibility."
+  },
+  {
+    "id": 30,
+    "level": 6,
+    "question": "How many days did Ghatotkacha fight in Kurukshetra before dying?",
+    "options": ["2", "5", "10", "14"],
+    "correctAnswer": 3,
+    "explanation": "He fought fiercely for 14 days before Karna killed him."
+  },
+  {
+    "id": 31,
+    "level": 6,
+    "question": "Which celestial being rejoiced in heaven after Ghatotkacha’s death?",
+    "options": ["Indra", "Agni", "Devas", "Ashvins"],
+    "correctAnswer": 2,
+    "explanation": "The devas rejoiced as Arjuna’s life was saved."
+  },
+  {
+    "id": 32,
+    "level": 6,
+    "question": "What did Ghatotkacha symbolize in the war?",
+    "options": ["Raw strength", "Divine strategy", "Sacrificial heroism", "Vengeance"],
+    "correctAnswer": 2,
+    "explanation": "His sacrifice became symbolic of heroic duty beyond personal survival."
+  },
+  {
+    "id": 33,
+    "level": 7,
+    "question": "What curse was Karna under when he killed Ghatotkacha?",
+    "options": ["Forgetfulness of mantras", "His Shakti could be used only once", "Cursed to kill innocents", "None"],
+    "correctAnswer": 1,
+    "explanation": "Karna’s Shakti weapon could be used only once, and it was wasted on Ghatotkacha."
+  },
+  {
+    "id": 34,
+    "level": 7,
+    "question": "Why was Ghatotkacha’s fight style unique compared to Pandavas?",
+    "options": ["Used magic and flight", "Relied on brute force only", "Never followed dharma", "Did not use weapons"],
+    "correctAnswer": 0,
+    "explanation": "Unlike Pandavas, Ghatotkacha used rakshasa magic, illusions, and aerial combat."
+  },
+  {
+    "id": 35,
+    "level": 7,
+    "question": "Who narrated Ghatotkacha’s death to Dhritarashtra?",
+    "options": ["Vyasa", "Krishna", "Sanjaya", "Duryodhana"],
+    "correctAnswer": 2,
+    "explanation": "Sanjaya vividly narrated the heroic fall of Ghatotkacha to Dhritarashtra."
+  },
+  {
+    "id": 36,
+    "level": 7,
+    "question": "What lesson does Ghatotkacha’s death teach in Mahabharata?",
+    "options": ["Strength always wins", "Sacrifice for dharma", "Fate is stronger than will", "Parents must protect children"],
+    "correctAnswer": 1,
+    "explanation": "His sacrifice teaches that one must give up even life for dharma and greater good."
+  },
+  {
+    "id": 37,
+    "level": 8,
+    "question": "Which modern festival sometimes recalls Ghatotkacha’s bravery?",
+    "options": ["Diwali", "Janmashtami", "Dussera", "Holi"],
+    "correctAnswer": 2,
+    "explanation": "In some traditions of Dussehra, Ghatotkacha’s valor is remembered."
+  },
+  {
+    "id": 38,
+    "level": 8,
+    "question": "What did Ghatotkacha’s massive body do after death?",
+    "options": ["Burned instantly", "Turned into light", "Crushed Kaurava soldiers", "Vanished"],
+    "correctAnswer": 2,
+    "explanation": "His gigantic body crushed countless Kaurava troops even after death."
+  },
+  {
+    "id": 39,
+    "level": 8,
+    "question": "What inner quality made Ghatotkacha stand out?",
+    "options": ["Anger", "Loyalty to Pandavas", "Fearlessness", "Obedience to Krishna"],
+    "correctAnswer": 1,
+    "explanation": "Though half-rakshasa, he was deeply loyal to Pandavas and dharma."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "In Mahabharata symbolism, what does Ghatotkacha represent?",
+    "options": ["Uncontrolled rage", "Sacrifice for dharma", "Strength of rakshasas", "End of illusions"],
+    "correctAnswer": 1,
+    "explanation": "He represents supreme sacrifice, giving up life so dharma could win."
+  }
+]

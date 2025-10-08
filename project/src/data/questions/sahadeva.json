@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Sahadeva's divine father?",
+    "options": ["Indra", "Ashwini Kumaras", "Vayu", "Surya"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva and his twin brother Nakula were born to Madri through the blessings of the Ashwini Kumaras, the divine twin horsemen."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "Who was Sahadeva's mother?",
+    "options": ["Kunti", "Madri", "Gandhari", "Draupadi"],
+    "correctAnswer": 1,
+    "explanation": "Madri, the second wife of Pandu, was the mother of Sahadeva and Nakula."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "Who was Sahadeva's twin brother?",
+    "options": ["Arjuna", "Bhima", "Nakula", "Abhimanyu"],
+    "correctAnswer": 2,
+    "explanation": "Sahadeva and Nakula were twins born from Madri with the blessings of the Ashwini Kumaras."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "What was Sahadeva especially skilled in?",
+    "options": ["Sword fighting", "Chariot driving", "Astrology and wisdom", "Archery"],
+    "correctAnswer": 2,
+    "explanation": "Sahadeva was renowned for his wisdom, knowledge of scriptures, and mastery of astrology."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "Who was Sahadeva's wife?",
+    "options": ["Devika", "Draupadi", "Vijaya", "Subhadra"],
+    "correctAnswer": 2,
+    "explanation": "Sahadeva married Vijaya, the daughter of Dyutimat, king of Madra, besides sharing Draupadi with his brothers."
+  },
+  {
+    "id": 6,
+    "level": 2,
+    "question": "What was the name of Sahadeva's son with Draupadi?",
+    "options": ["Sutasoma", "Srutakarma", "Satanika", "Prativindhya"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva’s son with Draupadi was named Srutakarma. Each Pandava had a son with her."
+  },
+  {
+    "id": 7,
+    "level": 2,
+    "question": "What was the name of Sahadeva's son with Vijaya?",
+    "options": ["Niramitra", "Shrutasena", "Vrishaketu", "Suvarna"],
+    "correctAnswer": 0,
+    "explanation": "Sahadeva and Vijaya had a son named Niramitra."
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "question": "During the incognito exile, what disguise did Sahadeva take?",
+    "options": ["Cowherd", "Horse caretaker", "Cook", "Court jester"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva disguised himself as a caretaker of cows and horses in King Virata's court during the Pandavas’ incognito year."
+  },
+  {
+    "id": 9,
+    "level": 2,
+    "question": "Which direction did Sahadeva conquer during Yudhishthira's Rajasuya sacrifice?",
+    "options": ["North", "South", "East", "West"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva led a campaign to the south, subduing many kingdoms in preparation for Yudhishthira’s Rajasuya Yagna."
+  },
+  {
+    "id": 10,
+    "level": 2,
+    "question": "What vow did Sahadeva take before the Kurukshetra war?",
+    "options": ["To kill Karna", "To kill Duryodhana", "To kill Shakuni", "To kill Dushasana"],
+    "correctAnswer": 2,
+    "explanation": "Sahadeva vowed to kill Shakuni, the mastermind behind the dice game, and fulfilled this during the war."
+  },
+  {
+    "id": 11,
+    "level": 3,
+    "question": "Who killed Sahadeva’s son Srutakarma?",
+    "options": ["Ashwatthama", "Karna", "Drona", "Bhishma"],
+    "correctAnswer": 0,
+    "explanation": "Ashwatthama killed all the sons of the Pandavas, including Srutakarma, on the night raid after the Kurukshetra war."
+  },
+  {
+    "id": 12,
+    "level": 3,
+    "question": "Who killed Sahadeva’s son Niramitra?",
+    "options": ["Ashwatthama", "Karna", "Duryodhana", "Shalya"],
+    "correctAnswer": 0,
+    "explanation": "Like Srutakarma, Niramitra was also killed by Ashwatthama during the night massacre."
+  },
+  {
+    "id": 13,
+    "level": 3,
+    "question": "Whom did Sahadeva kill during the Kurukshetra war?",
+    "options": ["Shalya", "Shakuni", "Dushasana", "Karna"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva killed Shakuni on the 18th day of the war, avenging the Pandavas’ humiliation in the dice game."
+  },
+  {
+    "id": 14,
+    "level": 3,
+    "question": "Which weapon did Sahadeva primarily use in the war?",
+    "options": ["Bow and arrows", "Sword", "Mace", "Spear"],
+    "correctAnswer": 0,
+    "explanation": "Though skilled in swordsmanship, Sahadeva primarily fought with bow and arrows in the Kurukshetra war."
+  },
+  {
+    "id": 15,
+    "level": 3,
+    "question": "What unique knowledge did Sahadeva possess?",
+    "options": ["Secrets of astrology and omens", "Chariot warfare", "Music and dance", "Weapon making"],
+    "correctAnswer": 0,
+    "explanation": "Sahadeva was a master astrologer and possessed knowledge of the past, present, and future."
+  },
+  {
+    "id": 16,
+    "level": 4,
+    "question": "What curse was Sahadeva bound by regarding his knowledge of the future?",
+    "options": ["He could only reveal it once", "He could never reveal it unasked", "He forgot it after war", "He had to die if he spoke it"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva was bound by a vow never to reveal his knowledge unless directly asked, making his wisdom a silent burden."
+  },
+  {
+    "id": 17,
+    "level": 4,
+    "question": "Whose death did Sahadeva predict but remain silent about?",
+    "options": ["Duryodhana", "Karna", "Abhimanyu", "Bhishma"],
+    "correctAnswer": 2,
+    "explanation": "Though Sahadeva knew about Abhimanyu’s fate, he could not reveal it unless asked, staying bound to his vow."
+  },
+  {
+    "id": 18,
+    "level": 4,
+    "question": "Which king’s daughter was abducted by Sahadeva during the Rajasuya campaign?",
+    "options": ["King of Magadha’s daughter", "King of Madra’s daughter", "King of Surya’s daughter", "King of Dasharna’s daughter"],
+    "correctAnswer": 0,
+    "explanation": "Sahadeva defeated Jarasandha of Magadha and captured his daughter during the southern conquest for Rajasuya."
+  },
+  {
+    "id": 19,
+    "level": 4,
+    "question": "What was Sahadeva’s chariot flag symbol?",
+    "options": ["Twin stars", "Silver swan", "Deer", "Lion"],
+    "correctAnswer": 2,
+    "explanation": "Sahadeva’s chariot bore the symbol of a deer, reflecting his calm and gentle nature."
+  },
+  {
+    "id": 20,
+    "level": 4,
+    "question": "Who was Sahadeva’s charioteer in the Kurukshetra war?",
+    "options": ["Krishna", "His own driver", "Nakula", "Yuyutsu"],
+    "correctAnswer": 1,
+    "explanation": "Unlike Arjuna, Sahadeva had his own skilled charioteer driving him in the war."
+  },
+  {
+    "id": 21,
+    "level": 5,
+    "question": "What role did Sahadeva play in Yudhishthira’s Ashwamedha sacrifice?",
+    "options": ["Protected the horse", "Performed rituals", "Led the army", "Remained in Hastinapura"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva was in charge of conducting several key rituals during Yudhishthira’s Ashwamedha Yagna."
+  },
+  {
+    "id": 22,
+    "level": 5,
+    "question": "What was Sahadeva’s personal strength according to the Mahabharata?",
+    "options": ["Physical might", "Wisdom and foresight", "Speed in battle", "Diplomacy"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva’s personal strength was his deep wisdom and foresight, often guiding the Pandavas’ decisions."
+  },
+  {
+    "id": 23,
+    "level": 5,
+    "question": "How did Sahadeva die during the final journey of the Pandavas?",
+    "options": ["Fell due to pride", "Fell due to overconfidence in wisdom", "Fell due to desire for kingship", "Fell due to anger"],
+    "correctAnswer": 1,
+    "explanation": "On the final journey to the Himalayas, Sahadeva was the second to fall, due to his pride in his knowledge and wisdom."
+  },
+  {
+    "id": 24,
+    "level": 5,
+    "question": "Who was the first Pandava to fall on the final journey?",
+    "options": ["Bhima", "Arjuna", "Nakula", "Sahadeva"],
+    "correctAnswer": 2,
+    "explanation": "Nakula, due to his pride in his beauty, was the first Pandava to fall on the great journey."
+  },
+  {
+    "id": 25,
+    "level": 5,
+    "question": "What does Sahadeva’s fall symbolize?",
+    "options": ["The burden of strength", "The weakness of pride in knowledge", "The futility of anger", "The dangers of wealth"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva’s fall represents how even wisdom can become pride, leading to downfall."
+  },
+  {
+    "id": 26,
+    "level": 6,
+    "question": "What is Sahadeva most remembered for in the Mahabharata?",
+    "options": ["Astrological knowledge", "Killing Dushasana", "Being Draupadi’s favorite", "Performing sacrifices"],
+    "correctAnswer": 0,
+    "explanation": "Sahadeva is remembered as the wise Pandava, skilled in astrology and secret knowledge."
+  },
+  {
+    "id": 27,
+    "level": 6,
+    "question": "Which moral dilemma did Sahadeva face due to his vow of silence?",
+    "options": ["Protecting Draupadi", "Revealing war outcomes", "Choosing sides in exile", "Guiding Yudhishthira"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva’s vow of silence about future events put him in a moral dilemma during the war."
+  },
+  {
+    "id": 28,
+    "level": 6,
+    "question": "How did Sahadeva influence the Pandavas’ strategies?",
+    "options": ["By his strength", "By his wisdom and foresight", "By alliances", "By diplomacy with Krishna"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva’s foresight and wisdom guided the Pandavas’ strategies in subtle but vital ways."
+  },
+  {
+    "id": 29,
+    "level": 6,
+    "question": "What quality of Sahadeva contrasts with Bhima’s?",
+    "options": ["Patience vs. Impulsiveness", "Strength vs. Weakness", "Silence vs. Speech", "Anger vs. Calm"],
+    "correctAnswer": 0,
+    "explanation": "Sahadeva’s patience and wisdom balanced Bhima’s impulsiveness and aggression."
+  },
+  {
+    "id": 30,
+    "level": 6,
+    "question": "What lesson does Sahadeva’s character primarily teach?",
+    "options": ["Knowledge without humility can be dangerous", "Strength alone wins battles", "Beauty brings downfall", "Silence is weakness"],
+    "correctAnswer": 0,
+    "explanation": "Sahadeva’s story highlights that wisdom without humility can lead to downfall."
+  },
+  {
+    "id": 31,
+    "level": 7,
+    "question": "What philosophical aspect does Sahadeva represent in the Mahabharata?",
+    "options": ["The burden of wisdom", "The futility of wealth", "The strength of forgiveness", "The virtue of beauty"],
+    "correctAnswer": 0,
+    "explanation": "Sahadeva represents the burden of wisdom, as his knowledge often remained unspoken due to his vow."
+  },
+  {
+    "id": 32,
+    "level": 7,
+    "question": "How did Sahadeva’s knowledge affect his personality?",
+    "options": ["Made him arrogant", "Made him humble but silent", "Made him aggressive", "Made him indecisive"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva’s knowledge made him silent and thoughtful, though his inner pride led to his fall."
+  },
+  {
+    "id": 33,
+    "level": 7,
+    "question": "What was Sahadeva’s view on dharma?",
+    "options": ["Strict justice", "Balance and foresight", "Mercy above all", "Revenge as duty"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva saw dharma as requiring balance, foresight, and wisdom to guide action."
+  },
+  {
+    "id": 34,
+    "level": 7,
+    "question": "Which brother was Sahadeva closest to?",
+    "options": ["Arjuna", "Bhima", "Nakula", "Yudhishthira"],
+    "correctAnswer": 2,
+    "explanation": "Sahadeva was especially close to Nakula, his twin brother, and they shared deep loyalty."
+  },
+  {
+    "id": 35,
+    "level": 7,
+    "question": "What unique role did Sahadeva play compared to the other Pandavas?",
+    "options": ["Silent wisdom and foresight", "Strongest warrior", "Divine incarnation", "Chief diplomat"],
+    "correctAnswer": 0,
+    "explanation": "Sahadeva’s uniqueness lay in his silent wisdom and astrological foresight, unlike his brothers’ martial strengths."
+  },
+  {
+    "id": 36,
+    "level": 8,
+    "question": "What does Sahadeva’s silence about destiny symbolize?",
+    "options": ["Power of secrecy", "The burden of knowledge", "The weakness of fear", "The virtue of humility"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva’s silence about destiny symbolizes the heavy burden of knowing truth but being unable to reveal it."
+  },
+  {
+    "id": 37,
+    "level": 8,
+    "question": "What was Sahadeva’s legacy in Indian tradition?",
+    "options": ["Astrological wisdom", "Martial strength", "Diplomatic ties", "Royal sacrifices"],
+    "correctAnswer": 0,
+    "explanation": "Sahadeva’s legacy is his deep astrological wisdom, remembered in traditional stories and folklore."
+  },
+  {
+    "id": 38,
+    "level": 8,
+    "question": "How did Sahadeva balance loyalty to Yudhishthira with his own knowledge?",
+    "options": ["By guiding silently", "By ignoring knowledge", "By opposing openly", "By following Nakula only"],
+    "correctAnswer": 0,
+    "explanation": "Sahadeva balanced his knowledge and loyalty by guiding Yudhishthira silently, without breaking his vow."
+  },
+  {
+    "id": 39,
+    "level": 8,
+    "question": "What does Sahadeva represent in Hindu philosophy?",
+    "options": ["Strength of will", "Burden of wisdom", "Glory of beauty", "Power of wealth"],
+    "correctAnswer": 1,
+    "explanation": "Sahadeva represents the burden of wisdom and the importance of humility in knowledge."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "What was the ultimate test of Sahadeva’s humility?",
+    "options": ["Rajasuya campaign", "Kurukshetra war", "Dice game", "Final journey to Himalayas"],
+    "correctAnswer": 3,
+    "explanation": "Sahadeva’s ultimate test came on the final journey, where his pride in wisdom led to his fall."
+  }
+]

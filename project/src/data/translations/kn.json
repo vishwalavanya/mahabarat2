@@ -1,0 +1,39 @@
+{
+  "ui": {
+    "enterWorld": "ಜಗತ್ತಿಗೆ ಪ್ರವೇಶಿಸಿ",
+    "skip": "ಬಿಟ್ಟುಬಿಡಿ",
+    "next": "ಮುಂದೆ",
+    "playAgain": "ಮತ್ತೆ ಆಡಿ",
+    "selectCharacter": "ನಿಮ್ಮ ಪಾತ್ರವನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+    "playAs": "ಆಗಿ ಆಡಿ",
+    "learnMore": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ",
+    "back": "ಹಿಂದೆ",
+    "level": "ಹಂತ",
+    "completed": "ಪೂರ್ಣಗೊಂಡಿದೆ",
+    "biography": "ಜೀವನ ಚರಿತ್ರೆ",
+    "skills": "ಕೌಶಲ್ಯಗಳು",
+    "traits": "ಗುಣಲಕ್ಷಣಗಳು"
+  },
+  "characters": {
+    "yudhishthira": "ಯುಧಿಷ್ಠಿರ",
+    "bhima": "ಭೀಮ",
+    "arjuna": "ಅರ್ಜುನ",
+    "nakula": "ನಕುಲ",
+    "sahadeva": "ಸಹದೇವ",
+    "krishna": "ಕೃಷ್ಣ",
+    "karna": "ಕರ್ಣ",
+    "duryodhana": "ದುರ್ಯೋಧನ",
+    "bhishma": "ಭೀಷ್ಮ",
+    "drona": "ದ್ರೋಣ",
+    "ashwatthama": "ಅಶ್ವತ್ಥಾಮ",
+    "ghatotkacha": "ಘಟೋತ್ಕಚ",
+    "abhimanyu": "ಅಭಿಮನ್ಯು",
+    "draupadi": "ದ್ರೌಪದಿ",
+    "kunti": "ಕುಂತಿ",
+    "gandhari": "ಗಾಂಧಾರಿ",
+    "shakuni": "ಶಕುನಿ",
+    "jarasandha": "ಜರಾಸಂಧ",
+    "ekalavya": "ಏಕಲವ್ಯ",
+    "barbarika": "ಬರ್ಬರೀಕ"
+  }
+}

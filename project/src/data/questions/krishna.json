@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who were Krishna's parents?",
+    "options": ["Vasudeva and Devaki", "Nanda and Yashoda", "Dasharatha and Kaushalya", "Pandu and Kunti"],
+    "correctAnswer": 0,
+    "explanation": "Krishna was born to Vasudeva and Devaki in Mathura, but was raised by Nanda and Yashoda in Gokul."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "Where was Krishna born?",
+    "options": ["Vrindavan", "Mathura", "Ayodhya", "Dwarka"],
+    "correctAnswer": 1,
+    "explanation": "Krishna was born in Mathura prison, where his parents were held by Kansa."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "Who was Krishna’s foster mother?",
+    "options": ["Devaki", "Kunti", "Yashoda", "Subhadra"],
+    "correctAnswer": 2,
+    "explanation": "Krishna was raised by Yashoda in Gokul after Vasudeva carried him away from Mathura."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "Who was Krishna’s elder brother?",
+    "options": ["Balarama", "Arjuna", "Sahadeva", "Shalya"],
+    "correctAnswer": 0,
+    "explanation": "Krishna’s elder brother was Balarama, born to Rohini."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "Which demon did child Krishna kill by sucking her life out?",
+    "options": ["Aghasura", "Putana", "Kaliya", "Trinavarta"],
+    "correctAnswer": 1,
+    "explanation": "Krishna killed the demoness Putana who tried to poison him by breastfeeding."
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "question": "What was Krishna most famous for as a child?",
+    "options": ["Sword fighting", "Stealing butter", "Shooting arrows", "Reading scriptures"],
+    "correctAnswer": 1,
+    "explanation": "Krishna was affectionately called 'Makhan Chor' (butter thief) for stealing butter in Gokul."
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "question": "Which serpent did Krishna subdue by dancing on its heads?",
+    "options": ["Takshaka", "Vasuki", "Kaliya", "Shesha"],
+    "correctAnswer": 2,
+    "explanation": "Krishna subdued the serpent Kaliya by dancing on its many heads and driving it away from Yamuna."
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "question": "What mountain did Krishna lift to protect villagers from Indra’s wrath?",
+    "options": ["Mandara", "Kailash", "Govardhana", "Meru"],
+    "correctAnswer": 2,
+    "explanation": "Krishna lifted Govardhana Hill to protect the villagers of Vrindavan from torrential rains sent by Indra."
+  },
+  {
+    "id": 9,
+    "level": 2,
+    "question": "Who was Krishna’s beloved companion in Vrindavan?",
+    "options": ["Draupadi", "Radha", "Rukmini", "Satyabhama"],
+    "correctAnswer": 1,
+    "explanation": "Radha was Krishna’s beloved in Vrindavan, symbolizing divine love."
+  },
+  {
+    "id": 10,
+    "level": 2,
+    "question": "Who was Krishna’s chief queen in Dwarka?",
+    "options": ["Radha", "Draupadi", "Rukmini", "Satyabhama"],
+    "correctAnswer": 2,
+    "explanation": "Rukmini, princess of Vidarbha, was Krishna’s chief queen."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "How many principal wives did Krishna have?",
+    "options": ["8", "16", "108", "16000"],
+    "correctAnswer": 0,
+    "explanation": "Krishna had 8 principal wives, including Rukmini, Satyabhama, and Jambavati."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "How many women did Krishna rescue and marry after defeating Narakasura?",
+    "options": ["800", "1600", "8000", "16000"],
+    "correctAnswer": 3,
+    "explanation": "Krishna rescued and married 16,000 women imprisoned by the demon Narakasura."
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "question": "What was Krishna’s role in the Mahabharata?",
+    "options": ["Warrior", "Advisor and charioteer", "Priest", "Kingmaker"],
+    "correctAnswer": 1,
+    "explanation": "Krishna was Arjuna’s charioteer and advisor, guiding the Pandavas with wisdom."
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "question": "What sacred text is Krishna the speaker of?",
+    "options": ["Rigveda", "Ramayana", "Bhagavad Gita", "Mahabharata"],
+    "correctAnswer": 2,
+    "explanation": "Krishna delivered the teachings of the Bhagavad Gita to Arjuna on the battlefield."
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "question": "Who tried to insult Draupadi by disrobing her, only to be saved by Krishna’s intervention?",
+    "options": ["Karna", "Duryodhana", "Dushasana", "Shakuni"],
+    "correctAnswer": 2,
+    "explanation": "When Dushasana tried to disrobe Draupadi, Krishna miraculously provided her with endless cloth to protect her dignity."
+  },
+  {
+    "id": 16,
+    "level": 3,
+    "question": "What curse led to the destruction of the Yadava clan?",
+    "options": ["Gandhari’s curse", "Rishi Durvasa’s curse", "Rukmini’s curse", "Brahma’s curse"],
+    "correctAnswer": 0,
+    "explanation": "Gandhari cursed Krishna and the Yadavas that they would perish in strife, leading to their destruction."
+  },
+  {
+    "id": 17,
+    "level": 3,
+    "question": "Who was Krishna’s sister?",
+    "options": ["Draupadi", "Subhadra", "Radha", "Devaki"],
+    "correctAnswer": 1,
+    "explanation": "Subhadra, who later married Arjuna, was Krishna’s sister."
+  },
+  {
+    "id": 18,
+    "level": 3,
+    "question": "How did Krishna die?",
+    "options": ["Killed by Bhima", "Shot by Jara the hunter", "Cursed by Draupadi", "Died in meditation"],
+    "correctAnswer": 1,
+    "explanation": "Krishna was accidentally shot in the foot by a hunter named Jara, fulfilling a curse."
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "question": "Which demon did Krishna kill by breaking his beak?",
+    "options": ["Bakasura", "Aghasura", "Kesi", "Shishupala"],
+    "correctAnswer": 0,
+    "explanation": "Krishna killed Bakasura, the crane demon, by tearing apart his beak."
+  },
+  {
+    "id": 20,
+    "level": 3,
+    "question": "Who was Krishna’s closest Pandava friend?",
+    "options": ["Bhima", "Arjuna", "Yudhishthira", "Nakula"],
+    "correctAnswer": 1,
+    "explanation": "Arjuna and Krishna shared a deep friendship, often referred to as Narayana and Nara."
+  },
+  {
+    "id": 21,
+    "level": 3,
+    "question": "Who did Krishna kill at the Rajasuya sacrifice of Yudhishthira?",
+    "options": ["Duryodhana", "Shishupala", "Karna", "Jarasandha"],
+    "correctAnswer": 1,
+    "explanation": "Krishna killed Shishupala after he insulted him and crossed the limit of forgiveness."
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "question": "Which kingdom did Krishna establish after leaving Mathura?",
+    "options": ["Indraprastha", "Dwarka", "Kalinga", "Kosala"],
+    "correctAnswer": 1,
+    "explanation": "Krishna founded the city of Dwarka and made it his capital."
+  },
+  {
+    "id": 23,
+    "level": 3,
+    "question": "Who was Krishna’s grandson that survived the Kurukshetra war?",
+    "options": ["Pradyumna", "Aniruddha", "Vajra", "Abhimanyu"],
+    "correctAnswer": 2,
+    "explanation": "Vajra, Krishna’s grandson, survived and was installed as king after the Yadava clan’s destruction."
+  },
+  {
+    "id": 24,
+    "level": 4,
+    "question": "Which sage cursed Krishna’s clan after being mocked?",
+    "options": ["Vishwamitra", "Durvasa", "Narada", "Rishis in Prabhasa"],
+    "correctAnswer": 3,
+    "explanation": "Sages in Prabhasa cursed the Yadavas after being mocked by Krishna’s descendants."
+  },
+  {
+    "id": 25,
+    "level": 4,
+    "question": "What form did Krishna show Arjuna during the Gita?",
+    "options": ["Vishvarupa (Universal form)", "Four-armed Narayana", "Child form", "Yogic ascetic"],
+    "correctAnswer": 0,
+    "explanation": "Krishna revealed his Vishvarupa, the cosmic universal form, to Arjuna on the battlefield."
+  },
+  {
+    "id": 26,
+    "level": 4,
+    "question": "Who was Krishna’s charioteer during some battles?",
+    "options": ["Daruka", "Satyaki", "Balarama", "Arjuna"],
+    "correctAnswer": 0,
+    "explanation": "Daruka was Krishna’s personal charioteer during several battles."
+  },
+  {
+    "id": 27,
+    "level": 4,
+    "question": "What festival celebrates Krishna’s birth?",
+    "options": ["Diwali", "Janmashtami", "Holi", "Rama Navami"],
+    "correctAnswer": 1,
+    "explanation": "Janmashtami is celebrated across India as the birth of Lord Krishna."
+  },
+  {
+    "id": 28,
+    "level": 4,
+    "question": "Who was Krishna’s cousin among the Pandavas?",
+    "options": ["Arjuna", "Bhima", "Nakula", "Yudhishthira"],
+    "correctAnswer": 0,
+    "explanation": "Krishna was related to the Pandavas through Kunti, his paternal aunt."
+  },
+  {
+    "id": 29,
+    "level": 4,
+    "question": "What is Krishna often depicted playing?",
+    "options": ["Veena", "Flute", "Drum", "Conch"],
+    "correctAnswer": 1,
+    "explanation": "Krishna is often depicted playing the flute, enchanting the gopis and all creation."
+  },
+  {
+    "id": 30,
+    "level": 4,
+    "question": "Who was Krishna’s son from Rukmini?",
+    "options": ["Samba", "Pradyumna", "Aniruddha", "Vajra"],
+    "correctAnswer": 1,
+    "explanation": "Krishna’s son from Rukmini was Pradyumna, believed to be the incarnation of Kamadeva."
+  },
+  {
+    "id": 31,
+    "level": 5,
+    "question": "Who refused to fight in Kurukshetra until persuaded by Krishna?",
+    "options": ["Bhima", "Arjuna", "Yudhishthira", "Karna"],
+    "correctAnswer": 1,
+    "explanation": "Arjuna initially refused to fight but was guided by Krishna through the Bhagavad Gita."
+  },
+  {
+    "id": 32,
+    "level": 5,
+    "question": "What weapon did Krishna use to kill Kansa?",
+    "options": ["Mace", "Bow", "His bare hands", "Sword"],
+    "correctAnswer": 2,
+    "explanation": "Krishna killed the tyrant Kansa with his bare hands."
+  },
+  {
+    "id": 33,
+    "level": 5,
+    "question": "Who tried to bind Krishna as a child, only to fail?",
+    "options": ["Yashoda", "Kansa", "Balarama", "Radha"],
+    "correctAnswer": 0,
+    "explanation": "Mother Yashoda tried to tie Krishna to a mortar, but the rope was always too short until Krishna allowed it."
+  },
+  {
+    "id": 34,
+    "level": 5,
+    "question": "Which warrior did Krishna vow not to fight directly in the Mahabharata?",
+    "options": ["Karna", "Bhishma", "Drona", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Krishna vowed not to take up arms in the war, but he guided the Pandavas strategically."
+  },
+  {
+    "id": 35,
+    "level": 5,
+    "question": "Who cursed Krishna’s son Samba, leading to the downfall of the Yadavas?",
+    "options": ["Narada", "Durvasa", "Rishis", "Gandhari"],
+    "correctAnswer": 2,
+    "explanation": "Rishis cursed Samba, leading to the downfall of the Yadava clan."
+  },
+  {
+    "id": 36,
+    "level": 6,
+    "question": "Which sage blessed Devaki that her son would be divine?",
+    "options": ["Vyasa", "Narada", "Vishwamitra", "Durvasa"],
+    "correctAnswer": 1,
+    "explanation": "Sage Narada foretold that Devaki’s son Krishna would be divine and destroy Kansa."
+  },
+  {
+    "id": 37,
+    "level": 6,
+    "question": "What was Krishna’s skin color often described as?",
+    "options": ["Golden", "Blue", "Fair", "Dark green"],
+    "correctAnswer": 1,
+    "explanation": "Krishna’s complexion is described as dark-blue, like rain clouds."
+  },
+  {
+    "id": 38,
+    "level": 6,
+    "question": "What philosophy is Krishna associated with?",
+    "options": ["Vedanta", "Bhakti Yoga", "Samkhya", "Nyaya"],
+    "correctAnswer": 1,
+    "explanation": "Krishna is central to the Bhakti Yoga tradition, emphasizing devotion as a path to liberation."
+  },
+  {
+    "id": 39,
+    "level": 7,
+    "question": "What ultimate truth did Krishna teach Arjuna in the Gita?",
+    "options": ["War is meaningless", "Soul is eternal", "Dharma is relative", "God is fearsome"],
+    "correctAnswer": 1,
+    "explanation": "Krishna taught that the soul is eternal, neither born nor destroyed, guiding Arjuna to fulfill his dharma."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "What does Krishna symbolize in Hindu philosophy?",
+    "options": ["Strength and wealth", "Love, dharma, and divine guidance", "Victory in war", "Fear of God"],
+    "correctAnswer": 1,
+    "explanation": "Krishna symbolizes love, dharma, and divine guidance, representing God’s role as protector and teacher."
+  }
+]

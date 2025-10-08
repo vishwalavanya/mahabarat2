@@ -1,0 +1,330 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Drona’s father?",
+    "options": ["Brahma", "Sukracharya", "Bharadwaja", "Vishvamitra"],
+    "correctAnswer": 2,
+    "explanation": "Drona was the son of the sage Bharadwaja and his wife, Ghritachi."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "What was Drona’s birth name?",
+    "options": ["Ekalavya", "Dronacharya", "Gurudatta", "Drona"],
+    "correctAnswer": 2,
+    "explanation": "His original name was Gurudatta; he became known as Drona or Dronacharya."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "Who was Drona’s guru?",
+    "options": ["Parashurama", "Vyasa", "Vasishtha", "Durvasa"],
+    "correctAnswer": 0,
+    "explanation": "He apprenticed under Parashurama, from whom he learned warfare and archery."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "Who was Drona’s wife?",
+    "options": ["Kripi", "Radha", "Subhadra", "Kunti"],
+    "correctAnswer": 0,
+    "explanation": "Drona married Kripi, the sister of his fellow student Kripa."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "Who was Drona’s son?",
+    "options": ["Ashvatthama", "Abhimanyu", "Bhima", "Satyaki"],
+    "correctAnswer": 0,
+    "explanation": "His only son was Ashvatthama, born of Kripi."
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "question": "Where was Drona’s gurukul located?",
+    "options": ["Hastinapura", "Indraprastha", "Panchala", "Dwaraka"],
+    "correctAnswer": 0,
+    "explanation": "He established his academy at Hastinapura, training both Pandavas and Kauravas."
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "question": "Which weapon did Drona master?",
+    "options": ["Bow and arrow", "Spear", "Mace", "Sword"],
+    "correctAnswer": 0,
+    "explanation": "He was renowned for his unparalleled expertise in archery."
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "question": "Which battle was Drona a commander in?",
+    "options": ["Ramayana war", "Kurukshetra war", "Devasura war", "Samudra manthan"],
+    "correctAnswer": 1,
+    "explanation": "He served as commander of the Kaurava forces during the Kurukshetra war."
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "question": "Which student did Drona cripple?",
+    "options": ["Arjuna", "Ekalavya", "Bhima", "Nakula"],
+    "correctAnswer": 1,
+    "explanation": "He demanded Ekalavya’s right thumb as guru dakshina, crippling his archery."
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "question": "Which powerful weapon did Parashurama grant Drona?",
+    "options": ["Brahmastra", "Pashupatastra", "Narayanastra", "Agneyastra"],
+    "correctAnswer": 0,
+    "explanation": "He possessed the Brahmastra, a supreme celestial weapon."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "Who was Drona’s star pupil?",
+    "options": ["Arjuna", "Yudhishthira", "Bhima", "Sahadeva"],
+    "correctAnswer": 0,
+    "explanation": "Arjuna mastered all advanced techniques taught by Drona."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "Who appointed Drona as army commander after Bhishma fell?",
+    "options": ["Duryodhana", "Dhritarashtra", "Krishna", "Yudhishthira"],
+    "correctAnswer": 1,
+    "explanation": "King Dhritarashtra named Drona commander following Bhishma’s incapacitation."
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "question": "What vow did Drona take each morning?",
+    "options": ["To kill Arjuna", "To uphold his guru’s honor", "To protect Duryodhana", "To destroy Pandava weapons"],
+    "correctAnswer": 1,
+    "explanation": "He vowed daily to honor his teacher Parashurama by upholding righteousness."
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "question": "Which tactic did Drona employ against the Pandavas?",
+    "options": ["Night raids", "Targeting commanders", "Poisoned arrows", "Siege warfare"],
+    "correctAnswer": 1,
+    "explanation": "He focused on key leaders like Yudhishthira to demoralize the enemy."
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "question": "Who was Drona’s co-commander from the Kaurava side?",
+    "options": ["Kripa", "Ashvatthama", "Shalya", "Karna"],
+    "correctAnswer": 0,
+    "explanation": "Kripa, his fellow disciple, assisted him in leading the army."
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "question": "Which king allied with Drona at his request?",
+    "options": ["Virata", "Susharma", "Drupada", "Jayadratha"],
+    "correctAnswer": 1,
+    "explanation": "He formed an alliance with King Susharma of Trigarta to open another front."
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "question": "Who informed Drona of Ashvatthama’s birth?",
+    "options": ["Kripi", "Parashurama", "Vyasa", "Bharadwaja"],
+    "correctAnswer": 0,
+    "explanation": "Kripi, his wife, was the first to tell him about their son’s birth."
+  },
+  {
+    "id": 18,
+    "level": 2,
+    "question": "How did Drona respond to Drupada’s insult in youth?",
+    "options": ["Forgave him", "Fought and humiliated him", "Ignored it", "Sought revenge later"],
+    "correctAnswer": 3,
+    "explanation": "He captured Drupada in battle years later to avenge that insult."
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "question": "Who caused Drona’s downfall by deceit?",
+    "options": ["Bhima", "Yudhishthira", "Krishna", "Arjuna"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira’s half-truth about Ashvatthama’s death led Drona to lay down arms."
+  },
+  {
+    "id": 20,
+    "level": 3,
+    "question": "What did Drona do when he believed his son was dead?",
+    "options": ["Committed suicide", "Surrendered", "Cried and despaired", "Fled"],
+    "correctAnswer": 2,
+    "explanation": "Hearing ‘Ashvatthama is dead,’ he despaired and ceased fighting."
+  },
+  {
+    "id": 21,
+    "level": 3,
+    "question": "Which pavilion did Drona burn in battle?",
+    "options": ["Virata’s", "Kuru’s", "Panchala’s", "Magadha’s"],
+    "correctAnswer": 0,
+    "explanation": "He performed the Agni Kavacha to burn King Virata’s pavilion."
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "question": "Who captured Drona’s weapons in battle?",
+    "options": ["Arjuna", "Bhima", "Satyaki", "Karna"],
+    "correctAnswer": 1,
+    "explanation": "Bhima disarmed Drona during one fierce encounter."
+  },
+  {
+    "id": 23,
+    "level": 3,
+    "question": "What moral conflict did Drona face?",
+    "options": ["Killing his students", "Supporting unrighteous side", "Lying to allies", "Abandoning his oath"],
+    "correctAnswer": 1,
+    "explanation": "He struggled between loyalty to Hastinapura and adherence to dharma."
+  },
+  {
+    "id": 24,
+    "level": 3,
+    "question": "What did Drona seek from Krishna before battle?",
+    "options": ["Alliance", "Strategic counsel", "Reconciliation", "Divine weapon"],
+    "correctAnswer": 1,
+    "explanation": "He consulted Krishna for strategies to defeat the Pandavas."
+  },
+  {
+    "id": 25,
+    "level": 4,
+    "question": "How did Drona treat Ekalavya after taking his thumb?",
+    "options": ["Respected him", "Mocked him", "Ignored him", "Banished him"],
+    "correctAnswer": 0,
+    "explanation": "Despite crippling him, he admired Ekalavya’s devotion and skill."
+  },
+  {
+    "id": 26,
+    "level": 4,
+    "question": "What quality defined Drona as a teacher?",
+    "options": ["Compassion", "Strict discipline", "Favoritism", "Leniency"],
+    "correctAnswer": 1,
+    "explanation": "He was known for rigorous training and strict discipline."
+  },
+  {
+    "id": 27,
+    "level": 4,
+    "question": "Which lesson did Drona impart to Arjuna as greatest challenge?",
+    "options": ["Chariot control", "Divine weapon invocation", "Battle ethics", "Hand-to-hand combat"],
+    "correctAnswer": 1,
+    "explanation": "He taught Arjuna advanced mantras for celestial weapons."
+  },
+  {
+    "id": 28,
+    "level": 4,
+    "question": "How did Drona motivate his troops?",
+    "options": ["Bribes", "Fear", "Inspiring speeches", "Divine blessings"],
+    "correctAnswer": 2,
+    "explanation": "He used powerful oratory to boost morale and focus."
+  },
+  {
+    "id": 29,
+    "level": 5,
+    "question": "What was Drona’s greatest personal weakness?",
+    "options": ["Pride in skill", "Overattachment to student", "Blind loyalty", "Impatience"],
+    "correctAnswer": 2,
+    "explanation": "His unwavering loyalty to the Kuru throne blinded him to injustice."
+  },
+  {
+    "id": 30,
+    "level": 5,
+    "question": "What does Drona symbolize in the epic?",
+    "options": ["Teacher’s duty", "Blind loyalty", "Parental love", "Martial prowess"],
+    "correctAnswer": 0,
+    "explanation": "He embodies the complex responsibilities and ethics of a guru."
+  },
+  {
+    "id": 31,
+    "level": 5,
+    "question": "How did Drona’s relationship with Drupada evolve?",
+    "options": ["Friends to enemies", "Host to ally", "Teacher to student", "Estranged always"],
+    "correctAnswer": 0,
+    "explanation": "Once close friends, they became bitter enemies, culminating in Drona’s revenge."
+  },
+  {
+    "id": 6,
+    "level": 6,
+    "question": "What philosophical dilemma does Drona’s life raise?",
+    "options": ["Duty versus righteousness", "Teacher’s favoritism", "Power versus ethics", "All of the above"],
+    "correctAnswer": 0,
+    "explanation": "His life highlights conflicts between duty to one’s lord and higher moral law."
+  },
+  {
+    "id": 32,
+    "level": 6,
+    "question": "How does Drona contrast with Krishna?",
+    "options": ["Rigidity versus wisdom", "Compassion versus detachment", "Power versus strategy", "All of the above"],
+    "correctAnswer": 0,
+    "explanation": "Drona’s strict adherence to duty contrasts with Krishna’s strategic wisdom."
+  },
+  {
+    "id": 33,
+    "level": 6,
+    "question": "Which event marked Drona’s peak power?",
+    "options": ["Burning Virata’s pavilion", "Teaching Arjuna", "Clashing with Bhima", "Capturing Drupada"],
+    "correctAnswer": 0,
+    "explanation": "The Agni Kavacha display demonstrated his supreme martial might."
+  },
+  {
+    "id": 34,
+    "level": 7,
+    "question": "What legacy did Drona leave as a teacher?",
+    "options": ["Arjuna’s skills", "Ashvatthama’s valor", "Ekalavya’s devotion", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His diverse students carried forward his teachings in varied ways."
+  },
+  {
+    "id": 35,
+    "level": 7,
+    "question": "How does Drona’s downfall reflect his flaws?",
+    "options": ["Pride led to overconfidence", "Loyalty blinded him", "Compassion weakened him", "Knowledge tempted him"],
+    "correctAnswer": 1,
+    "explanation": "His blind loyalty caused him to abandon higher dharma, leading to defeat."
+  },
+  {
+    "id": 36,
+    "level": 7,
+    "question": "What moral lesson does Drona’s story teach?",
+    "options": ["Duty must bow to justice", "Skill guarantees success", "Loyalty above all", "Knowledge is power"],
+    "correctAnswer": 0,
+    "explanation": "It shows that duty to a cause cannot override fundamental righteousness."
+  },
+  {
+    "id": 37,
+    "level": 8,
+    "question": "What does Drona’s life symbolize in Hindu philosophy?",
+    "options": ["Teacher’s burden", "Warrior’s pride", "Parental love", "Spiritual attainment"],
+    "correctAnswer": 0,
+    "explanation": "He represents the heavy responsibilities and ethical trials of a guru."
+  },
+  {
+    "id": 38,
+    "level": 8,
+    "question": "How might Drona’s choices differ if guided by Krishna?",
+    "options": ["Would follow dharma strictly", "Would avoid war", "Would support Pandavas", "Would seek peace first"],
+    "correctAnswer": 3,
+    "explanation": "Krishna’s counsel might have led Drona to prioritize peace over blind loyalty."
+  },
+  {
+    "id": 39,
+    "level": 8,
+    "question": "What ultimate question does Drona’s story provoke?",
+    "options": ["Is loyalty sacred?", "Can knowledge justify war?", "Should a teacher intervene?", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His narrative raises deep questions about loyalty, violence, and a guru’s role."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "What is Drona’s enduring legacy?",
+    "options": ["Mastery of archery", "Complex guru ethics", "Martial discipline", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His legacy spans unmatched skill, rigorous teaching, and nuanced ethical dilemmas."
+  }
+]

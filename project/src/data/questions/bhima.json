@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Bhima's divine father?",
+    "options": ["Indra", "Vayu", "Yama", "Surya"],
+    "correctAnswer": 1,
+    "explanation": "Bhima was born to Kunti through the blessings of Vayu, the wind god, which gave him immense strength."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "Who was Bhima's mother?",
+    "options": ["Kunti", "Madri", "Gandhari", "Draupadi"],
+    "correctAnswer": 0,
+    "explanation": "Kunti was Bhima’s mother, who invoked Vayu to give birth to him."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "What was Bhima most famous for?",
+    "options": ["Wisdom", "Strength", "Archery", "Diplomacy"],
+    "correctAnswer": 1,
+    "explanation": "Bhima was most famous for his unmatched physical strength."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "Which weapon did Bhima primarily use?",
+    "options": ["Sword", "Bow and arrow", "Mace (Gada)", "Spear"],
+    "correctAnswer": 2,
+    "explanation": "Bhima’s primary weapon was the mace (gada)."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "Who was Bhima’s twin-like rival in mace fighting?",
+    "options": ["Karna", "Duryodhana", "Shakuni", "Ashwatthama"],
+    "correctAnswer": 1,
+    "explanation": "Bhima’s greatest rival in mace fighting was Duryodhana."
+  },
+  {
+    "id": 6,
+    "level": 2,
+    "question": "Who was Bhima’s wife from the Rakshasa clan?",
+    "options": ["Ulupi", "Hidimbi", "Chitrangada", "Subhadra"],
+    "correctAnswer": 1,
+    "explanation": "Bhima married Hidimbi, a rakshasi, and they had a son named Ghatotkacha."
+  },
+  {
+    "id": 7,
+    "level": 2,
+    "question": "What was the name of Bhima’s son with Draupadi?",
+    "options": ["Sutasoma", "Satanika", "Srutakarma", "Prativindhya"],
+    "correctAnswer": 0,
+    "explanation": "Bhima’s son with Draupadi was Sutasoma."
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "question": "What was the name of Bhima’s son with Hidimbi?",
+    "options": ["Ghatotkacha", "Iravan", "Abhimanyu", "Vrishaketu"],
+    "correctAnswer": 0,
+    "explanation": "Bhima and Hidimbi’s son was the mighty rakshasa warrior Ghatotkacha."
+  },
+  {
+    "id": 9,
+    "level": 2,
+    "question": "Which kingdom did Bhima marry a princess from, apart from Draupadi and Hidimbi?",
+    "options": ["Kashi", "Magadha", "Kalinga", "Kosala"],
+    "correctAnswer": 1,
+    "explanation": "Bhima married Valandhara, the princess of Magadha, and had a son named Sarvaga."
+  },
+  {
+    "id": 10,
+    "level": 2,
+    "question": "What disguise did Bhima take during the Pandavas’ incognito exile?",
+    "options": ["Cook", "Horse caretaker", "Courtier", "Dancer"],
+    "correctAnswer": 0,
+    "explanation": "Bhima took the role of a cook named Ballava in King Virata’s palace."
+  },
+  {
+    "id": 11,
+    "level": 3,
+    "question": "Which demon did Bhima kill in his childhood?",
+    "options": ["Bakasura", "Jarasandha", "Hidimba", "Kichaka"],
+    "correctAnswer": 0,
+    "explanation": "Bhima killed the man-eating demon Bakasura to protect the villagers."
+  },
+  {
+    "id": 12,
+    "level": 3,
+    "question": "Who did Bhima kill for insulting Draupadi in Virata’s palace?",
+    "options": ["Duryodhana", "Kichaka", "Shakuni", "Ashwatthama"],
+    "correctAnswer": 1,
+    "explanation": "Bhima killed Kichaka when he tried to harass Draupadi during their incognito exile."
+  },
+  {
+    "id": 13,
+    "level": 3,
+    "question": "Which powerful king did Bhima defeat by splitting him in two?",
+    "options": ["Bakasura", "Kichaka", "Jarasandha", "Karna"],
+    "correctAnswer": 2,
+    "explanation": "Bhima killed Jarasandha by tearing him apart with his bare hands."
+  },
+  {
+    "id": 14,
+    "level": 3,
+    "question": "Who was Bhima sworn to kill during the Kurukshetra war?",
+    "options": ["Karna", "Duryodhana", "Shakuni", "Dushasana"],
+    "correctAnswer": 3,
+    "explanation": "Bhima swore to kill Dushasana for humiliating Draupadi in the dice game."
+  },
+  {
+    "id": 15,
+    "level": 3,
+    "question": "How did Bhima kill Dushasana?",
+    "options": ["With arrows", "By crushing him with mace", "By tearing open his chest", "By choking him"],
+    "correctAnswer": 2,
+    "explanation": "Bhima tore open Dushasana’s chest and drank his blood, fulfilling his vow."
+  },
+  {
+    "id": 16,
+    "level": 4,
+    "question": "What vow did Bhima take against Duryodhana?",
+    "options": ["To break his thigh", "To kill him with arrows", "To exile him", "To poison him"],
+    "correctAnswer": 0,
+    "explanation": "Bhima vowed to break Duryodhana’s thigh, which he fulfilled in their final mace duel."
+  },
+  {
+    "id": 17,
+    "level": 4,
+    "question": "In which duel did Bhima kill Duryodhana?",
+    "options": ["Sword fight", "Chariot duel", "Mace fight", "Wrestling match"],
+    "correctAnswer": 2,
+    "explanation": "Bhima killed Duryodhana in a mace fight by striking his thigh."
+  },
+  {
+    "id": 18,
+    "level": 4,
+    "question": "Who supported Bhima in killing Jarasandha?",
+    "options": ["Krishna and Arjuna", "Yudhishthira and Sahadeva", "Nakula and Sahadeva", "Drupada and Krishna"],
+    "correctAnswer": 0,
+    "explanation": "Krishna and Arjuna helped Bhima defeat Jarasandha by guiding him in combat."
+  },
+  {
+    "id": 19,
+    "level": 4,
+    "question": "Which Kaurava prince did Bhima kill by smashing him against the ground?",
+    "options": ["Durmukha", "Dussasana", "Dushkarna", "Duryodhana’s son Lakshmana"],
+    "correctAnswer": 3,
+    "explanation": "Bhima killed Lakshmana, Duryodhana’s son, by smashing him to the ground."
+  },
+  {
+    "id": 20,
+    "level": 4,
+    "question": "What was Bhima’s main strength in battle?",
+    "options": ["Speed", "Wisdom", "Raw physical power", "Archery"],
+    "correctAnswer": 2,
+    "explanation": "Bhima’s main strength was his immense raw physical power."
+  },
+  {
+    "id": 21,
+    "level": 5,
+    "question": "How many Kauravas did Bhima kill in total during the Kurukshetra war?",
+    "options": ["50", "75", "100", "All 99 brothers of Duryodhana"],
+    "correctAnswer": 3,
+    "explanation": "Bhima killed all 99 brothers of Duryodhana in the Kurukshetra war."
+  },
+  {
+    "id": 22,
+    "level": 5,
+    "question": "Which Pandava was Bhima closest to?",
+    "options": ["Arjuna", "Sahadeva", "Nakula", "Yudhishthira"],
+    "correctAnswer": 0,
+    "explanation": "Bhima shared a deep bond with Arjuna, often fighting side by side."
+  },
+  {
+    "id": 23,
+    "level": 5,
+    "question": "What food is Bhima most associated with?",
+    "options": ["Milk", "Butter", "Rice", "Laddu"],
+    "correctAnswer": 1,
+    "explanation": "Bhima loved butter and is often depicted eating it in stories."
+  },
+  {
+    "id": 24,
+    "level": 5,
+    "question": "What was Bhima’s main weakness?",
+    "options": ["Pride in beauty", "Anger", "Overconfidence in wisdom", "Diplomacy"],
+    "correctAnswer": 1,
+    "explanation": "Bhima’s greatest weakness was his uncontrollable anger."
+  },
+  {
+    "id": 25,
+    "level": 5,
+    "question": "Who was Bhima’s spiritual guide during difficult times?",
+    "options": ["Vyasa", "Krishna", "Vidura", "Drona"],
+    "correctAnswer": 1,
+    "explanation": "Lord Krishna was Bhima’s spiritual guide and strategist during the war."
+  },
+  {
+    "id": 26,
+    "level": 6,
+    "question": "Which Pandava was Bhima most protective of?",
+    "options": ["Yudhishthira", "Arjuna", "Nakula", "Sahadeva"],
+    "correctAnswer": 0,
+    "explanation": "Bhima was fiercely protective of Yudhishthira, defending him in battles."
+  },
+  {
+    "id": 27,
+    "level": 6,
+    "question": "What role did Bhima play in Yudhishthira’s Rajasuya sacrifice?",
+    "options": ["Conquered east", "Conquered north", "Conquered west", "Conquered south"],
+    "correctAnswer": 3,
+    "explanation": "Bhima led the southern campaign during Yudhishthira’s Rajasuya Yagna."
+  },
+  {
+    "id": 28,
+    "level": 6,
+    "question": "What did Bhima represent among the Pandavas?",
+    "options": ["Wisdom", "Strength", "Beauty", "Patience"],
+    "correctAnswer": 1,
+    "explanation": "Bhima represented physical strength among the Pandavas."
+  },
+  {
+    "id": 29,
+    "level": 6,
+    "question": "What special ability did Bhima gain from Vayu, his father?",
+    "options": ["Flight", "Immense strength and stamina", "Wisdom of scriptures", "Invulnerability"],
+    "correctAnswer": 1,
+    "explanation": "From Vayu, Bhima inherited immense physical strength and stamina."
+  },
+  {
+    "id": 30,
+    "level": 6,
+    "question": "What animal is Bhima often compared to?",
+    "options": ["Tiger", "Lion", "Elephant", "Wolf"],
+    "correctAnswer": 3,
+    "explanation": "Bhima was often compared to a wolf and called Vrikodara (wolf-bellied)."
+  },
+  {
+    "id": 31,
+    "level": 7,
+    "question": "What was Bhima’s title 'Vrikodara' symbolic of?",
+    "options": ["Greed", "Strength and ferocity", "Beauty", "Wisdom"],
+    "correctAnswer": 1,
+    "explanation": "Vrikodara (wolf-bellied) symbolized Bhima’s ferocity and great appetite."
+  },
+  {
+    "id": 32,
+    "level": 7,
+    "question": "What was Bhima’s role in Draupadi’s swayamvara?",
+    "options": ["Lifted the bow", "Killed enemies", "Guarded Arjuna", "Defeated Shalya"],
+    "correctAnswer": 2,
+    "explanation": "Bhima guarded Arjuna when he won Draupadi’s hand in the swayamvara."
+  },
+  {
+    "id": 33,
+    "level": 7,
+    "question": "Why did Bhima drink Dushasana’s blood?",
+    "options": ["To terrify enemies", "To fulfill his vow", "To honor Draupadi", "To gain strength"],
+    "correctAnswer": 1,
+    "explanation": "Bhima drank Dushasana’s blood to fulfill the vow he made after Draupadi’s humiliation."
+  },
+  {
+    "id": 34,
+    "level": 7,
+    "question": "What lesson does Bhima’s character teach?",
+    "options": ["Strength must serve dharma", "Anger is always good", "Beauty is supreme", "Wisdom is weakness"],
+    "correctAnswer": 0,
+    "explanation": "Bhima teaches that physical power must be guided by dharma."
+  },
+  {
+    "id": 35,
+    "level": 7,
+    "question": "What did Bhima symbolize in the Pandavas’ unity?",
+    "options": ["Brains", "Brawn", "Patience", "Diplomacy"],
+    "correctAnswer": 1,
+    "explanation": "Bhima symbolized brawn and physical might in the Pandava team."
+  },
+  {
+    "id": 36,
+    "level": 8,
+    "question": "What was Bhima’s fate in the final journey of the Pandavas?",
+    "options": ["He reached heaven alive", "He fell due to gluttony and pride in strength", "He was cursed", "He turned into wind"],
+    "correctAnswer": 1,
+    "explanation": "Bhima fell on the final journey because of his pride in strength and gluttony."
+  },
+  {
+    "id": 37,
+    "level": 8,
+    "question": "What does Bhima’s fall represent philosophically?",
+    "options": ["Wisdom can be dangerous", "Pride in physical strength leads to downfall", "Dharma is relative", "Anger is always justified"],
+    "correctAnswer": 1,
+    "explanation": "Bhima’s fall symbolizes that pride in physical strength and gluttony can lead to downfall."
+  },
+  {
+    "id": 38,
+    "level": 8,
+    "question": "What quality redeemed Bhima despite his flaws?",
+    "options": ["Loyalty and devotion to dharma", "Beauty", "Wisdom", "Diplomacy"],
+    "correctAnswer": 0,
+    "explanation": "Bhima’s loyalty to his brothers and dharma redeemed him despite his anger and pride."
+  },
+  {
+    "id": 39,
+    "level": 8,
+    "question": "What is Bhima’s ultimate legacy in the Mahabharata?",
+    "options": ["Master of diplomacy", "Symbol of strength serving dharma", "Astrological wisdom", "Supreme beauty"],
+    "correctAnswer": 1,
+    "explanation": "Bhima’s legacy is as the symbol of immense strength used in the service of dharma."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "What was Bhima’s relationship with Krishna?",
+    "options": ["Rival", "Guide and friend", "Enemy", "Neutral"],
+    "correctAnswer": 1,
+    "explanation": "Krishna guided Bhima in crucial moments and was his close friend and divine strategist."
+  }
+]

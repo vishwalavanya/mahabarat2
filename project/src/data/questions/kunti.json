@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Kunti’s father?",
+    "options": ["Shurasena", "Pandu", "Shantanu", "Drupada"],
+    "correctAnswer": 0,
+    "explanation": "Kunti, originally named Pritha, was the daughter of Shurasena, king of the Yadavas."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "What was Kunti’s birth name?",
+    "options": ["Pritha", "Devaki", "Madhavi", "Satyavati"],
+    "correctAnswer": 0,
+    "explanation": "Kunti was born as Pritha. She got the name ‘Kunti’ after being adopted by King Kuntibhoja."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "Which sage blessed Kunti with a mantra to summon gods?",
+    "options": ["Vyasa", "Durvasa", "Vasishtha", "Narada"],
+    "correctAnswer": 1,
+    "explanation": "Sage Durvasa, pleased by Kunti’s service, gave her a mantra to summon any deity and receive children."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "Whose son was Karna?",
+    "options": ["Surya’s son with Kunti", "Indra’s son with Kunti", "Vayu’s son with Kunti", "Dharma’s son with Kunti"],
+    "correctAnswer": 0,
+    "explanation": "Before marriage, Kunti invoked Surya with Durvasa’s mantra, giving birth to Karna."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "Who was Kunti’s husband?",
+    "options": ["Dhritarashtra", "Pandu", "Vidura", "Krishna"],
+    "correctAnswer": 1,
+    "explanation": "Kunti married Pandu, king of Hastinapura."
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "question": "How many sons did Kunti have with Pandu?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctAnswer": 1,
+    "explanation": "Kunti bore three sons with Pandu: Yudhishthira, Bhima, and Arjuna."
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "question": "Which Pandava was born from Dharma through Kunti?",
+    "options": ["Bhima", "Arjuna", "Yudhishthira", "Karna"],
+    "correctAnswer": 2,
+    "explanation": "Yudhishthira was born when Kunti invoked Dharma, god of righteousness."
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "question": "Which Pandava was born from Vayu through Kunti?",
+    "options": ["Arjuna", "Bhima", "Nakula", "Sahadeva"],
+    "correctAnswer": 1,
+    "explanation": "Bhima was born when Kunti invoked Vayu, the god of wind."
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "question": "Which Pandava was born from Indra through Kunti?",
+    "options": ["Nakula", "Sahadeva", "Arjuna", "Abhimanyu"],
+    "correctAnswer": 2,
+    "explanation": "Arjuna was born when Kunti invoked Indra, king of gods."
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "question": "Who persuaded Kunti to share her mantra with Madri?",
+    "options": ["Vyasa", "Pandu", "Bhishma", "Krishna"],
+    "correctAnswer": 1,
+    "explanation": "Pandu requested Kunti to share her boon with Madri, so she too could bear children."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "Which two sons did Madri have with Kunti’s mantra?",
+    "options": ["Nakula and Sahadeva", "Bhima and Arjuna", "Karna and Abhimanyu", "Yudhishthira and Dhrishtadyumna"],
+    "correctAnswer": 0,
+    "explanation": "Madri invoked the Ashwini Kumaras and gave birth to Nakula and Sahadeva."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "Who raised Kunti after her adoption?",
+    "options": ["Kuntibhoja", "Vasudeva", "Bhishma", "Satyavati"],
+    "correctAnswer": 0,
+    "explanation": "Kunti was adopted and brought up by King Kuntibhoja, who gave her his name."
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "question": "What secret did Kunti keep lifelong until before the Kurukshetra war?",
+    "options": ["Her boon", "That Karna was her son", "That she had divine powers", "That she was adopted"],
+    "correctAnswer": 1,
+    "explanation": "Kunti kept Karna’s birth secret until shortly before the war."
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "question": "Who revealed Karna’s identity to Yudhishthira after the war?",
+    "options": ["Krishna", "Kunti herself", "Vyasa", "Bhishma"],
+    "correctAnswer": 2,
+    "explanation": "Sage Vyasa revealed that Karna was Kunti’s son after the war."
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "question": "Who was Kunti’s cousin and close guide?",
+    "options": ["Vidura", "Krishna", "Shalya", "Drupada"],
+    "correctAnswer": 1,
+    "explanation": "Kunti’s cousin Krishna was her advisor and constant support during struggles."
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "question": "Where was Kunti forced to live after Draupadi’s humiliation?",
+    "options": ["In exile in the forest", "In Hastinapura palace", "In Vidura’s home", "In Panchala"],
+    "correctAnswer": 0,
+    "explanation": "Kunti, along with the Pandavas, went into exile after the gambling match."
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "question": "Who was Kunti’s elder brother?",
+    "options": ["Vasudeva", "Krishna", "Shurasena", "Surasena’s elder son"],
+    "correctAnswer": 0,
+    "explanation": "Vasudeva, father of Krishna, was Kunti’s elder brother."
+  },
+  {
+    "id": 18,
+    "level": 2,
+    "question": "Who did Kunti hand Karna over to after his birth?",
+    "options": ["A sage", "A maid", "A charioteer couple", "Bhishma"],
+    "correctAnswer": 2,
+    "explanation": "Afraid of scandal, Kunti abandoned Karna in a basket, which was found by Adhiratha, a charioteer."
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "question": "What was Kunti’s relation to Krishna?",
+    "options": ["Sister", "Paternal aunt", "Maternal aunt", "Guardian"],
+    "correctAnswer": 2,
+    "explanation": "Kunti was Krishna’s paternal aunt, being the sister of his father Vasudeva."
+  },
+  {
+    "id": 20,
+    "level": 3,
+    "question": "Why did Kunti stay aside during the Pandavas’ exile?",
+    "options": ["Old age", "To guide Dhritarashtra", "To support Gandhari", "To protect Hastinapura"],
+    "correctAnswer": 1,
+    "explanation": "Kunti stayed in Hastinapura during exile, guiding Dhritarashtra and showing loyalty."
+  },
+  {
+    "id": 21,
+    "level": 3,
+    "question": "Which son did Kunti request Karna not to kill?",
+    "options": ["Arjuna", "Yudhishthira", "Bhima", "Nakula"],
+    "correctAnswer": 0,
+    "explanation": "Kunti pleaded with Karna to spare Arjuna during the war; Karna promised this."
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "question": "What was Kunti’s greatest sorrow?",
+    "options": ["Death of Pandu", "Raising five sons alone", "Abandoning Karna", "Conflict with Gandhari"],
+    "correctAnswer": 2,
+    "explanation": "Kunti’s greatest sorrow was abandoning Karna at birth."
+  },
+  {
+    "id": 23,
+    "level": 3,
+    "question": "Who did Kunti live with in her last days?",
+    "options": ["Pandavas", "Krishna", "Dhritarashtra and Gandhari", "Vidura"],
+    "correctAnswer": 2,
+    "explanation": "Kunti chose to live with Dhritarashtra and Gandhari in their old age."
+  },
+  {
+    "id": 24,
+    "level": 3,
+    "question": "How did Kunti die?",
+    "options": ["Palace fire", "Forest fire", "In battle", "In meditation"],
+    "correctAnswer": 1,
+    "explanation": "Kunti perished in a forest fire while on penance with Dhritarashtra and Gandhari."
+  },
+  {
+    "id": 25,
+    "level": 4,
+    "question": "What unique strength did Kunti embody?",
+    "options": ["Martial power", "Maternal sacrifice and dharma", "Royal wisdom", "Physical beauty"],
+    "correctAnswer": 1,
+    "explanation": "Kunti embodied sacrifice, motherhood, and dharma’s endurance."
+  },
+  {
+    "id": 26,
+    "level": 4,
+    "question": "Why did Kunti keep Karna’s secret until after Duryodhana befriended him?",
+    "options": ["Fear of dishonor", "It was destiny", "Karna refused to leave Duryodhana", "Krishna advised her"],
+    "correctAnswer": 2,
+    "explanation": "Karna refused to abandon Duryodhana even when Kunti revealed the truth before war."
+  },
+  {
+    "id": 27,
+    "level": 4,
+    "question": "What does Kunti represent in Mahabharata?",
+    "options": ["Strength of women", "Silent endurance of mothers", "Divine blessings", "Political wisdom"],
+    "correctAnswer": 1,
+    "explanation": "Kunti represents silent suffering and the endurance of a mother through hardships."
+  },
+  {
+    "id": 28,
+    "level": 4,
+    "question": "Who was Kunti especially devoted to?",
+    "options": ["Shiva", "Krishna", "Indra", "Surya"],
+    "correctAnswer": 1,
+    "explanation": "Kunti’s devotion to Krishna is remembered as her spiritual strength."
+  },
+  {
+    "id": 29,
+    "level": 5,
+    "question": "What did Kunti request of Krishna after the war?",
+    "options": ["To protect her sons", "To leave Hastinapura", "To forgive Duryodhana", "To kill Ashwatthama"],
+    "correctAnswer": 0,
+    "explanation": "Kunti prayed to Krishna to always protect her sons after the war."
+  },
+  {
+    "id": 30,
+    "level": 5,
+    "question": "Which moral virtue did Kunti uphold?",
+    "options": ["Courage", "Sacrifice", "Justice", "Wealth"],
+    "correctAnswer": 1,
+    "explanation": "Kunti upheld sacrifice as her greatest virtue."
+  },
+  {
+    "id": 31,
+    "level": 5,
+    "question": "What was Kunti’s role after Pandu’s death?",
+    "options": ["Living in exile", "Mother and protector of Pandavas", "Queen of Hastinapura", "Advisor to Dhritarashtra"],
+    "correctAnswer": 1,
+    "explanation": "After Pandu’s death, Kunti became the sole protector and mother of the Pandavas."
+  },
+  {
+    "id": 32,
+    "level": 5,
+    "question": "What prayer did Kunti famously make to Krishna?",
+    "options": ["To make her son king", "To remove her sorrows", "To grant her endless suffering", "To restore Karna"],
+    "correctAnswer": 2,
+    "explanation": "Kunti prayed to Krishna asking for endless suffering so she may always remember him."
+  },
+  {
+    "id": 33,
+    "level": 6,
+    "question": "What philosophical lesson does Kunti’s life teach?",
+    "options": ["Strength alone prevails", "Motherhood requires sacrifice", "Beauty is fleeting", "Wisdom is dangerous"],
+    "correctAnswer": 1,
+    "explanation": "Kunti’s life teaches the sacrifice and trials mothers silently bear."
+  },
+  {
+    "id": 34,
+    "level": 6,
+    "question": "Which secret burden shaped Kunti’s destiny?",
+    "options": ["Her divine mantra", "Her son Karna’s abandonment", "Her rivalry with Gandhari", "Her husband Pandu’s curse"],
+    "correctAnswer": 1,
+    "explanation": "The secret of abandoning her son Karna shaped Kunti’s tragic destiny."
+  },
+  {
+    "id": 35,
+    "level": 6,
+    "question": "What does Kunti’s relationship with Gandhari symbolize?",
+    "options": ["Sisterly bond", "Rivalry of queens", "Two mothers enduring tragedy", "Political alliance"],
+    "correctAnswer": 2,
+    "explanation": "Both Gandhari and Kunti represent mothers enduring terrible tragedy."
+  },
+  {
+    "id": 36,
+    "level": 6,
+    "question": "Who consoled Kunti after revealing Karna’s identity?",
+    "options": ["Yudhishthira", "Bhima", "Vyasa", "Krishna"],
+    "correctAnswer": 3,
+    "explanation": "Krishna comforted Kunti when she revealed her guilt about Karna."
+  },
+  {
+    "id": 37,
+    "level": 7,
+    "question": "What unique aspect of dharma did Kunti preserve?",
+    "options": ["Maternal love above pride", "Heroism in war", "Royal ethics", "Power of silence"],
+    "correctAnswer": 0,
+    "explanation": "Kunti preserved the dharma of motherhood, sacrificing pride for her sons."
+  },
+  {
+    "id": 38,
+    "level": 7,
+    "question": "What quality of Kunti contrasts with Gandhari?",
+    "options": ["Vision vs. Blindness", "Silence vs. Speech", "Pride vs. Humility", "Beauty vs. Strength"],
+    "correctAnswer": 0,
+    "explanation": "Kunti retained her vision as a guiding mother, while Gandhari chose blindfolded suffering."
+  },
+  {
+    "id": 39,
+    "level": 7,
+    "question": "What does Kunti’s life primarily teach women of later generations?",
+    "options": ["Courage in silence", "Authority in politics", "Power of beauty", "Importance of wealth"],
+    "correctAnswer": 0,
+    "explanation": "Kunti’s endurance and courage in silence became an example for women."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "What ultimate lesson does Kunti’s character symbolize?",
+    "options": ["Burden of sacrifice and motherhood", "Victory through beauty", "Futility of wisdom", "Greatness of kingship"],
+    "correctAnswer": 0,
+    "explanation": "Kunti ultimately symbolizes the burden of sacrifice and motherhood, silently carrying destiny’s weight."
+  }
+]

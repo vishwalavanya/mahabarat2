@@ -1,0 +1,22 @@
+{
+  "name": "Duryodhana",
+  "shortDescription": "The eldest of the Kauravas and prince of Hastinapura, Duryodhana was a mighty warrior, skilled in mace combat, and known for his pride and jealousy. Though brave and loyal to his friends, his envy of the Pandavas led to the great Kurukshetra war.",
+  "skills": [
+    "Mace Combat (Gada Yuddha)",
+    "Leadership",
+    "War Strategy",
+    "Political Maneuvering",
+    "Charisma",
+    "Martial Arts"
+  ],
+  "traits": [
+    "Ambitious",
+    "Proud",
+    "Jealous",
+    "Loyal to Friends",
+    "Brave",
+    "Stubborn",
+    "Cunning",
+    "Strong-Willed"
+  ]
+}

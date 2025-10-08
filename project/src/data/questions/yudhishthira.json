@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Yudhishthira's divine father?",
+    "options": ["Indra", "Yama (Dharma)", "Vayu", "Surya"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira was born to Kunti through the blessings of Yama, the god of death and dharma, which is why he is called Dharmaraja."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "What title was Yudhishthira known by?",
+    "options": ["Arjuna", "Dharmaraja", "Vrikodara", "Madraja"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira was called Dharmaraja (King of Righteousness) because of his unwavering commitment to truth and dharma."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "What was Yudhishthira's greatest weakness?",
+    "options": ["Anger", "Gambling", "Pride", "Greed"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira's weakness for gambling led to the disastrous dice game where he lost everything, including Draupadi."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "Who was Yudhishthira's mother?",
+    "options": ["Madri", "Gandhari", "Kunti", "Draupadi"],
+    "correctAnswer": 2,
+    "explanation": "Kunti was Yudhishthira's mother, who invoked Yama to have him as her first son."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "What weapon was Yudhishthira skilled with?",
+    "options": ["Bow and arrow", "Mace", "Spear", "Sword"],
+    "correctAnswer": 2,
+    "explanation": "Yudhishthira was skilled with the spear, though he was more known for his wisdom and righteousness than his martial prowess."
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "question": "What virtue was Yudhishthira most famous for?",
+    "options": ["Strength", "Truthfulness", "Anger", "Strategy"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira was renowned for his unbreakable commitment to truth (satya) and dharma."
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "question": "What did Yudhishthira lose first in the game of dice?",
+    "options": ["His brothers", "His kingdom", "Himself", "Gold"],
+    "correctAnswer": 1,
+    "explanation": "In the fateful dice game, Yudhishthira first lost his kingdom."
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "question": "Who challenged Yudhishthira to the game of dice?",
+    "options": ["Duryodhana", "Shakuni", "Karna", "Bhishma"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni, Duryodhana's uncle, challenged Yudhishthira to the rigged dice game."
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "question": "Which brother did Yudhishthira lose in the dice game?",
+    "options": ["Arjuna", "Bhima", "Nakula", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "One by one, Yudhishthira lost all four of his brothers in the dice game."
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "question": "Who did Yudhishthira lose after his brothers in the dice game?",
+    "options": ["Draupadi", "His spear", "His chariot", "Karna"],
+    "correctAnswer": 0,
+    "explanation": "Yudhishthira even staked and lost Draupadi in the dice game, leading to her humiliation."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "What punishment did Yudhishthira and his brothers receive after losing the dice game?",
+    "options": ["Death", "Exile for 13 years", "Slavery", "House arrest"],
+    "correctAnswer": 1,
+    "explanation": "The Pandavas were sentenced to 13 years of exile, with the last year spent incognito."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "During the exile, what was Yudhishthira’s main occupation?",
+    "options": ["Hunting", "Performing sacrifices", "Teaching dharma", "Practicing archery"],
+    "correctAnswer": 2,
+    "explanation": "Yudhishthira often engaged in discussions on dharma, righteousness, and philosophy during the exile."
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "question": "What disguise did Yudhishthira take in King Virata’s court?",
+    "options": ["Cook", "Courtier", "Dancer", "Cowherd"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira disguised himself as Kanka, a courtier and advisor to King Virata."
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "question": "Who saved Yudhishthira when he was captured by Duryodhana during the war?",
+    "options": ["Arjuna", "Bhima", "Krishna", "Abhimanyu"],
+    "correctAnswer": 0,
+    "explanation": "Arjuna rescued Yudhishthira when he was captured during the Kurukshetra war."
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "question": "Which uncle of Yudhishthira served as commander of the Kaurava army?",
+    "options": ["Vidura", "Shalya", "Bhishma", "Kripa"],
+    "correctAnswer": 2,
+    "explanation": "Bhishma, their grandsire, initially served as the commander of the Kaurava army."
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "question": "What was Yudhishthira’s role in the Rajasuya sacrifice?",
+    "options": ["Chief sacrificer", "Protector of the horse", "Conqueror of the south", "Advisor"],
+    "correctAnswer": 0,
+    "explanation": "Yudhishthira was the chief sacrificer (yajamana) during the Rajasuya Yagna."
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "question": "Which sage advised Yudhishthira after the dice game defeat?",
+    "options": ["Vyasa", "Narada", "Markandeya", "Vashishta"],
+    "correctAnswer": 0,
+    "explanation": "Vyasa consoled Yudhishthira and advised him after the disastrous dice game."
+  },
+  {
+    "id": 18,
+    "level": 2,
+    "question": "Which question did the Yaksha ask Yudhishthira by the lake?",
+    "options": ["What is dharma?", "What is the greatest wonder?", "What is wealth?", "Who is the strongest?"],
+    "correctAnswer": 1,
+    "explanation": "The Yaksha asked Yudhishthira many questions, including the famous one: 'What is the greatest wonder of the world?'"
+  },
+  {
+    "id": 19,
+    "level": 2,
+    "question": "What answer did Yudhishthira give to the Yaksha’s question on the greatest wonder?",
+    "options": ["Mountains", "Rivers", "That people see death daily yet think they are immortal", "The sun"],
+    "correctAnswer": 2,
+    "explanation": "Yudhishthira answered that the greatest wonder is that people witness death daily, yet live as if they are immortal."
+  },
+  {
+    "id": 20,
+    "level": 2,
+    "question": "Why did the Yaksha finally revive the Pandavas?",
+    "options": ["Because Yudhishthira was truthful", "Because Yudhishthira was his son", "Because Yudhishthira was strong", "Because Yudhishthira chose Nakula"],
+    "correctAnswer": 3,
+    "explanation": "Yudhishthira chose Nakula over Bhima and Arjuna to be revived, showing fairness. The Yaksha, who was Yama, then revived them all."
+  },
+  {
+    "id": 21,
+    "level": 3,
+    "question": "Why did Yudhishthira choose Nakula to be revived first?",
+    "options": ["Because he was youngest", "Because he was most skilled", "To be fair to both Kunti and Madri", "Because he loved him most"],
+    "correctAnswer": 2,
+    "explanation": "Yudhishthira wanted one son of Kunti and one son of Madri to survive, showing fairness and dharma."
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "question": "Whose blessing made Yudhishthira never lose his calm?",
+    "options": ["Vyasa", "Draupadi", "Krishna", "Yama"],
+    "correctAnswer": 3,
+    "explanation": "Being the son of Yama (Dharma), Yudhishthira was blessed with calmness and patience."
+  },
+  {
+    "id": 23,
+    "level": 3,
+    "question": "What was Yudhishthira’s main duty during the Kurukshetra war?",
+    "options": ["Fighting in frontlines", "Maintaining morale and dharma", "Commanding the army", "Protecting Arjuna"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira’s main duty was to maintain dharma and morale among the Pandavas."
+  },
+  {
+    "id": 24,
+    "level": 3,
+    "question": "Who wounded Yudhishthira so badly in battle that he had to retreat?",
+    "options": ["Karna", "Drona", "Ashwatthama", "Shalya"],
+    "correctAnswer": 0,
+    "explanation": "Karna wounded Yudhishthira severely during the war."
+  },
+  {
+    "id": 25,
+    "level": 3,
+    "question": "What did Yudhishthira regret most in his life?",
+    "options": ["Not killing Karna", "Losing the dice game", "Not protecting Draupadi", "Not being king earlier"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira regretted his weakness for gambling, which led to the dice game disaster."
+  },
+  {
+    "id": 26,
+    "level": 3,
+    "question": "What was Yudhishthira’s chariot symbol?",
+    "options": ["Lion", "Moon", "Golden spear", "None (it floated 4 inches above ground)"],
+    "correctAnswer": 3,
+    "explanation": "Yudhishthira’s chariot was so pure that it floated 4 inches above the ground until he told a half-truth to Drona."
+  },
+  {
+    "id": 27,
+    "level": 3,
+    "question": "What half-truth did Yudhishthira speak in the war?",
+    "options": ["Ashwatthama is dead (but it was the elephant)", "Karna is dead (but unconscious)", "Bhishma is slain (but alive)", "Duryodhana is dead (but hiding)"],
+    "correctAnswer": 0,
+    "explanation": "To demoralize Drona, Yudhishthira said 'Ashwatthama is dead,' not clarifying it was an elephant, not Drona's son."
+  },
+  {
+    "id": 28,
+    "level": 3,
+    "question": "What happened to Yudhishthira’s chariot after the half-truth?",
+    "options": ["It broke", "It touched the ground", "It disappeared", "It flew higher"],
+    "correctAnswer": 1,
+    "explanation": "After speaking the half-truth, Yudhishthira’s chariot, which had floated above ground, touched the earth."
+  },
+  {
+    "id": 29,
+    "level": 3,
+    "question": "Which brother was most upset with Yudhishthira after the dice game?",
+    "options": ["Arjuna", "Bhima", "Nakula", "Sahadeva"],
+    "correctAnswer": 1,
+    "explanation": "Bhima was furious at Yudhishthira for staking Draupadi and swore vengeance on the Kauravas."
+  },
+  {
+    "id": 30,
+    "level": 3,
+    "question": "Which divine figure often protected Yudhishthira?",
+    "options": ["Agni", "Indra", "Krishna", "Hanuman"],
+    "correctAnswer": 2,
+    "explanation": "Krishna guided and protected Yudhishthira throughout the Mahabharata."
+  },
+  {
+    "id": 31,
+    "level": 4,
+    "question": "What was Yudhishthira’s view on war?",
+    "options": ["He saw it as necessary for dharma", "He loved war", "He wanted revenge", "He avoided all battles"],
+    "correctAnswer": 0,
+    "explanation": "Yudhishthira accepted war only as a means to restore dharma, not for revenge or ambition."
+  },
+  {
+    "id": 32,
+    "level": 4,
+    "question": "What was Yudhishthira’s main challenge as king?",
+    "options": ["Maintaining dharma", "Collecting taxes", "Expanding the kingdom", "Keeping peace with Gandhara"],
+    "correctAnswer": 0,
+    "explanation": "Yudhishthira’s challenge was always to uphold dharma while ruling."
+  },
+  {
+    "id": 33,
+    "level": 4,
+    "question": "How did Yudhishthira feel after the war ended?",
+    "options": ["Happy", "Guilty and sorrowful", "Proud", "Indifferent"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira was deeply sorrowful at the destruction and felt guilty even after victory."
+  },
+  {
+    "id": 34,
+    "level": 4,
+    "question": "Who convinced Yudhishthira to take the throne after the war?",
+    "options": ["Krishna", "Bhima", "Arjuna", "Vyasa"],
+    "correctAnswer": 0,
+    "explanation": "Krishna advised and convinced Yudhishthira to take up kingship after the war."
+  },
+  {
+    "id": 35,
+    "level": 4,
+    "question": "What sacrifice did Yudhishthira perform after the war?",
+    "options": ["Rajasuya", "Ashwamedha", "Putrakameshti", "Agnihotra"],
+    "correctAnswer": 1,
+    "explanation": "To re-establish dharma and sovereignty, Yudhishthira performed the Ashwamedha sacrifice."
+  },
+  {
+    "id": 36,
+    "level": 4,
+    "question": "What was Yudhishthira’s opinion on truth?",
+    "options": ["Truth is higher than dharma", "Dharma and truth are equal", "Truth must be bent", "Truth is irrelevant"],
+    "correctAnswer": 0,
+    "explanation": "Yudhishthira valued truth even above dharma, except when guided otherwise by Krishna."
+  },
+  {
+    "id": 37,
+    "level": 4,
+    "question": "Which sage guided Yudhishthira in governance?",
+    "options": ["Vyasa", "Narada", "Bhrigu", "Vidura"],
+    "correctAnswer": 3,
+    "explanation": "Vidura, known for his wisdom, advised Yudhishthira in governance and dharma."
+  },
+  {
+    "id": 38,
+    "level": 4,
+    "question": "What does Yudhishthira symbolize in the Mahabharata?",
+    "options": ["Strength", "Truth and dharma", "Anger", "Strategy"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira symbolizes the eternal struggle to uphold truth and dharma."
+  },
+  {
+    "id": 39,
+    "level": 4,
+    "question": "What happened to Yudhishthira at the end of his life?",
+    "options": ["He was cursed", "He ascended to heaven in his mortal body", "He disappeared", "He was reborn"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira ascended to heaven in his mortal body, a rare honor."
+  },
+  {
+    "id": 40,
+    "level": 4,
+    "question": "What lesson does Yudhishthira’s life teach?",
+    "options": ["Strength wins wars", "Truth and dharma are supreme", "Never gamble", "Kingship is easy"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira’s life teaches that truth and dharma are supreme, even above power and wealth."
+  },
+  {
+    "id": 6,
+    "level": 2,
+    "question": "What was Yudhishthira's greatest weakness?",
+    "options": ["Anger", "Gambling", "Pride", "Greed"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira's weakness for gambling led to the disastrous dice game where he lost everything, including Draupadi."
+  },
+  {
+    "id": 7,
+    "level": 2,
+    "question": "Who challenged Yudhishthira to the game of dice?",
+    "options": ["Duryodhana", "Shakuni", "Karna", "Bhishma"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni, Duryodhana's uncle, challenged Yudhishthira to the rigged dice game."
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "question": "What punishment did the Pandavas receive after losing the dice game?",
+    "options": ["Death", "Exile for 13 years", "Slavery", "House arrest"],
+    "correctAnswer": 1,
+    "explanation": "The Pandavas were sentenced to 13 years of exile, with the last year spent incognito."
+  },
+  {
+    "id": 9,
+    "level": 3,
+    "question": "What disguise did Yudhishthira take in King Virata's court?",
+    "options": ["Cook", "Courtier", "Dancer", "Cowherd"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira disguised himself as Kanka, a courtier and advisor to King Virata."
+  },
+  {
+    "id": 10,
+    "level": 3,
+    "question": "Who was the Yaksha who tested Yudhishthira?",
+    "options": ["Indra", "Yama (his father)", "Kubera", "Varuna"],
+    "correctAnswer": 1,
+    "explanation": "The Yaksha was actually Yama, Yudhishthira's divine father, testing his wisdom and dharma."
+  }
+]

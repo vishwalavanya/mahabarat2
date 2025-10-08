@@ -1,0 +1,39 @@
+{
+  "ui": {
+    "enterWorld": "ప్రపంచంలోకి ప్రవేశించండి",
+    "skip": "దాటవేయి",
+    "next": "తరువాత",
+    "playAgain": "మళ్లీ ప్లే చేయండి",
+    "selectCharacter": "మీ పాత్రను ఎంచుకోండి",
+    "playAs": "గా ఆడండి",
+    "learnMore": "మరింత తెలుసుకోండి",
+    "back": "వెనుకకు",
+    "level": "స్థాయి",
+    "completed": "పూర్తయింది",
+    "biography": "జీవిత చరిత్ర",
+    "skills": "నైపుణ్యాలు",
+    "traits": "లక్షణాలు"
+  },
+  "characters": {
+    "yudhishthira": "యుధిష్ఠిర",
+    "bhima": "భీమ",
+    "arjuna": "అర్జున",
+    "nakula": "నకుల",
+    "sahadeva": "సహదేవ",
+    "krishna": "కృష్ణ",
+    "karna": "కర్ణ",
+    "duryodhana": "దుర్యోధన",
+    "bhishma": "భీష్మ",
+    "drona": "ద్రోణ",
+    "ashwatthama": "అశ్వత్థామ",
+    "ghatotkacha": "ఘటోత్కచ",
+    "abhimanyu": "అభిమన్యు",
+    "draupadi": "ద్రౌపది",
+    "kunti": "కుంతి",
+    "gandhari": "గాంధారి",
+    "shakuni": "శకుని",
+    "jarasandha": "జరాసంధ",
+    "ekalavya": "ఏకలవ్య",
+    "barbarika": "బర్బరీక"
+  }
+}

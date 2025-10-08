@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Arjuna’s divine father?",
+    "options": ["Indra", "Vayu", "Surya", "Dharma"],
+    "correctAnswer": 0,
+    "explanation": "Arjuna was born to Kunti through the blessings of Indra, king of the gods."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "Who was Arjuna’s mother?",
+    "options": ["Kunti", "Madri", "Gandhari", "Satyavati"],
+    "correctAnswer": 0,
+    "explanation": "Kunti invoked Indra to conceive Arjuna."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "Which weapon was Arjuna most skilled with?",
+    "options": ["Mace", "Bow and arrow", "Spear", "Sword"],
+    "correctAnswer": 1,
+    "explanation": "Arjuna was the greatest archer among the Pandavas."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "Who was Arjuna’s charioteer in the Kurukshetra war?",
+    "options": ["Krishna", "Bhima", "Nakula", "Yudhishthira"],
+    "correctAnswer": 0,
+    "explanation": "Lord Krishna served as Arjuna’s charioteer and guide."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "Which bow did Arjuna wield?",
+    "options": ["Gandiva", "Vijaya", "Sharanga", "Pinaka"],
+    "correctAnswer": 0,
+    "explanation": "Arjuna wielded the celestial bow Gandiva."
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "question": "Who taught Arjuna archery?",
+    "options": ["Drona", "Parashurama", "Kripa", "Bhishma"],
+    "correctAnswer": 0,
+    "explanation": "Dronacharya was Arjuna’s guru in warfare and archery."
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "question": "Which Pandava brother was Arjuna closest to?",
+    "options": ["Bhima", "Yudhishthira", "Nakula", "Sahadeva"],
+    "correctAnswer": 2,
+    "explanation": "Arjuna shared a close bond with his twin brother Nakula."
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "question": "Who was Arjuna’s wife?",
+    "options": ["Draupadi", "Subhadra", "Uttara", "Chitrangada"],
+    "correctAnswer": 0,
+    "explanation": "Arjuna married Draupadi along with his brothers."
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "question": "Who was Arjuna’s son with Subhadra?",
+    "options": ["Abhimanyu", "Srutakarma", "Niramitra", "Prativindhya"],
+    "correctAnswer": 0,
+    "explanation": "Abhimanyu was Arjuna’s son with Subhadra."
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "question": "Which Puranic character did Arjuna befriend during exile?",
+    "options": ["Hanuman", "Garuda", "Narasimha", "Narasimha"],
+    "correctAnswer": 0,
+    "explanation": "Arjuna met and befriended Hanuman on his way to Himavat."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "What incognito name did Arjuna adopt?",
+    "options": ["Brihannala", "Ballava", "Kanka", "Sairandhri"],
+    "correctAnswer": 0,
+    "explanation": "Arjuna disguised as Brihannala, a eunuch teacher of dance."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "Who awarded Arjuna the Gandiva bow?",
+    "options": ["Agni", "Indra", "Varuna", "Yama"],
+    "correctAnswer": 0,
+    "explanation": "The fire-god Agni presented Gandiva to Arjuna."
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "question": "Which weapon did Arjuna use to kill Bhishma?",
+    "options": ["Shikhandi’s help", "Vajra", "Pashupata", "Narayanastra"],
+    "correctAnswer": 0,
+    "explanation": "Arjuna used Shikhandi’s presence to blind Bhishma and defeat him."
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "question": "During Saugandhika flower quest, who guided Arjuna?",
+    "options": ["Krishna", "Hanuman", "Bhima", "Subhadra"],
+    "correctAnswer": 1,
+    "explanation": "Hanuman guided Arjuna to the Saugandhika flower."
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "question": "Which son of Arjuna died in womb by Ashwatthama’s weapon?",
+    "options": ["Parikshit", "Abhimanyu", "Ghatotkacha", "Duhshala"],
+    "correctAnswer": 0,
+    "explanation": "Ashwatthama’s missile targeted the unborn Parikshit but failed."
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "question": "Who taught Arjuna the Pasupata Astra?",
+    "options": ["Shiva", "Vishnu", "Brahma", "Indra"],
+    "correctAnswer": 0,
+    "explanation": "Shiva imparted the Pashupata weapon to Arjuna."
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "question": "What vow did Arjuna take before war?",
+    "options": ["Kill Karna", "Protect Krishna", "Spoil dice game", "Uphold dharma"],
+    "correctAnswer": 3,
+    "explanation": "Arjuna vowed to fight for righteousness (dharma)."
+  },
+  {
+    "id": 18,
+    "level": 2,
+    "question": "Which contest did Arjuna win to marry Draupadi?",
+    "options": ["Swayamvara archery", "Chariot race", "Mace fight", "Wrestling"],
+    "correctAnswer": 0,
+    "explanation": "Arjuna hit the fish-eye target in Draupadi’s swayamvara."
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "question": "What moral crisis did Arjuna face on the battlefield?",
+    "options": ["Refusal to fight", "Doubt of duty", "Fear of death", "Anger at Krishna"],
+    "correctAnswer": 1,
+    "explanation": "Arjuna hesitated to fight his kin, leading to Bhagavad Gita."
+  },
+  {
+    "id": 20,
+    "level": 3,
+    "question": "What does Krishna reveal to Arjuna in Gita?",
+    "options": ["Vishvarupa", "Surya form", "Indra’s form", "Shiva form"],
+    "correctAnswer": 0,
+    "explanation": "Krishna reveals his cosmic (Vishvarupa) form."
+  },
+  {
+    "id": 21,
+    "level": 3,
+    "question": "Which weapon did Arjuna refrain from using?",
+    "options": ["Brahmastra", "Vajra", "Pasupata", "Narayanastra"],
+    "correctAnswer": 0,
+    "explanation": "He did not use Brahmastra to avoid mutual destruction."
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "question": "Who revived Abhimanyu after defeat of Jayadratha?",
+    "options": ["Krishna", "Arjuna", "Bhima", "Yudhishthira"],
+    "correctAnswer": 1,
+    "explanation": "Arjuna used celestial weapons to avenge Abhimanyu."
+  },
+  {
+    "id": 23,
+    "level": 3,
+    "question": "What divine chariot did Arjuna receive?",
+    "options": ["Sudarshana", "Rathantara", "Gandiva", "None"],
+    "correctAnswer": 1,
+    "explanation": "He acquired the flying chariot Rathantara in heaven."
+  },
+  {
+    "id": 24,
+    "level": 3,
+    "question": "Which serpent secretly aided Arjuna?",
+    "options": ["Takshaka", "Vasuki", "Shesha", "Kaliya"],
+    "correctAnswer": 2,
+    "explanation": "Shesha granted Arjuna refuge and strength in battle."
+  },
+  {
+    "id": 25,
+    "level": 4,
+    "question": "What philosophical theme does Arjuna’s crisis illustrate?",
+    "options": ["Duty vs. emotion", "Power vs. wisdom", "Loyalty vs. pride", "Honor vs. wealth"],
+    "correctAnswer": 0,
+    "explanation": "His dilemma centers on duty (dharma) versus personal emotion."
+  },
+  {
+    "id": 26,
+    "level": 4,
+    "question": "How does Arjuna exemplify karma yoga?",
+    "options": ["Selfless action", "Renunciation", "Study", "Devotion"],
+    "correctAnswer": 0,
+    "explanation": "Arjuna acts without attachment to results, per Gita."
+  },
+  {
+    "id": 27,
+    "level": 4,
+    "question": "Which curse affected Arjuna’s celestial form?",
+    "options": ["Partial loss of vision", "Loss of chariot", "Humility curse", "Forgot mantras"],
+    "correctAnswer": 0,
+    "explanation": "A curse temporarily dimmed his divine sight."
+  },
+  {
+    "id": 28,
+    "level": 4,
+    "question": "What lesson did Arjuna learn from Virata’s battle?",
+    "options": ["Humility", "Strategy", "Patience", "Sacrifice"],
+    "correctAnswer": 0,
+    "explanation": "He learned humility serving as dance teacher before battle."
+  },
+  {
+    "id": 29,
+    "level": 4,
+    "question": "What quality made Arjuna unique among warriors?",
+    "options": ["Archery alone", "Moral conscience", "Strength", "Wealth"],
+    "correctAnswer": 1,
+    "explanation": "Arjuna balanced martial skill with deep ethical awareness."
+  },
+  {
+    "id": 30,
+    "level": 5,
+    "question": "How did Arjuna’s choices shape Pandava destiny?",
+    "options": ["Strategic victories", "Moral leadership", "Political alliances", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His valor, ethics, and alliances defined their reign."
+  },
+  {
+    "id": 31,
+    "level": 5,
+    "question": "What does Arjuna’s friendship with Krishna symbolize?",
+    "options": ["Divine guidance", "Political pact", "Brothership", "Fatherhood"],
+    "correctAnswer": 0,
+    "explanation": "Their bond exemplifies divine-human collaboration."
+  },
+  {
+    "id": 32,
+    "level": 5,
+    "question": "What moral paradox does Arjuna face?",
+    "options": ["Killing kin for dharma", "Desire vs. duty", "Pride vs. humility", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "He embodies multiple paradoxes central to Gita."
+  },
+  {
+    "id": 33,
+    "level": 6,
+    "question": "How does Arjuna represent the ideal hero?",
+    "options": ["Skilled warrior", "Ethical leader", "Devotee", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "He integrates skill, ethics, and devotion."
+  },
+  {
+    "id": 34,
+    "level": 6,
+    "question": "What internal conflict defines Arjuna?",
+    "options": ["Action vs. renunciation", "Strength vs. weakness", "Duty vs. comfort", "All of the above"],
+    "correctAnswer": 0,
+    "explanation": "His struggle is between action aligned with dharma and renunciation."
+  },
+  {
+    "id": 35,
+    "level": 6,
+    "question": "What lesson does Arjuna’s story teach about leadership?",
+    "options": ["Moral courage", "Strategic vision", "Compassion", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "He demonstrates leadership built on ethics, strategy, and empathy."
+  },
+  {
+    "id": 36,
+    "level": 7,
+    "question": "Which philosophical concept is central to Arjuna’s journey?",
+    "options": ["Atman", "Moksha", "Dharma", "Karma"],
+    "correctAnswer": 2,
+    "explanation": "Dharma (righteous duty) is the core theme of his arc."
+  },
+  {
+    "id": 37,
+    "level": 7,
+    "question": "How does Arjuna’s humility contrast with Bhima?",
+    "options": ["Restraint vs. strength", "Wisdom vs. impulsiveness", "Devotion vs. aggression", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "He balances power with humility, unlike Bhima’s direct force."
+  },
+  {
+    "id": 38,
+    "level": 7,
+    "question": "What does Arjuna’s exile signify philosophically?",
+    "options": ["Purification", "Isolation", "Penitence", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His exile serves as purification through hardship and reflection."
+  },
+  {
+    "id": 39,
+    "level": 8,
+    "question": "How does Arjuna’s final act reflect his evolution?",
+    "options": ["Teaches Gita", "Renounces kingdom", "Continues fighting", "Becomes recluse"],
+    "correctAnswer": 1,
+    "explanation": "He renounces his throne, embodying renunciation after duty."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "What is the ultimate philosophical takeaway from Arjuna’s life?",
+    "options": ["Duty transcends self", "Power needs wisdom", "Devotion anchors action", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "His legacy teaches that righteous duty guided by wisdom and devotion leads to true fulfillment."
+  }
+]

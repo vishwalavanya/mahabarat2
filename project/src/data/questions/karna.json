@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Karna's divine father?",
+    "options": ["Indra", "Surya", "Vayu", "Dharma"],
+    "correctAnswer": 1,
+    "explanation": "Karna was born to Kunti through the blessings of Surya, the Sun God."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "Who was Karna's birth mother?",
+    "options": ["Kunti", "Gandhari", "Madri", "Radha"],
+    "correctAnswer": 0,
+    "explanation": "Kunti gave birth to Karna before her marriage when she invoked Surya using Durvasa's mantra."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "Who raised Karna as their son?",
+    "options": ["Adhiratha and Radha", "Dhritarashtra and Gandhari", "Pandu and Kunti", "Vasudeva and Devaki"],
+    "correctAnswer": 0,
+    "explanation": "Karna was found and raised by Adhiratha, a charioteer, and his wife Radha."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "What caste was Karna considered to belong to?",
+    "options": ["Kshatriya", "Brahmin", "Suta (Charioteer)", "Vaishya"],
+    "correctAnswer": 2,
+    "explanation": "Karna was raised by a charioteer family and was considered a Suta by society."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "Who became Karna's closest friend and ally?",
+    "options": ["Arjuna", "Duryodhana", "Bhishma", "Drona"],
+    "correctAnswer": 1,
+    "explanation": "Duryodhana befriended Karna and made him the king of Anga, earning his lifelong loyalty."
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "question": "Which kingdom did Duryodhana grant to Karna?",
+    "options": ["Magadha", "Anga", "Kalinga", "Kosala"],
+    "correctAnswer": 1,
+    "explanation": "Duryodhana crowned Karna as the king of Anga to enable him to participate in competitions."
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "question": "What was Karna born with?",
+    "options": ["Divine bow", "Natural armor and earrings", "Golden crown", "Magic sword"],
+    "correctAnswer": 1,
+    "explanation": "Karna was born with divine armor (Kavach) and earrings (Kundalas) that made him invincible."
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "question": "Who was Karna's greatest rival?",
+    "options": ["Bhima", "Arjuna", "Yudhishthira", "Nakula"],
+    "correctAnswer": 1,
+    "explanation": "Arjuna was Karna's primary rival in archery and warfare throughout the epic."
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "question": "What weapon was Karna most skilled with?",
+    "options": ["Sword", "Mace", "Bow and arrows", "Spear"],
+    "correctAnswer": 2,
+    "explanation": "Karna was an exceptional archer, considered equal to or even superior to Arjuna."
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "question": "Who killed Karna in the Kurukshetra war?",
+    "options": ["Bhima", "Arjuna", "Krishna", "Yudhishthira"],
+    "correctAnswer": 1,
+    "explanation": "Arjuna killed Karna on the 17th day of the Kurukshetra war."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "Who was Karna's wife?",
+    "options": ["Vrushali", "Draupadi", "Subhadra", "Chitrangada"],
+    "correctAnswer": 0,
+    "explanation": "Karna married Vrushali, who belonged to the Suta caste like his adoptive family."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "How many sons did Karna have?",
+    "options": ["One", "Two", "Three", "Nine"],
+    "correctAnswer": 3,
+    "explanation": "Karna had nine sons, with Vrishaketu being the most famous among them."
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "question": "Which of Karna's sons survived the Kurukshetra war?",
+    "options": ["Vrishaketu", "Chitrasena", "Satyasena", "Sushena"],
+    "correctAnswer": 0,
+    "explanation": "Vrishaketu was the only son of Karna who survived the war."
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "question": "Who tricked Karna into giving away his armor and earrings?",
+    "options": ["Krishna", "Indra", "Arjuna", "Yudhishthira"],
+    "correctAnswer": 1,
+    "explanation": "Indra disguised himself as a Brahmin and asked for Karna's armor and earrings as charity."
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "question": "What did Indra give Karna in return for his armor?",
+    "options": ["Divine bow", "Vasavi Shakti", "Golden chariot", "Celestial horse"],
+    "correctAnswer": 1,
+    "explanation": "Indra gave Karna the Vasavi Shakti, a divine weapon that could kill anyone but could be used only once."
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "question": "On whom did Karna use the Vasavi Shakti?",
+    "options": ["Arjuna", "Ghatotkacha", "Bhima", "Abhimanyu"],
+    "correctAnswer": 1,
+    "explanation": "Karna used the Vasavi Shakti to kill Ghatotkacha, Bhima's rakshasa son."
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "question": "Who was Karna's charioteer during the final battle?",
+    "options": ["Shalya", "Kripa", "Ashwatthama", "Duryodhana"],
+    "correctAnswer": 0,
+    "explanation": "Shalya, king of Madra and Nakula-Sahadeva's maternal uncle, was Karna's charioteer."
+  },
+  {
+    "id": 18,
+    "level": 2,
+    "question": "What was the condition of Karna's death?",
+    "options": ["He was unarmed", "His chariot wheel was stuck", "He was sleeping", "He was wounded by others first"],
+    "correctAnswer": 1,
+    "explanation": "Karna was killed when his chariot wheel got stuck in the mud and he was trying to lift it."
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "question": "Who revealed Karna's true identity to him?",
+    "options": ["Krishna", "Kunti", "Surya", "Vyasa"],
+    "correctAnswer": 1,
+    "explanation": "Kunti revealed to Karna that she was his mother before the Kurukshetra war."
+  },
+  {
+    "id": 20,
+    "level": 3,
+    "question": "What was Karna's response when Kunti asked him to join the Pandavas?",
+    "options": ["He agreed immediately", "He refused but promised not to kill four Pandavas", "He became angry", "He asked for time to think"],
+    "correctAnswer": 1,
+    "explanation": "Karna refused to abandon Duryodhana but promised Kunti he would not kill any Pandava except Arjuna."
+  },
+  {
+    "id": 21,
+    "level": 3,
+    "question": "Who was Karna's guru in archery?",
+    "options": ["Drona", "Parashurama", "Kripa", "Bhishma"],
+    "correctAnswer": 1,
+    "explanation": "Karna learned archery from Parashurama by concealing his true identity."
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "question": "Why did Parashurama curse Karna?",
+    "options": ["For lying about his identity", "For being disrespectful", "For stealing knowledge", "For fighting Brahmins"],
+    "correctAnswer": 0,
+    "explanation": "Parashurama cursed Karna when he discovered that Karna had lied about being a Brahmin."
+  },
+  {
+    "id": 23,
+    "level": 3,
+    "question": "What was Parashurama's curse?",
+    "options": ["Karna would die young", "Karna would forget his knowledge when he needed it most", "Karna would lose his strength", "Karna would be defeated by Arjuna"],
+    "correctAnswer": 1,
+    "explanation": "Parashurama cursed that Karna would forget his most powerful knowledge when he needed it most."
+  },
+  {
+    "id": 24,
+    "level": 3,
+    "question": "Who else cursed Karna and why?",
+    "options": ["A Brahmin whose cow Karna accidentally killed", "Bhishma for his arrogance", "Drona for refusing training", "Krishna for supporting Duryodhana"],
+    "correctAnswer": 0,
+    "explanation": "A Brahmin cursed Karna that his chariot wheel would get stuck when he most needed it, after Karna accidentally killed the Brahmin's cow."
+  },
+  {
+    "id": 25,
+    "level": 4,
+    "question": "What quality made Karna legendary?",
+    "options": ["His archery skills", "His generosity", "His loyalty", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Karna was legendary for his exceptional archery, unmatched generosity, and unwavering loyalty."
+  },
+  {
+    "id": 26,
+    "level": 4,
+    "question": "Why did Drona refuse to teach Karna?",
+    "options": ["Karna was not skilled enough", "Drona only taught princes", "Karna belonged to the Suta caste", "Drona was busy"],
+    "correctAnswer": 2,
+    "explanation": "Drona refused to teach Karna because he believed Karna was from the Suta (charioteer) caste."
+  },
+  {
+    "id": 27,
+    "level": 4,
+    "question": "How did Karna prove his generosity?",
+    "options": ["By giving away his armor to Indra", "By donating to Brahmins daily", "By never refusing anyone who asked for charity", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Karna was famous for never refusing charity, including giving away his protective armor to Indra."
+  },
+  {
+    "id": 28,
+    "level": 4,
+    "question": "What was Karna's title?",
+    "options": ["Radheya", "Suryaputra", "Daanveer", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Karna was called Radheya (son of Radha), Suryaputra (son of Surya), and Daanveer (great donor)."
+  },
+  {
+    "id": 29,
+    "level": 4,
+    "question": "Who convinced Krishna about Karna's nobility?",
+    "options": ["Arjuna", "Yudhishthira", "Krishna realized it himself", "Bhishma"],
+    "correctAnswer": 2,
+    "explanation": "Krishna himself recognized Karna's nobility and later praised his qualities after his death."
+  },
+  {
+    "id": 30,
+    "level": 5,
+    "question": "What was Karna's greatest weakness?",
+    "options": ["His pride", "His loyalty to Duryodhana", "His anger", "His low birth"],
+    "correctAnswer": 1,
+    "explanation": "Karna's unwavering loyalty to Duryodhana, despite knowing right from wrong, was his greatest weakness."
+  },
+  {
+    "id": 31,
+    "level": 5,
+    "question": "How did Karna's social status affect his life?",
+    "options": ["It made him humble", "It made him bitter and angry", "It made him prove himself constantly", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Karna's perceived low birth made him humble yet bitter, constantly striving to prove his worth."
+  },
+  {
+    "id": 32,
+    "level": 5,
+    "question": "What was Karna's attitude towards the Pandavas before learning the truth?",
+    "options": ["He respected them", "He was neutral", "He hated them", "He wanted to befriend them"],
+    "correctAnswer": 2,
+    "explanation": "Karna harbored deep hatred for the Pandavas, especially Arjuna, due to constant humiliation."
+  },
+  {
+    "id": 33,
+    "level": 5,
+    "question": "How did Karna's knowledge of his true parentage affect him?",
+    "options": ["He immediately switched sides", "He became confused but remained loyal to Duryodhana", "He became proud", "He became depressed"],
+    "correctAnswer": 1,
+    "explanation": "Learning about his true parentage confused Karna, but he remained loyal to Duryodhana out of gratitude."
+  },
+  {
+    "id": 34,
+    "level": 6,
+    "question": "What does Karna symbolize in the Mahabharata?",
+    "options": ["The struggle against social discrimination", "The conflict between loyalty and dharma", "The tragedy of circumstances", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Karna represents the struggle against social barriers, loyalty versus righteousness, and tragic circumstances."
+  },
+  {
+    "id": 35,
+    "level": 6,
+    "question": "How was Karna different from other warriors?",
+    "options": ["He fought for friendship, not righteousness", "He overcame his birth disadvantage", "He was generous to a fault", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Karna was unique in fighting for personal loyalty rather than dharma, overcoming birth disadvantages through merit."
+  },
+  {
+    "id": 36,
+    "level": 6,
+    "question": "What was Karna's view of dharma?",
+    "options": ["Dharma is following rules", "Dharma is loyalty to friends", "Dharma is complex and situational", "Dharma doesn't matter"],
+    "correctAnswer": 1,
+    "explanation": "For Karna, dharma meant loyalty and gratitude to those who supported him, especially Duryodhana."
+  },
+  {
+    "id": 37,
+    "level": 7,
+    "question": "How did Krishna view Karna after his death?",
+    "options": ["As an enemy who deserved his fate", "As a noble warrior who chose the wrong side", "As equal to Arjuna in skill", "As a victim of circumstances"],
+    "correctAnswer": 1,
+    "explanation": "Krishna praised Karna as a great warrior and generous soul who unfortunately chose the wrong side due to loyalty."
+  },
+  {
+    "id": 38,
+    "level": 7,
+    "question": "What lesson does Karna's life teach about society?",
+    "options": ["Birth determines destiny", "Merit can overcome social barriers", "Society often judges by birth, not character", "Loyalty is more important than righteousness"],
+    "correctAnswer": 2,
+    "explanation": "Karna's story shows how society often judges people by birth rather than character and merit."
+  },
+  {
+    "id": 39,
+    "level": 7,
+    "question": "How does Karna contrast with Arjuna?",
+    "options": ["Karna earned everything, Arjuna was born privileged", "Karna was loyal to friends, Arjuna to dharma", "Karna was generous, Arjuna was dutiful", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Karna and Arjuna represent contrasting paths - earned versus given privilege, personal loyalty versus dharmic duty."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "What is Karna's ultimate legacy?",
+    "options": ["A great warrior who died for loyalty", "A symbol of fighting social discrimination", "A tragic hero whose circumstances shaped his choices", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Karna's legacy encompasses his greatness as a warrior, his fight against social barriers, and his tragic heroism shaped by circumstances."
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question": "Who was Gandhari's father?",
+    "options": ["Subala", "Shakuni", "Dhritarashtra", "Bhishma"],
+    "correctAnswer": 0,
+    "explanation": "Gandhari was the daughter of King Subala of Gandhara kingdom."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "question": "Which kingdom was Gandhari the princess of?",
+    "options": ["Hastinapura", "Gandhara", "Kuru", "Madra"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari was the princess of Gandhara kingdom, which is why she was called Gandhari."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "question": "Who was Gandhari's husband?",
+    "options": ["Pandu", "Dhritarashtra", "Vidura", "Bhishma"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari married Dhritarashtra, the blind king of Hastinapura."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "question": "Why did Gandhari blindfold herself?",
+    "options": ["She was born blind", "To share her husband's blindness", "As penance", "Due to a curse"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari blindfolded herself to share the disability of her blind husband Dhritarashtra."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "question": "Who was Gandhari's brother?",
+    "options": ["Shakuni", "Duryodhana", "Yuyutsu", "Karna"],
+    "correctAnswer": 0,
+    "explanation": "Shakuni, the mastermind behind the dice game, was Gandhari's brother."
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "question": "How many sons did Gandhari have?",
+    "options": ["One hundred", "Ninety-nine", "One hundred and one", "Fifty"],
+    "correctAnswer": 0,
+    "explanation": "Gandhari gave birth to one hundred sons, known as the Kauravas."
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "question": "Who was Gandhari's eldest son?",
+    "options": ["Duryodhana", "Dushasana", "Vikarna", "Yuyutsu"],
+    "correctAnswer": 0,
+    "explanation": "Duryodhana was Gandhari's eldest son and the leader of the Kauravas."
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "question": "Did Gandhari have any daughters?",
+    "options": ["No", "Yes, one daughter", "Yes, two daughters", "Yes, three daughters"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari had one daughter named Dushala, in addition to her hundred sons."
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "question": "What was the name of Gandhari's daughter?",
+    "options": ["Dushala", "Subhadra", "Chitrangada", "Uttara"],
+    "correctAnswer": 0,
+    "explanation": "Dushala was Gandhari's only daughter among her hundred and one children."
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "question": "Which sage helped in the birth of Gandhari's children?",
+    "options": ["Vyasa", "Durvasa", "Vasishtha", "Parashurama"],
+    "correctAnswer": 0,
+    "explanation": "Sage Vyasa helped divide Gandhari's flesh mass into 101 parts, leading to the birth of her children."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "question": "How long was Gandhari pregnant?",
+    "options": ["Nine months", "One year", "Two years", "Three years"],
+    "correctAnswer": 2,
+    "explanation": "Gandhari was pregnant for two years before giving birth to a mass of flesh."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "question": "What did Gandhari give birth to initially?",
+    "options": ["Hundred children", "A mass of flesh", "Twins", "A single child"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari initially gave birth to a hard mass of flesh, which was later divided by Vyasa."
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "question": "Who was born first among the Kauravas and Pandavas?",
+    "options": ["Duryodhana", "Yudhishthira", "Both born simultaneously", "Bhima"],
+    "correctAnswer": 1,
+    "explanation": "Yudhishthira was born before Duryodhana, making him the rightful heir to the throne."
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "question": "What was Gandhari's reaction when she heard the cries of jackals at Duryodhana's birth?",
+    "options": ["She was happy", "She wanted to abandon the child", "She ignored the omens", "She consulted sages"],
+    "correctAnswer": 1,
+    "explanation": "Hearing inauspicious omens at Duryodhana's birth, Gandhari wanted to abandon him, but was stopped by Dhritarashtra."
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "question": "Which son of Gandhari often disagreed with Duryodhana?",
+    "options": ["Dushasana", "Vikarna", "Jayadratha", "Karna"],
+    "correctAnswer": 1,
+    "explanation": "Vikarna, one of Gandhari's sons, often opposed Duryodhana's unrighteous actions."
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "question": "Who married Gandhari's daughter Dushala?",
+    "options": ["Jayadratha", "Karna", "Ashwatthama", "Kritavarma"],
+    "correctAnswer": 0,
+    "explanation": "Dushala married Jayadratha, the king of Sindhu."
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "question": "How did Gandhari usually address Krishna?",
+    "options": ["With respect", "With devotion", "With anger and blame", "With indifference"],
+    "correctAnswer": 2,
+    "explanation": "Gandhari often blamed Krishna for not preventing the war and the destruction of her family."
+  },
+  {
+    "id": 18,
+    "level": 2,
+    "question": "What was Gandhari's attitude towards the Pandavas?",
+    "options": ["She loved them equally", "She favored her own sons", "She was neutral", "She hated them"],
+    "correctAnswer": 1,
+    "explanation": "Though she knew dharma, Gandhari's maternal love made her favor her own sons over the Pandavas."
+  },
+  {
+    "id": 19,
+    "level": 3,
+    "question": "What curse did Gandhari give to Krishna after the war?",
+    "options": ["His death", "Destruction of Yadava dynasty", "Loss of his powers", "Exile from Dwarka"],
+    "correctAnswer": 1,
+    "explanation": "In her grief, Gandhari cursed Krishna that his Yadava dynasty would destroy itself, just as her sons had."
+  },
+  {
+    "id": 20,
+    "level": 3,
+    "question": "How did Krishna respond to Gandhari's curse?",
+    "options": ["He got angry", "He accepted it gracefully", "He cursed her back", "He tried to reverse it"],
+    "correctAnswer": 1,
+    "explanation": "Krishna accepted Gandhari's curse gracefully, understanding her grief as a mother."
+  },
+  {
+    "id": 21,
+    "level": 3,
+    "question": "What was Gandhari's relationship with Kunti?",
+    "options": ["They were sisters", "They were rivals", "They were co-sisters-in-law", "They were friends"],
+    "correctAnswer": 2,
+    "explanation": "Gandhari and Kunti were co-sisters-in-law, both enduring the tragedy of their sons' war."
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "question": "How did Gandhari die?",
+    "options": ["In the palace", "In a forest fire", "In battle", "Of old age"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari died in a forest fire along with Dhritarashtra and Kunti during their penance in the forest."
+  },
+  {
+    "id": 23,
+    "level": 3,
+    "question": "Who convinced Gandhari to leave Hastinapura for the forest?",
+    "options": ["Vyasa", "Vidura", "Krishna", "Her own decision"],
+    "correctAnswer": 0,
+    "explanation": "Sage Vyasa counseled Dhritarashtra and Gandhari to renounce worldly life and go to the forest."
+  },
+  {
+    "id": 24,
+    "level": 3,
+    "question": "What was Gandhari's special power?",
+    "options": ["Divine vision", "Immense strength", "Power of her penance", "Ability to curse"],
+    "correctAnswer": 2,
+    "explanation": "Gandhari's years of penance and devotion gave her immense spiritual power."
+  },
+  {
+    "id": 25,
+    "level": 4,
+    "question": "How did Gandhari's blindfolding affect her spiritually?",
+    "options": ["It made her weak", "It increased her inner vision and spiritual power", "It made her bitter", "It had no effect"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari's self-imposed blindness enhanced her spiritual vision and inner strength."
+  },
+  {
+    "id": 26,
+    "level": 4,
+    "question": "What was Gandhari's dilemma throughout the epic?",
+    "options": ["Choosing between husband and sons", "Knowing right but supporting wrong", "Wealth versus dharma", "War versus peace"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari often knew what was right but supported her sons out of maternal love, despite their wrongdoings."
+  },
+  {
+    "id": 27,
+    "level": 4,
+    "question": "How did Gandhari react to Draupadi's humiliation?",
+    "options": ["She supported it", "She remained silent", "She protested against it", "She left the court"],
+    "correctAnswer": 1,
+    "explanation": "Though Gandhari knew the disrobing was wrong, she remained silent, torn between dharma and maternal loyalty."
+  },
+  {
+    "id": 28,
+    "level": 4,
+    "question": "What was Gandhari's greatest strength?",
+    "options": ["Her beauty", "Her devotion and sacrifice", "Her political wisdom", "Her magical powers"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari's greatest strength was her devotion to her husband and her capacity for sacrifice."
+  },
+  {
+    "id": 29,
+    "level": 4,
+    "question": "How did Gandhari's brother Shakuni influence her life?",
+    "options": ["He supported her always", "He caused destruction through revenge", "He guided her spiritually", "He protected her sons"],
+    "correctAnswer": 1,
+    "explanation": "Shakuni's desire for revenge against the Kuru dynasty led to the destruction of Gandhari's hundred sons."
+  },
+  {
+    "id": 30,
+    "level": 5,
+    "question": "What does Gandhari represent in the Mahabharata?",
+    "options": ["Blind love", "Maternal sacrifice", "Conflict between duty and love", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Gandhari represents blind devotion, maternal sacrifice, and the eternal conflict between duty and personal love."
+  },
+  {
+    "id": 31,
+    "level": 5,
+    "question": "How did Gandhari's choices affect the Kurukshetra war?",
+    "options": ["She prevented it", "Her silence enabled her sons' wrongdoings", "She actively supported war", "She had no influence"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari's silence in the face of her sons' adharmic acts indirectly contributed to the war."
+  },
+  {
+    "id": 32,
+    "level": 5,
+    "question": "What was Gandhari's relationship with dharma?",
+    "options": ["She ignored it", "She knew it but couldn't always follow it", "She strictly followed it", "She opposed it"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari understood dharma but was often unable to act on it due to her maternal bias."
+  },
+  {
+    "id": 33,
+    "level": 5,
+    "question": "How did Gandhari's penance benefit her?",
+    "options": ["It gave her sons victory", "It increased her spiritual power", "It made her wealthy", "It gave her divine vision"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari's years of penance and self-imposed hardship increased her spiritual power significantly."
+  },
+  {
+    "id": 34,
+    "level": 6,
+    "question": "What lesson does Gandhari's character teach?",
+    "options": ["Blind devotion can be destructive", "Mothers should always support their children", "Sacrifice is always rewarded", "Power brings happiness"],
+    "correctAnswer": 0,
+    "explanation": "Gandhari's story shows how blind devotion and inability to correct loved ones can lead to destruction."
+  },
+  {
+    "id": 35,
+    "level": 6,
+    "question": "How does Gandhari contrast with Kunti?",
+    "options": ["Gandhari was blind, Kunti could see", "Gandhari enabled wrong, Kunti guided right", "Gandhari was passive, Kunti was active", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Gandhari and Kunti represent contrasting approaches to motherhood - enabling versus guiding their children."
+  },
+  {
+    "id": 36,
+    "level": 6,
+    "question": "What was the tragedy of Gandhari's life?",
+    "options": ["Her blindness", "Loss of all her children", "Her unhappy marriage", "Her brother's betrayal"],
+    "correctAnswer": 1,
+    "explanation": "Gandhari's greatest tragedy was losing all hundred sons and her daughter's husband in the war."
+  },
+  {
+    "id": 37,
+    "level": 7,
+    "question": "What does Gandhari's blindfolding symbolize?",
+    "options": ["Physical disability", "Spiritual sacrifice", "Blind love and devotion", "Self-imposed ignorance"],
+    "correctAnswer": 2,
+    "explanation": "Gandhari's blindfolding symbolizes blind love, devotion, and the willingness to share in a loved one's suffering."
+  },
+  {
+    "id": 38,
+    "level": 7,
+    "question": "How did Gandhari's grief manifest after the war?",
+    "options": ["Silent suffering", "Anger at Krishna", "Cursing the victors", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Gandhari's grief manifested as silent suffering, anger at Krishna, and curses born from a mother's pain."
+  },
+  {
+    "id": 39,
+    "level": 7,
+    "question": "What philosophical question does Gandhari's life raise?",
+    "options": ["Should love be blind?", "Is unconditional support always right?", "Can devotion justify enabling wrong?", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Gandhari's life raises deep questions about the nature of love, support, and the consequences of blind devotion."
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "question": "What is Gandhari's ultimate legacy?",
+    "options": ["A devoted wife", "A grieving mother", "A symbol of blind love's consequences", "All of the above"],
+    "correctAnswer": 3,
+    "explanation": "Gandhari's legacy encompasses devoted wifehood, motherhood's tragedy, and the complex consequences of unconditional love."
+  }
+]
